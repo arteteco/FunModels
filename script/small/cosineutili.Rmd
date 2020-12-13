@@ -1,0 +1,42 @@
+---
+title: "scripts"
+author: "Arteteco"
+date: "11/9/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(rBLAST)
+library(sp)
+library(seqinr)
+library(tidyverse)
+library(rentrez)
+library(BiocManager)
+library(Biostrings)
+
+setwd("~/Documents/uni/tesi/RData/")
+```
+
+
+```{r uid}
+
+# get the uid, give the code as input to the function
+
+getuid("MK557803")
+
+getuid <-function(x){
+  r<-entrez_summary(db="nuccore", id=x)
+  print(r$uid)
+}
+```
+
+```{r coordinate duffy}
+
+prabs <- read.csv("preabs.csv")
+
+
+```
+
+

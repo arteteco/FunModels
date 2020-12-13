@@ -1,0 +1,5 @@
+[ID: 0853156320]
+run	arithmetic_mean	harmonic_mean	values_discarded
+1	-4.590068e+03	-4.701836e+03	no
+2	-4.603042e+03	-4.713297e+03	no
+all	-4.590761e+03	-4.712603e+03	no

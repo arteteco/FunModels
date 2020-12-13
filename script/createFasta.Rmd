@@ -1,0 +1,157 @@
+---
+title: "dbprep"
+author: "Manuel Moscariello"
+date: "11/10/2020"
+output: html_document
+---
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = "~/Documents/uni/tesi/data/init/")
+library(rBLAST)
+library(sp)
+library(seqinr)
+library(tidyverse)
+library(rentrez)
+library(BiocManager)
+library(Biostrings)
+```
+
+```{r read}
+# Load the data file. 
+
+raw <- read.csv("filtered.csv", stringsAsFactors = FALSE)
+
+```
+
+```{r prepare for a blast}
+
+### CREATE THE DATABASE
+
+# We are going to pull from entrez the sequence for each genbank ID present in the data frame and add them to a fasta file. If the sequence is present already, is going to skip.
+
+# get all the  unique genbank codes
+
+codes <- unique(raw$GBAN)
+
+#mostly for cosmetic reason during the output
+
+TotCodes<-length(codes)
+
+# TODO: addToFasta exception handling to run this script unsupervised. At the moment it stops, and has to be manually launched again. It starts where it left off though (kinda)
+
+# Cosmetic reason, to give a nice output
+
+
+
+# LOOP INSERTING INTO A DATA FRAME
+
+# In case you are starting from scratch
+
+fasseq <- data.frame(GBAN="", FASTA="")
+
+# If you already have a df
+#fasseq <- read.csv("CompleteGBANFAS.csv")
+
+fasseq <- mutate_if(fasseq,is.factor, as.character)
+
+
+x<-0
+for (c in codes) {
+# let's check we didn't already added the sequence. If it's not present, we'll add it
+  
+  if (c %in%fasseq$GBAN){
+  x<-x+1
+    warning(paste(x, " on ", TotCodes, " done  ", c, " already present, skipping\n"))
+    } 
+  else{
+  x<-x+1
+  # get the uid
+  r<-entrez_summary(db="nuccore", id=c)
+  
+  # get the fasta for the corresponding uid
+  r_fasta <- entrez_fetch(db="nuccore", id=r$uid, rettype="fasta")
+  
+  toAdd <- c(c, r_fasta)
+  # add it to the file
+  fasseq<-rbind(fasseq, toAdd)
+    warning(paste(x, " on ", TotCodes, " done  ", c, "added\n"))
+  # wait a few seconds to avoid an "API rate limit exceeded". 
+  Sys.sleep(10) 
+  }
+}
+  
+
+
+    
+# remove the .1 from the sequence name using some old school regex
+
+seqCorrect <- mutate(fasseq, fas = gsub("^([^\\.]+)(\\.[0-9])", "\\1", FASTA)) %>% select(-FASTA)
+
+
+# export it all as a csv
+
+write.csv(seqCorrect, "7fam.csv", row.names = F)
+
+write(seqCorrect$fas, "7fam.fasta")
+
+    
+
+```
+
+```{r}
+# LOOP WITH DIRECT WRITING ON THE FILE
+for (c in codes) {
+# let's check we didn't already added the sequence. If it's not present, we'll add it
+  
+  if (any(grepl(c, readLines("seq.fasta")))){
+  x<-x+1
+    warning(paste(x, " on ", TotCodes, " done  ", c, " already present, skipping\n"))
+    } 
+  else{
+  x<-x+1
+  # get the uid
+  r<-entrez_summary(db="nuccore", id=c)
+  
+  # get the fasta for the corresponding uid
+  r_fasta <- entrez_fetch(db="nuccore", id=r$uid, rettype="fasta")
+  
+  # add it to the file
+  write(r_fasta, file="seq.fasta", append=TRUE)
+    warning(paste(x, " on ", TotCodes, " done  ", c, "added\n"))
+  # wait a few seconds to avoid an "API rate limit exceeded". 
+  Sys.sleep(10) 
+  }
+}
+
+      # CHECK to see if everything is alright. This step can be skipped.
+# every genbank code should appear once in the whole document.
+
+fasfile <- readLines("seq.fasta")
+
+
+countCheck <- function(x){
+  n<- sum(str_count(fasfile, x))
+  if(n!= 1){
+  l<-paste(x, "appears", n, "times")
+  print(l)
+  }
+}
+
+countCheck(codes)
+
+countCheck <- function(x){
+  n<- str_count(fasfile, "JN683858")
+  View(n)
+  if(n!= 1){
+  l<-paste(x, "appears", n, "times")
+  print(l)
+  }
+}
+sequences <- gsub("^([^\\.]+)(\\.[0-9])", "\\1", fasseq$FASTA)
+
+  
+
+write(sequences, "seq.fasta")
+
+```

@@ -1,0 +1,14 @@
+mxram 200 ;
+nstates DNA ;
+nstates NOGAPS ;
+procedure data/data.tnt ;
+log data/log.txt ;
+hold 1000 ;
+mult=replic 10;
+bbreak=tbr ;
+nelsen * ;
+taxname= ;
+export - data/result.nex ;
+resample replications 200 ;
+export - data/bs.nex ;
+quit
