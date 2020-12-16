@@ -1,11 +1,6 @@
-# trees/
+Description  of all data files in the folder. May still lack some of them
 
-where all the fies for phylogenetic data is
-
-## trees/7fam
-
-Where the data for the seven families is
-
+What I mean by 7 families is data filtered to only use seven familioes of fungi: 
 
 # cluster/
 
@@ -16,6 +11,16 @@ Where the files for the clustering are
 * **cluster/cluster.csv** contains just 2 columns: cluster (as cluster1, cluster2 etc) and gene as genbank code
 * **otus.csv** has the original dataset + the otus names (both as `cluster1` and as `seb1`, `seb2` ecc. This is the first 3 letters of the family name and an index number
 * **7FamCluster.csv** is a data frame with 2 columns: cluster number and genbank code
+
+
+# trees/
+
+where all the fies for phylogenetic data is
+
+## trees/7fam
+
+Where the data for the seven families is
+
 
 
 # init/

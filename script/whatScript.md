@@ -9,3 +9,5 @@
 * **mergeEnvValues.R** merges the values of the presence-absence csvs. Each of the file has a last row
 * **splitPresAbs.R** takes the complete presence absence matrix with the environmental variables and splits it by family
 * **lumpPresAbs.R** lumps together OTUs of the same family by sampling point, so that if any OTU for that family was detected there it would give a `1`
+* **NMDSSingle.R** makes an NMDS on a dataset and outputs the graph with the end result
+* **NMDSLoop.R** loops all CSVs in a folder and does what `NMDSSingle.R` does (is the same script in a for loop)
