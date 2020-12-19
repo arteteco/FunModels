@@ -5,10 +5,10 @@ library(tidyverse)
 library(psych)
 library(caret)
 library(ggbiplot)
-setwd("~/tesi/FunModels/data/matrix/split/")
+setwd("~/tesi/FunModels/data/matrix/")
 
-dataPath <- "the.csv"
-plotOut <- paste("pca/", substr(dataPath, 1,3), ".png", sep="")
+dataPath <- "lump.csv"
+plotOut <- paste(substr(dataPath, 1,3), ".png", sep="")
 
 
 
