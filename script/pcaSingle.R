@@ -33,7 +33,7 @@ if (length(nearZeroVar(dataDist)) > 0) {
 
 
 train <- dataDist
-pc <- prcomp(train[,-1],center = T,scale. = F)
+pc <- prcomp(train[,-2],center = T,scale. = F)
 
 pc
 
