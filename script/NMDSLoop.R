@@ -69,6 +69,7 @@ plot(dataMDS, "sites", type="t")
 colv <- c("green", "gray0", "red", "blue")
 
 symv <- c(21,22,23,24)
+
 png(outPath)
 plot(dataMDS, main=outTitle)
 
