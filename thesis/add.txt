@@ -1,0 +1,41 @@
+\documentclass[a4paper,12pt, openany, oneside]{scrbook}
+\addtokomafont{disposition}{\rmfamily}
+\title{Mycorrhizas}
+\author{Manuel Moscariello}
+\usepackage[a4paper,left=2.5cm,right=2cm,top=2.3cm,bottom=2.3cm, footskip=-2cm]{geometry}
+\renewcommand{\familydefault}{\rmdefault}
+
+
+
+% Page number on the right
+\usepackage{fancyhdr}
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[R]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}%
+}
+
+
+
+% chapters shoud start in the same page
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\scr@startchapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
+
+
+
+\begin{document} 
+
+\font\calibri=cmr12 at 40pt
+\title{{\calibri Mycorrhizas}}
+\author{{\Huge Arteteco}}
+\maketitle
+
+\newpage
+
+\tableofcontents 
+
+\newpage
