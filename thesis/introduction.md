@@ -1,7 +1,3 @@
-# Introduction
-
-
-
 ## What do we know about OMFs taxonomy
 
 While the relationship between orchids and Orchid Micorrhizal fungi (OMF from now) are known since over a century (Bernard N, 1899; Selosse et al. 2011; M. C. Rayner, 1927; Rasmussen, 2002) and the mechanisms of this symbiosis are beginning to be properly understood, the knowledge as to who those OMFs are from a taxonomical standpoint are still in full evolution.
@@ -29,7 +25,14 @@ Both OMFs and orchids vary in their degree of specialization, from a highly spec
 Many parts of the world are dramatically undersampled though (e.g. all the African continent and most of the tropical areas of the planet), so conclusions are often drew from a limited amount of very specific data.
 
 
+## Hypothesis
 
+The hypothesis tested in the present work is twofold and can be summarized in the following questions
+* **Do OMFs taxa from different families occour in different habitats**? We know that different families tend to be more common in different areas but the relative importance of the environmental factors, biotical and abiotical, is still in large part unclear.
+* **Do OMFs belonging to the same family occur in different habitats?** Even if different families occour in different habitats, what's the distribution of each family, and what are the most important factors that may enable us to predict their presence?
+
+
+## Phylogenetic relationships
 
 
 
