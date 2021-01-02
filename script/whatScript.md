@@ -11,3 +11,52 @@
 * **lumpPresAbs.R** lumps together OTUs of the same family by sampling point, so that if any OTU for that family was detected there it would give a `1`
 * **NMDSSingle.R** makes an NMDS on a dataset and outputs the graph with the end result
 * **NMDSLoop.R** loops all CSVs in a folder and does what `NMDSSingle.R` does (is the same script in a for loop)
+
+
+# Analysis paramters
+
+## MUSCLE
+
+
+
+
+
+## MrBayes
+
+This are the parameters used for the MrBayes run. The file can be found in `data/trees/7fam/mrbayes/7fam.nex`
+
+```
+set autoclose=yes nowarn=yes;
+lset nst=2 rates=gamma;
+unlink statefreq=(all) revmat=(all) shape=(all) pinvar=(all);
+mcmcp ngen= 1000000 relburnin=yes burninfrac=0.25 printfreq=1000  samplefreq=1000 nchains=4 savebrlens=yes;
+mcmc;
+sumt;
+```
+
+## TNT
+
+This are the parameters used for the TNT run. The file can be found at `data/trees/7fam/pars/istruzioni.tnt`
+
+```
+mxram 200 ;
+nstates DNA ;
+nstates NOGAPS ;
+procedure data/data.tnt ;
+log data/log.txt ;
+hold 1000 ;
+mult=replic 10;
+bbreak=tbr ;
+nelsen * ;
+taxname= ;
+export - data/result.nex ;
+resample replications 200 ;
+export - data/bs.nex ;
+```
+
+## CD-HIT
+
+Full command can be found on `script/cdhit.R`
+```
+-c 0.98 -n 10 -l 11  -r 0 -G 1 -g 1 -b 20 -l 10 -s 0.0 -aL 0.0 -aS 0.0 -T 4 -M 32000
+```
