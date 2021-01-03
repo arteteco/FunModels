@@ -1,10 +1,10 @@
 \contentsline {part}{\numberline {I}Introduction}{3}{}%
 \contentsline {chapter}{\numberline {1}What do we know about OMFs taxonomy}{4}{}%
-\contentsline {chapter}{\numberline {2}Distribution of OMFs}{4}{}%
+\contentsline {chapter}{\numberline {2}Distribution and Ecology of OMFs}{4}{}%
 \contentsline {chapter}{\numberline {3}Hypothesis}{5}{}%
 \contentsline {chapter}{\numberline {4}Importance of phylogenetic relationships}{5}{}%
 \contentsline {chapter}{\numberline {5}Selected Variables}{5}{}%
-\contentsline {chapter}{\numberline {6}Performed analysis}{6}{}%
+\contentsline {chapter}{\numberline {6}Performed analysis}{5}{}%
 \contentsline {section}{\numberline {6.1}Phylogenetic analysis}{6}{}%
 \contentsline {section}{\numberline {6.2}Multivariate analysis}{6}{}%
 \contentsline {subsection}{\numberline {6.2.1}Setting the data up}{6}{}%

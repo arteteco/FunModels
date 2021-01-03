@@ -5,6 +5,7 @@
 \usepackage[a4paper,left=2.5cm,right=2cm,top=2.3cm,bottom=2.3cm, footskip=-2cm]{geometry}
 \renewcommand{\familydefault}{\rmdefault}
 
+\usepackage{graphicx}
 
 
 % Page number on the right
@@ -31,7 +32,7 @@
 
 \font\calibri=cmr12 at 40pt
 \title{{\calibri Mycorrhizas}}
-\author{{\Huge Arteteco}}
+\author{{\Huge Manuel Moscariello}}
 \maketitle
 
 \newpage
