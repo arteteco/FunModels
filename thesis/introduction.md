@@ -15,6 +15,8 @@ The ancestors of fungi are believed to be simple aquatic forms with flagellated 
 
 ----
 
+Aggiungi: https://science.sciencemag.org/content/289/5486/1884.full
+
 The ancestsimple aquatic forms with flagellated spores, similar to members of the extant phylum Chytridiomycota (chytrids)
 
 Most of the early fungi were aquatic, resembling what we may now call *Chytridio* (even though this clade was found to be paraphyletic)
