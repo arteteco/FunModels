@@ -3,7 +3,11 @@
 \title{Mycorrhizas}
 \author{Manuel Moscariello}
 \usepackage[a4paper,left=2.5cm,right=2cm,top=2.3cm,bottom=2.3cm, footskip=-2cm]{geometry}
+
 \renewcommand{\familydefault}{\rmdefault}
+
+% Line spacing
+\renewcommand{\baselinestretch}{1.5} 
 
 \usepackage{graphicx}
 
