@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: abbrvnat.bst
+Database file #1: bibliography.bib
+Warning--empty journal in trappe1987
+You've used 31 entries,
+            2773 wiz_defined-function locations,
+            844 strings with 11988 characters,
+and the built_in function-call counts, 18962 in all, are:
+= -- 1687
+> -- 1443
+< -- 20
++ -- 487
+- -- 456
+* -- 1788
+:= -- 3029
+add.period$ -- 138
+call.type$ -- 31
+change.case$ -- 243
+chr.to.int$ -- 31
+cite$ -- 63
+duplicate$ -- 639
+empty$ -- 1240
+format.name$ -- 503
+if$ -- 3835
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 32
+newline$ -- 207
+num.names$ -- 124
+pop$ -- 416
+preamble$ -- 1
+purify$ -- 214
+quote$ -- 0
+skip$ -- 536
+stack$ -- 0
+substring$ -- 763
+swap$ -- 59
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 331
+warning$ -- 1
+while$ -- 145
+width$ -- 0
+write$ -- 495
+(There was 1 warning)

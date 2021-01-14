@@ -31,6 +31,7 @@
 \bibliographystyle{abbrvnat}
 \setcitestyle{round,authoryear}
 
+
 % Add bibliography to index
 
 \usepackage{tocbibind}
