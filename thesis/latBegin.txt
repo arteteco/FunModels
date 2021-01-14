@@ -9,8 +9,12 @@
 % Line spacing
 \renewcommand{\baselinestretch}{1.5} 
 
+% images support
 \usepackage{graphicx}
 
+% New line instead of indentation
+
+\usepackage[parfill]{parskip}
 
 % Page number on the right
 \usepackage{fancyhdr}
@@ -21,7 +25,15 @@
   \renewcommand{\footrulewidth}{0pt}%
 }
 
+% bibliography with bibtex
 
+\usepackage{natbib}
+\bibliographystyle{abbrvnat}
+\setcitestyle{round,authoryear}
+
+% Add bibliography to index
+
+\usepackage{tocbibind}
 
 % chapters shoud start in the same page
 
@@ -44,3 +56,4 @@
 \tableofcontents 
 
 \newpage
+
