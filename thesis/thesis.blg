@@ -3,46 +3,50 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 The style file: abbrvnat.bst
 Database file #1: bibliography.bib
+Warning--I didn't find a database entry for "girlanda2011"
+Warning--to sort, need author or key in CITES-1
+Warning--empty year in CITES-1
+Warning--there's a number but no volume in rayner1927
 Warning--empty journal in trappe1987
-You've used 31 entries,
+You've used 60 entries,
             2773 wiz_defined-function locations,
-            844 strings with 11988 characters,
-and the built_in function-call counts, 18962 in all, are:
-= -- 1687
-> -- 1443
-< -- 20
-+ -- 487
-- -- 456
-* -- 1788
-:= -- 3029
-add.period$ -- 138
-call.type$ -- 31
-change.case$ -- 243
-chr.to.int$ -- 31
-cite$ -- 63
-duplicate$ -- 639
-empty$ -- 1240
-format.name$ -- 503
-if$ -- 3835
+            1055 strings with 18892 characters,
+and the built_in function-call counts, 34939 in all, are:
+= -- 3177
+> -- 2464
+< -- 36
++ -- 833
+- -- 773
+* -- 3241
+:= -- 5531
+add.period$ -- 273
+call.type$ -- 60
+change.case$ -- 434
+chr.to.int$ -- 60
+cite$ -- 125
+duplicate$ -- 1262
+empty$ -- 2408
+format.name$ -- 858
+if$ -- 7141
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 32
-newline$ -- 207
-num.names$ -- 124
-pop$ -- 416
+missing$ -- 61
+newline$ -- 397
+num.names$ -- 240
+pop$ -- 732
 preamble$ -- 1
-purify$ -- 214
+purify$ -- 377
 quote$ -- 0
-skip$ -- 536
+skip$ -- 1012
 stack$ -- 0
-substring$ -- 763
-swap$ -- 59
-text.length$ -- 3
+substring$ -- 1414
+swap$ -- 125
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 331
-warning$ -- 1
-while$ -- 145
+type$ -- 645
+warning$ -- 4
+while$ -- 282
 width$ -- 0
-write$ -- 495
-(There was 1 warning)
+write$ -- 965
+(There were 5 warnings)

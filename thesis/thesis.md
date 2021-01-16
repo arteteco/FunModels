@@ -6,3 +6,6 @@ BibTeX: bibliography
 
 {{introduction.md}}
 
+# Materials and methods
+
+{{materials.md}}

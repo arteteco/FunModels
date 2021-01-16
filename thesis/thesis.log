@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  14 JAN 2021 22:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  16 JAN 2021 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -353,7 +353,11 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-) (/home/tombom/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/home/tombom/.TinyTeX/texmf-dist/tex/latex/underscore/underscore.sty
+Package: underscore 2006/09/13
+LaTeX Info: Redefining \_ on input line 42.
+)
+(/home/tombom/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count192
 \l__pdf_internal_box=\box49
@@ -361,24 +365,24 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 (./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-Package scrbase Info: activating english \contentsname on input line 48.
-Package scrbase Info: activating english \listfigurename on input line 48.
-Package scrbase Info: activating english \listtablename on input line 48.
-Package tocbasic Info: usage of `tocbibind' detected on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+Package scrbase Info: activating english \contentsname on input line 51.
+Package scrbase Info: activating english \listfigurename on input line 51.
+Package scrbase Info: activating english \listtablename on input line 51.
+Package tocbasic Info: usage of `tocbibind' detected on input line 51.
 
 
 Package tocbasic Warning: `tocbibind' redefinition of `\tableofcontents'
@@ -434,24 +438,50 @@ Package tocbasic Warning: `tocbibind' redefinition of `\listoftables'
 
 (/home/tombom/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/home/tombom/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/home/tombom/.TinyTeX/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/home/tombom/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/home/tombom/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/home/tombom/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 54.
+(Font)              <17.28> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 54.
+(Font)              <12> on input line 57.
 
 [1
 
 
 
 {/home/tombom/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./thesis.toc)
+(./thesis.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+)
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
 
@@ -475,13 +505,22 @@ chapter 1.
 chapter 2.
 [5] [6]
 chapter 3.
-(./latEnd.txt (./thesis.bbl [7] [8] [9]
-Underfull \hbox (badness 1152) in paragraph at lines 170--173
+[7] [8]
+
+Package natbib Warning: Citation `girlanda2011' on page 9 undefined on input li
+ne 65.
+
+(./latEnd.txt (./thesis.bbl [9] [10] [11] [12]
+Underfull \hbox (badness 1152) in paragraph at lines 307--310
 []\OT1/cmr/m/n/12 L. Meschinelli.  \OT1/cmr/m/it/12 Fun-go-rum Fos-sil-ium Om-n
 ium: Hu-cusque Cog-n-i-to-rum Icono-graphia\OT1/cmr/m/n/12 .
  []
 
-[10]) [11]
+[13] [14] [15])
+
+Package natbib Warning: There were undefined citations.
+
+[16]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
@@ -490,24 +529,24 @@ LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
  (./thesis.aux) ) ) 
 Here is how much of TeX's memory you used:
- 5625 strings out of 481331
- 109435 string characters out of 5917526
- 528416 words of memory out of 5000000
- 22452 multiletter control sequences out of 15000+600000
- 408710 words of font info for 44 fonts, out of 8000000 for 9000
+ 5878 strings out of 481331
+ 114639 string characters out of 5917526
+ 533686 words of memory out of 5000000
+ 22679 multiletter control sequences out of 15000+600000
+ 410862 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 110i,11n,113p,10674b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
-c/tcrm1200.600pk></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-7.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.p
-fb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-
-Output written on thesis.pdf (11 pages, 95114 bytes).
+ 110i,10n,113p,10674b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
+</home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbxti10.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+17.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.
+pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
+>
+Output written on thesis.pdf (16 pages, 120350 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 80 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

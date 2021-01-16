@@ -6,7 +6,7 @@
     * mycorrhizas and their importance in the ecosystem, including symbiosis with plants, alae, insects, role s patogen
     * Orchids and conservation efforts (red lists, conservation status etc)
     * Importance of OMFs in the orchids life cycle and conservation
-    * trends in the studies for OMFs (graphs of publications per month
+    * trends in the studies for OMFs (graphs of publications per month)
 during time, search etc)
     * Goals of the analysis done and contextualization
 * Materials and methods

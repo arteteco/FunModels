@@ -43,6 +43,9 @@
 \patchcmd{\scr@startchapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
 \makeatother
 
+% solve the issue with underscores in the DOI
+\usepackage[strings]{underscore}
+
 
 
 \begin{document} 

@@ -1,6 +1,7 @@
 \contentsline {chapter}{Contents}{2}{}%
 \contentsline {part}{\numberline {I}Introduction}{3}{}%
 \contentsline {chapter}{\numberline {1}Our closest cousins}{4}{}%
-\contentsline {chapter}{\numberline {2}The ancient lovers}{5}{}%
+\contentsline {chapter}{\numberline {2}Ancient lovers}{5}{}%
 \contentsline {chapter}{\numberline {3}Orchids}{7}{}%
-\contentsline {chapter}{Bibliography}{8}{}%
+\contentsline {section}{\numberline {3.1}Distribution and ecology of OMFs}{8}{}%
+\contentsline {chapter}{Bibliography}{10}{}%
