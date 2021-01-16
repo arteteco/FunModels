@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  16 JAN 2021 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  16 JAN 2021 18:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -505,22 +505,38 @@ chapter 1.
 chapter 2.
 [5] [6]
 chapter 3.
-[7] [8]
+[7] [8] [9]
+part II.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 70.
+[10
 
-Package natbib Warning: Citation `girlanda2011' on page 9 undefined on input li
-ne 65.
+]
+chapter 4.
+chapter 5.
+[11]
+chapter 6.
+[12]
+<images/clust.png, id=48, 526.96875pt x 325.215pt>
+File: images/clust.png Graphic file (type png)
+<use images/clust.png>
+Package pdftex.def Info: images/clust.png  used on input line 111.
+(pdftex.def)             Requested size: 469.4912pt x 289.74313pt.
+ (./latEnd.txt (./thesis.bbl [13 <./images/clust.png (PNG copy)>] [14]
+[15] [16] [17]
+Underfull \hbox (badness 1796) in paragraph at lines 357--363
+\OT1/cmr/m/n/12 Alaska.  \OT1/cmr/m/it/12 Ecol-ogy\OT1/cmr/m/n/12 , 83(1):104--
+115, 2002.  ISSN 1939-9170.  doi: 10.1890/0012-
+ []
 
-(./latEnd.txt (./thesis.bbl [9] [10] [11] [12]
-Underfull \hbox (badness 1152) in paragraph at lines 307--310
+
+Underfull \hbox (badness 1152) in paragraph at lines 395--398
 []\OT1/cmr/m/n/12 L. Meschinelli.  \OT1/cmr/m/it/12 Fun-go-rum Fos-sil-ium Om-n
 ium: Hu-cusque Cog-n-i-to-rum Icono-graphia\OT1/cmr/m/n/12 .
  []
 
-[13] [14] [15])
-
-Package natbib Warning: There were undefined citations.
-
-[16]
+[18] [19] [20]) [21]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
@@ -529,24 +545,25 @@ LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
  (./thesis.aux) ) ) 
 Here is how much of TeX's memory you used:
- 5878 strings out of 481331
- 114639 string characters out of 5917526
- 533686 words of memory out of 5000000
- 22679 multiletter control sequences out of 15000+600000
- 410862 words of font info for 51 fonts, out of 8000000 for 9000
+ 5941 strings out of 481331
+ 115714 string characters out of 5917526
+ 533657 words of memory out of 5000000
+ 22737 multiletter control sequences out of 15000+600000
+ 411368 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 110i,10n,113p,10674b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
-</home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbxti10.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-17.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.
-pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
->
-Output written on thesis.pdf (16 pages, 120350 bytes).
+ 110i,10n,113p,10674b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
+c/tcrm1200.600pk></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbxti10.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
+.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pf
+b></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><
+/home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis.pdf (21 pages, 145669 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 106 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -17,7 +17,7 @@ In order to understand the distribution and ecology of the OMFs we need to get a
 
 ### Phylogenetic analysis
 
-The phylogenetic analysis were performed on the sequences deposited by the various papers included in the database.
+The phylogenetic analysis were performed on the sequences deposited by the papers included in the database.
 The **primers** used were mainly ITS1F, ITS4, ITS3 and ITS4OF, all targeting **regions** between the 18S rRNA subunit and the 28S rRNA subunit, including the Internal Transcribed Spacers (ITS hereafter) 1 and ITS 2. Those primers were usually universal for *Basidiomycota* or in some cases more specific for *Tulasnellaceae* (like ITS4tul) or other taxa.
 Sequence `DQ520100` from *Tremiscus helvelloides* was used as outgroup.
 

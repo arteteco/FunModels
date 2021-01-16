@@ -1,4 +1,4 @@
-\begin{thebibliography}{60}
+\begin{thebibliography}{75}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -8,6 +8,35 @@
 \bibitem[CIT()]{CITES-1}
 Appendices | {{CITES}}.
 \newblock https://cites.org/eng/app/appendices.php.
+
+\bibitem[esd()]{esdac}
+{{ESDAC}} - {{European Commission}}.
+\newblock https://esdac.jrc.ec.europa.eu/.
+
+\bibitem[tnt()]{tnt}
+{{TNT}}, a free program for phylogenetic analysis - {{Goloboff}} - 2008 -
+  {{Cladistics}} - {{Wiley Online Library}}.
+\newblock
+  https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00217.x.
+
+\bibitem[wor()]{worldclim}
+{{WorldClim}}.
+\newblock https://www.worldclim.org/.
+
+\bibitem[Aarle et~al.(2002)Aarle, Olsson, and S{\"o}derstr{\"o}m]{aarle2002}
+I.~M.~V. Aarle, P.~A. Olsson, and B.~S{\"o}derstr{\"o}m.
+\newblock Arbuscular mycorrhizal fungi respond to the substrate {{pH}} of their
+  extraradical mycelium by altered growth and root colonization.
+\newblock \emph{New Phytologist}, 155\penalty0 (1):\penalty0 173--182, 2002.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1046/j.1469-8137.2002.00439.x}.
+
+\bibitem[Baar et~al.(2002)Baar, Bastiaans, {van de Coevering}, and
+  Roelofs]{baar2002}
+J.~Baar, T.~Bastiaans, M.~{van de Coevering}, and J.~Roelofs.
+\newblock Ectomycorrhizal root development in wet {{Alder}} carr forests in
+  response to desiccation and eutrophication.
+\newblock \emph{Mycorrhiza}, 12\penalty0 (3):\penalty0 147--151, 2002.
 
 \bibitem[Berbee and Taylor(1993)]{berbee1993}
 M.~L. Berbee and J.~W. Taylor.
@@ -68,6 +97,16 @@ D.~D. Cameron, I.~Johnson, D.~J. Read, and J.~R. Leake.
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1111/j.1469-8137.2008.02533.x}.
 
+\bibitem[{Carrino-Kyker} et~al.(2016){Carrino-Kyker}, Kluber, Petersen, Coyle,
+  Hewins, DeForest, Smemo, and Burke]{carrino-kyker2016}
+S.~R. {Carrino-Kyker}, L.~A. Kluber, S.~M. Petersen, K.~P. Coyle, C.~R. Hewins,
+  J.~L. DeForest, K.~A. Smemo, and D.~J. Burke.
+\newblock Mycorrhizal fungal communities respond to experimental elevation of
+  soil {{pH}} and {{P}} availability in temperate hardwood forests.
+\newblock \emph{FEMS Microbiology Ecology}, 92\penalty0 (fiw024), Mar. 2016.
+\newblock ISSN 0168-6496.
+\newblock \doi{10.1093/femsec/fiw024}.
+
 \bibitem[{Cavalier-Smith}(1987)]{cavalier-smith1987}
 T.~{Cavalier-Smith}.
 \newblock The origin of fungi and pseudofungi.
@@ -115,6 +154,13 @@ K.~J. Duffy, M.~Waud, B.~Schatz, T.~Petanidou, and H.~Jacquemyn.
 \newblock ISSN 1365-2699.
 \newblock \doi{10.1111/jbi.13548}.
 
+\bibitem[Edgar(2004)]{edgar2004}
+R.~C. Edgar.
+\newblock {{MUSCLE}}: Multiple sequence alignment with high accuracy and high
+  throughput.
+\newblock \emph{Nucleic acids research}, 32\penalty0 (5):\penalty0 1792--1797,
+  2004.
+
 \bibitem[Fay(2018)]{fay2018}
 M.~F. Fay.
 \newblock Orchid conservation: How can we meet the challenges in the
@@ -148,6 +194,17 @@ G.~Gebauer and M.~Meyer.
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1046/j.1469-8137.2003.00872.x}.
 
+\bibitem[Girlanda et~al.(2011)Girlanda, Segreto, Cafasso, Liebel, Rodda,
+  Ercole, Cozzolino, Gebauer, and Perotto]{girlanda2011}
+M.~Girlanda, R.~Segreto, D.~Cafasso, H.~T. Liebel, M.~Rodda, E.~Ercole,
+  S.~Cozzolino, G.~Gebauer, and S.~Perotto.
+\newblock Photosynthetic {{Mediterranean}} meadow orchids feature partial
+  mycoheterotrophy and specific mycorrhizal associations.
+\newblock \emph{American Journal of Botany}, 98\penalty0 (7):\penalty0
+  1148--1163, 2011.
+\newblock ISSN 1537-2197.
+\newblock \doi{10.3732/ajb.1000486}.
+
 \bibitem[Givnish et~al.(2016)Givnish, Spalink, Ames, Lyon, Hunter, Zuluaga,
   Doucette, Caro, McDaniel, Clements, Arroyo, Endara, Kriebel, Williams, and
   Cameron]{givnish2016}
@@ -160,6 +217,14 @@ T.~J. Givnish, D.~Spalink, M.~Ames, S.~P. Lyon, S.~J. Hunter, A.~Zuluaga,
   1905--1916, 2016.
 \newblock ISSN 1365-2699.
 \newblock \doi{10.1111/jbi.12854}.
+
+\bibitem[Grant et~al.(2011)Grant, Bittman, Montreal, Plenchette, and
+  Morel]{grant2011}
+C.~Grant, S.~Bittman, M.~Montreal, C.~Plenchette, and C.~Morel.
+\newblock Soil and fertilizer phosphorus: {{Effects}} on plant {{P}} supply and
+  mycorrhizal development.
+\newblock \emph{Canadian Journal of Plant Science}, Mar. 2011.
+\newblock \doi{10.4141/P03-182}.
 
 \bibitem[Harley and Harley(1987)]{harley1987}
 J.~L. Harley and E.~L. Harley.
@@ -184,6 +249,11 @@ R.~Honegger, D.~Edwards, and L.~Axe.
 \newblock \emph{New Phytologist}, 197\penalty0 (1):\penalty0 264--275, 2013.
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1111/nph.12009}.
+
+\bibitem[Huelsenbeck and Ronquist(2001)]{huelsenbeck2001}
+J.~P. Huelsenbeck and F.~Ronquist.
+\newblock {{MRBAYES}}: {{Bayesian}} inference of phylogenetic trees.
+\newblock \emph{Bioinformatics}, 17\penalty0 (8):\penalty0 754--755, 2001.
 
 \bibitem[Jacquemyn et~al.(2005)Jacquemyn, Brys, Hermy, and
   Willems]{jacquemyn2005}
@@ -273,6 +343,24 @@ J.~R. Leake.
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1111/j.1469-8137.1994.tb04272.x}.
 
+\bibitem[Li et~al.(2001)Li, Jaroszewski, and Godzik]{li2001}
+W.~Li, L.~Jaroszewski, and A.~Godzik.
+\newblock Clustering of highly homologous sequences to reduce the size of large
+  protein databases.
+\newblock \emph{Bioinformatics (Oxford, England)}, 17\penalty0 (3):\penalty0
+  282--283, Mar. 2001.
+\newblock ISSN 1367-4803.
+\newblock \doi{10.1093/bioinformatics/17.3.282}.
+
+\bibitem[Lilleskov et~al.(2002)Lilleskov, Fahey, Horton, and
+  Lovett]{lilleskov2002}
+E.~A. Lilleskov, T.~J. Fahey, T.~R. Horton, and G.~M. Lovett.
+\newblock Belowground {{Ectomycorrhizal Fungal Community Change Over}} a
+  {{Nitrogen Deposition Gradient}} in {{Alaska}}.
+\newblock \emph{Ecology}, 83\penalty0 (1):\penalty0 104--115, 2002.
+\newblock ISSN 1939-9170.
+\newblock \doi{10.1890/0012-9658(2002)083[0104:BEFCCO]2.0.CO;2}.
+
 \bibitem[Loron et~al.(2019)Loron, Fran{\c c}ois, Rainbird, Turner, Borensztajn,
   and Javaux]{loron2019}
 C.~C. Loron, C.~Fran{\c c}ois, R.~H. Rainbird, E.~C. Turner, S.~Borensztajn,
@@ -307,6 +395,15 @@ V.~S. Merckx.
 L.~Meschinelli.
 \newblock \emph{Fungorum Fossilium Omnium: Hucusque Cognitorum Iconographia}.
 \newblock {Sumptibus auctoris, typis Aloysii Fabris}, 1898.
+
+\bibitem[Okonechnikov et~al.(2012)Okonechnikov, Golosova, Fursov, and {the
+  UGENE team}]{okonechnikov2012}
+K.~Okonechnikov, O.~Golosova, M.~Fursov, and {the UGENE team}.
+\newblock Unipro {{UGENE}}: A unified bioinformatics toolkit.
+\newblock \emph{Bioinformatics}, 28\penalty0 (8):\penalty0 1166--1167, Apr.
+  2012.
+\newblock ISSN 1367-4803.
+\newblock \doi{10.1093/bioinformatics/bts091}.
 
 \bibitem[Ouanphanivanh(2008)]{ouanphanivanh2008}
 N.~Ouanphanivanh.
@@ -374,6 +471,15 @@ B.~Renault.
 \newblock \emph{Bassin Houiller et Permien d'{{Autun}} et d'{{\'Epinac}}:
   {{Flore}} Fossile, 2. Partie. {{Fascicule}} 4}, volume~4.
 \newblock {Imprimerie nationale}, 1896.
+
+\bibitem[Rillig et~al.(2003)Rillig, Treseder, and Allen]{rillig2003}
+M.~C. Rillig, K.~K. Treseder, and M.~F. Allen.
+\newblock Global {{Change}} and {{Mycorrhizal Fungi}}.
+\newblock In M.~G.~A. {van der Heijden} and I.~R. Sanders, editors,
+  \emph{Mycorrhizal {{Ecology}}}, Ecological {{Studies}}, pages 135--160.
+  {Springer}, {Berlin, Heidelberg}, 2003.
+\newblock ISBN 978-3-540-38364-2.
+\newblock \doi{10.1007/978-3-540-38364-2_6}.
 
 \bibitem[Roy et~al.(2009)Roy, Yagame, Yamato, Iwase, Heinz, Faccio, Bonfante,
   and Selosse]{roy2009}
@@ -506,6 +612,15 @@ R.~J. Waterman, M.~I. Bidartondo, J.~Stofberg, J.~K. Combs, G.~Gebauer,
   Feb. 2011.
 \newblock ISSN 0003-0147.
 \newblock \doi{10.1086/657955}.
+
+\bibitem[Wei{\ss} et~al.(2016)Wei{\ss}, Waller, Zuccaro, and
+  Selosse]{weiss2016a}
+M.~Wei{\ss}, F.~Waller, A.~Zuccaro, and M.-A. Selosse.
+\newblock Sebacinales \textendash{} one thousand and one interactions with land
+  plants.
+\newblock \emph{New Phytologist}, 211\penalty0 (1):\penalty0 20--40, 2016.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/nph.13977}.
 
 \bibitem[Whittaker(1969)]{whittaker1969}
 R.~H. Whittaker.

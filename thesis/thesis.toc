@@ -4,4 +4,8 @@
 \contentsline {chapter}{\numberline {2}Ancient lovers}{5}{}%
 \contentsline {chapter}{\numberline {3}Orchids}{7}{}%
 \contentsline {section}{\numberline {3.1}Distribution and ecology of OMFs}{8}{}%
-\contentsline {chapter}{Bibliography}{10}{}%
+\contentsline {part}{\numberline {II}Materials and methods}{10}{}%
+\contentsline {chapter}{\numberline {4}The database}{11}{}%
+\contentsline {chapter}{\numberline {5}Phylogenetic analysis}{11}{}%
+\contentsline {chapter}{\numberline {6}Multivariate analysis}{12}{}%
+\contentsline {chapter}{Bibliography}{14}{}%
