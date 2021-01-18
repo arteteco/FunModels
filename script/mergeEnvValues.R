@@ -1,8 +1,8 @@
 # setup
 
-setwd("~/tesi/data/matrix/env/points")
-rawPath <- "../../7famPresAbs.csv"
-outPath <- "values.csv"
+setwd("~/tesi/FunModels/data/matrix/env/points/")
+rawPath <- "~/tesi/FunModels/data/matrix/PresAbs.csv"
+outPath <- "~/tesi/FunModels/data/matrix/values.csv"
 
 # /setup
 
@@ -16,7 +16,5 @@ for(f in files){
   col <- rev(var)[1]
   tot <- cbind(tot, col)
 }
-
-View(tot)
 
 write.csv(tot, outPath, row.names = F)
