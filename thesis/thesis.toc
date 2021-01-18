@@ -1,11 +1,17 @@
 \contentsline {chapter}{Contents}{2}{}%
-\contentsline {part}{\numberline {I}Introduction}{3}{}%
-\contentsline {chapter}{\numberline {1}Our closest cousins}{4}{}%
-\contentsline {chapter}{\numberline {2}Ancient lovers}{5}{}%
-\contentsline {chapter}{\numberline {3}Orchids}{7}{}%
-\contentsline {section}{\numberline {3.1}Distribution and ecology of OMFs}{8}{}%
-\contentsline {part}{\numberline {II}Materials and methods}{10}{}%
-\contentsline {chapter}{\numberline {4}The database}{11}{}%
-\contentsline {chapter}{\numberline {5}Phylogenetic analysis}{11}{}%
-\contentsline {chapter}{\numberline {6}Multivariate analysis}{12}{}%
-\contentsline {chapter}{Bibliography}{14}{}%
+\contentsline {part}{\numberline {I}Introduction}{4}{}%
+\contentsline {chapter}{\numberline {1}Our closest cousins}{5}{}%
+\contentsline {chapter}{\numberline {2}Ancient lovers}{6}{}%
+\contentsline {chapter}{\numberline {3}Orchids}{8}{}%
+\contentsline {section}{\numberline {3.1}Distribution and ecology of OMFs}{9}{}%
+\contentsline {part}{\numberline {II}Materials and methods}{11}{}%
+\contentsline {chapter}{\numberline {4}The database}{12}{}%
+\contentsline {chapter}{\numberline {5}Phylogenetic analysis}{12}{}%
+\contentsline {chapter}{\numberline {6}Multivariate analysis}{13}{}%
+\contentsline {part}{\numberline {III}Results}{15}{}%
+\contentsline {chapter}{\numberline {7}Phylogenetic analysis}{16}{}%
+\contentsline {chapter}{\numberline {8}Multivariate analysis}{16}{}%
+\contentsline {part}{\numberline {IV}Appendices}{17}{}%
+\contentsline {chapter}{\numberline {9}Phylogenetic trees}{18}{}%
+\contentsline {part}{\numberline {V}Bibliography}{21}{}%
+\contentsline {chapter}{Bibliography}{22}{}%

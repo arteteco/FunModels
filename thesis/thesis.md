@@ -9,3 +9,17 @@ BibTeX: bibliography
 # Materials and methods
 
 {{materials.md}}
+
+# Results
+
+{{results.md}}
+
+# Discussion
+
+{{discussion.md}}
+
+
+# Appendices
+
+{{appendices.md}}
+

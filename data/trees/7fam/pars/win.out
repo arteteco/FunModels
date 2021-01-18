@@ -1,0 +1,48 @@
+0 trees in memory 
+Random seed is 1 
+Allocation failure: not enough RAM available 
+ 
+Allocation failure: not enough RAM available 
+ 
+TNT - max. ram = 800.00 Mbytes 
+No ram used yet 
+Reading from Z:\home\tombom\tesi\FunModels\data\trees\7fam\pars\data.tnt 
+Matrices will be read as DNA data 
+Matrix space: allocate for up to 8 states 
+Matrix (168x276, 8 states). Memory required for data:   0.38 Mbytes 
+0 trees in memory 
+Random seed is 1 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+10    TBR       99 of 100    ------      1314         0:00:09    669,905,044   
+
+NOTE: Search terminated after replication 10 (tree buffer full)
+ 
+Total rearrangements examined: 669,905,044. 
+Best score hit 1 times out of 10 (some replications overflowed).
+Best score (TBR): 1314.  10 trees retained. 
+Time 9.24 secs. 
+Space for 10000 trees in memory 
+0 trees in memory 
+Random seed is 1 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+100   TBR      999 of 1000   ------      1310         0:00:34    6,490,548,006 
+Completed 100 random addition sequences.
+Total rearrangements examined: 6,490,548,006. 
+Best score hit 1 times out of 100 (some replications overflowed).
+Best score (TBR): 1310.  10 trees retained. 
+Time 34.27 secs. 
+ 
+User interrupt... 
+ 
+User interrupt... 
+Tree file: Z:\home\tombom\tesi\FunModels\data\trees\7fam\pars\win.tre 
+10 trees saved to Z:\home\tombom\tesi\FunModels\data\trees\7fam\pars\win.tre           
+Time 0.03 secs. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+ 
+User interrupt... 
+Auto-collapse searches is OFF 
+ 
+User interrupt... 

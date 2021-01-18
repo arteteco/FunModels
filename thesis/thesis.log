@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  16 JAN 2021 18:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  17 JAN 2021 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -362,7 +362,14 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count192
 \l__pdf_internal_box=\box49
 )
-(./thesis.aux)
+(./thesis.aux
+
+LaTeX Warning: Label `phylogeneticanalysis' multiply defined.
+
+
+LaTeX Warning: Label `multivariateanalysis' multiply defined.
+
+)
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -481,10 +488,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
-)
-\tf@toc=\write3
-\openout3 = `thesis.toc'.
-
 
 
 Package Fancyhdr Warning: \footskip is too small (-56.9055pt): 
@@ -493,38 +496,77 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [2])
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+ [3])
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 4.
-[3
+[4
 
 ]
 chapter 1.
-[4]
+[5]
 chapter 2.
-[5] [6]
+[6] [7]
 chapter 3.
-[7] [8] [9]
+[8] [9] [10]
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 70.
-[10
+[11
 
 ]
 chapter 4.
 chapter 5.
-[11]
-chapter 6.
 [12]
-<images/clust.png, id=48, 526.96875pt x 325.215pt>
+chapter 6.
+[13]
+<images/clust.png, id=52, 526.96875pt x 325.215pt>
 File: images/clust.png Graphic file (type png)
 <use images/clust.png>
 Package pdftex.def Info: images/clust.png  used on input line 111.
 (pdftex.def)             Requested size: 469.4912pt x 289.74313pt.
- (./latEnd.txt (./thesis.bbl [13 <./images/clust.png (PNG copy)>] [14]
-[15] [16] [17]
+ [14 <./images/clust.png (PNG copy)>]
+part III.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 115.
+[15
+
+]
+chapter 7.
+chapter 8.
+[16]
+part IV.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 131.
+[17
+
+]
+chapter 9.
+<images/mcmc.jpg, id=65, 773.89125pt x 5368.055pt>
+File: images/mcmc.jpg Graphic file (type jpg)
+<use images/mcmc.jpg>
+Package pdftex.def Info: images/mcmc.jpg  used on input line 139.
+(pdftex.def)             Requested size: 77.21652pt x 535.6083pt.
+<images/mp.jpg, id=66, 1679.27374pt x 2738.23pt>
+File: images/mp.jpg Graphic file (type jpg)
+<use images/mp.jpg>
+Package pdftex.def Info: images/mp.jpg  used on input line 145.
+(pdftex.def)             Requested size: 328.4692pt x 535.6031pt.
+[18] [19 <./images/mcmc.jpg>] [20 <./images/mp.jpg>]
+part V.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 149.
+[21
+
+] (./latEnd.txt (./thesis.bbl [22] [23] [24] [25]
 Underfull \hbox (badness 1796) in paragraph at lines 357--363
 \OT1/cmr/m/n/12 Alaska.  \OT1/cmr/m/it/12 Ecol-ogy\OT1/cmr/m/n/12 , 83(1):104--
 115, 2002.  ISSN 1939-9170.  doi: 10.1890/0012-
@@ -536,34 +578,38 @@ Underfull \hbox (badness 1152) in paragraph at lines 395--398
 ium: Hu-cusque Cog-n-i-to-rum Icono-graphia\OT1/cmr/m/n/12 .
  []
 
-[18] [19] [20]) [21]
+[26] [27] [28] [29]) [30]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
- (./thesis.aux) ) ) 
+ (./thesis.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) ) 
 Here is how much of TeX's memory you used:
- 5941 strings out of 481331
- 115714 string characters out of 5917526
- 533657 words of memory out of 5000000
- 22737 multiletter control sequences out of 15000+600000
+ 5963 strings out of 481331
+ 116064 string characters out of 5917526
+ 534887 words of memory out of 5000000
+ 22757 multiletter control sequences out of 15000+600000
  411368 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 110i,10n,113p,10674b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
-c/tcrm1200.600pk></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbxti10.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
-.pfb></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pf
-b></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><
-/home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (21 pages, 145669 bytes).
+ 110i,10n,113p,10674b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600p
+k></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
+home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home
+/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/tom
+bom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/tombom
+/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/tombom/.T
+inyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis.pdf (30 pages, 955220 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 136 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

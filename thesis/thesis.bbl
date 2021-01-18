@@ -1,4 +1,4 @@
-\begin{thebibliography}{75}
+\begin{thebibliography}{77}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -613,12 +613,35 @@ R.~J. Waterman, M.~I. Bidartondo, J.~Stofberg, J.~K. Combs, G.~Gebauer,
 \newblock ISSN 0003-0147.
 \newblock \doi{10.1086/657955}.
 
-\bibitem[Wei{\ss} et~al.(2016)Wei{\ss}, Waller, Zuccaro, and
+\bibitem[Weiss et~al.(2004)Weiss, Selosse, Rexer, Urban, and
+  Oberwinkler]{weiss2004}
+M.~Weiss, M.-A. Selosse, K.-H. Rexer, A.~Urban, and F.~Oberwinkler.
+\newblock Sebacinales: A hitherto overlooked cosm of heterobasidiomycetes with
+  a broad mycorrhizal potential* *{{Part}} 221 of the series {{Studies}} in
+  {{Heterobasidiomycetes}} from the {{Botanical Institute}}, {{University}} of
+  {{T\"ubingen}}, {{T\"ubingen}}.
+\newblock \emph{Mycological Research}, 108\penalty0 (9):\penalty0 1003--1010,
+  Sept. 2004.
+\newblock ISSN 0953-7562.
+\newblock \doi{10.1017/S0953756204000772}.
+
+\bibitem[Wei{\ss} et~al.(2016{\natexlab{a}})Wei{\ss}, Waller, Zuccaro, and
+  Selosse]{weiss2016}
+M.~Wei{\ss}, F.~Waller, A.~Zuccaro, and M.-A. Selosse.
+\newblock Sebacinales \textendash{} one thousand and one interactions with land
+  plants.
+\newblock \emph{New Phytologist}, 211\penalty0 (1):\penalty0 20--40,
+  2016{\natexlab{a}}.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/nph.13977}.
+
+\bibitem[Wei{\ss} et~al.(2016{\natexlab{b}})Wei{\ss}, Waller, Zuccaro, and
   Selosse]{weiss2016a}
 M.~Wei{\ss}, F.~Waller, A.~Zuccaro, and M.-A. Selosse.
 \newblock Sebacinales \textendash{} one thousand and one interactions with land
   plants.
-\newblock \emph{New Phytologist}, 211\penalty0 (1):\penalty0 20--40, 2016.
+\newblock \emph{New Phytologist}, 211\penalty0 (1):\penalty0 20--40,
+  2016{\natexlab{b}}.
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1111/nph.13977}.
 

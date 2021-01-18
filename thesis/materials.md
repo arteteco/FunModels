@@ -14,8 +14,8 @@ Sequence `DQ520100` from *Tremiscus helvelloides* was used as outgroup.
 
 * Sequences were aligned using the MUSCLE algorithm [#edgar2004] and manually trimmed to a visually satisfying overlapping
 * Ugene was used as main GUI, v. 37.0 [#okonechnikov2012]
-* The Maximum Parsimony analysis was performed using TNT, v. 1.1 [#tnt]
-* The MCMC was performed using MrBayes, v. 3.2.7a [#huelsenbeck2001]
+* The Maximum Parsimony analysis was performed using TNT, v. 1.1 [#tnt], using the Tree Bisection and Reconnection algorhithm and with ten replics. 1000 trees were kept and a strict consensus tree was calculated. A bootstrap was performed on the tree with 200 replications to test the validity of the tree. Bootstrap values are displayed as node labels in the appendix tree
+* The Bayesian analysis (MCMC) was performed using MrBayes, v. 3.2.7a [#huelsenbeck2001], using the Hasegawa-Kishino-Yano with a gamma rate heterogeneity among sites (`lset nst=2 rates=gamma;`). One million trees were generated and sampled each thousand, with four chains running. A final consensus tree was then calculated (see appendix)
 * Trees were then visually edited with FigTree v. 1.4.4
 * All parameters are available in the supplemental data, along with the files to reproduce the analysis.
 
