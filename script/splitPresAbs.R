@@ -1,16 +1,13 @@
 # setup
 
 library(tidyverse)
-setwd("~/tesi/data/matrix")
+setwd("~/tesi/FunModels/data/matrix")
 
 # starting values df, with environmental variables
 matrPath <- "values.csv"
 
 # folder to output the splitted csvs. Leave empty if you want them in the same folder
 splitPath <- "split/"
-
-
-
 
 
 # /setup
@@ -53,3 +50,4 @@ for (f in lista){
   assign(f, NMatr)
   write.csv(x=NMatr, file=paste(splitPath, f, ".csv", sep=""), row.names=FALSE)
 }
+

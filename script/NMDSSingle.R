@@ -2,10 +2,9 @@
 
 library(vegan)
 library(tidyverse)
-setwd("~/tesi/FunModels/data/matrix")
-dataPath <- "lump.csv"
-groupPath <- "lump.csv"
-outPath <- "lump.jpg" # output graph
+setwd("~/tesi/FunModels/data/matrix/split/")
+dataPath <- "cer.csv"
+#outPath <- "lump.jpg" # output graph
 outTitle <- "Lumped"
 
 # /settings
@@ -13,9 +12,13 @@ outTitle <- "Lumped"
 
 data <- read.csv(dataPath)
 
+
+
 # Read in species matrix AND grouping variables
 
 dataDist <- select(data, -c("lat","lon","Orc_species", "population"))
+
+
 
 # standardize the data. Skip in case of negative values
 
@@ -29,13 +32,13 @@ dataDist <- select(data, -c("lat","lon","Orc_species", "population"))
 
 # Distance Matrix
 
-dataDist <- 
-  vegdist(dataDist, method = "euclidean", na.rm=T)
+#dataDist <- 
+#  vegdist(dataDist, method = "euclidean", na.rm=T)
 
-dataDist <- 
-  as.matrix(dataDist, labels = T, na.rm=T)
+#dataDist <- 
+#  as.matrix(dataDist, labels = T, na.rm=T)
 
-
+#dataDist
 # NMDS
 
 dataMDS <-
@@ -44,55 +47,34 @@ dataMDS <-
           k = 3,
           maxit = 999, 
           trymax = 500,
-          wascores = F)
+          na.rm=T)
 
 
 dataMDS
+
 stressplot(dataMDS)
 
+# plot 02
 
-# Plotting the data
+grp <-data[,1]
+datascores <- as.data.frame(scores(dataMDS))
 
-plot(dataMDS, "sites", type="t")
+scores <- cbind(as.data.frame(datascores), Orchid = grp)
 
-colv <- c("green", "gray0", "red", "blue")
+centroids <- aggregate(cbind(NMDS1, NMDS2) ~ Orchid, data = scores, FUN = mean)
 
-symv <- c(21,22,23,24)
-png(outPath)
-plot(dataMDS, main=outTitle)
+seg <- merge(scores, setNames(centroids, c('Orchid','oNMDS1','oNMDS2')),
+             by = 'Orchid', sort = FALSE)
 
-with(grp,
-     points(dataMDS,
-            display = "sites",
-            col = "black",
-            pch = symv[Orc_species],
-            bg = colv[Orc_species]))
-
-#Create convex hulls that highlight point clusters based on grouping dataframe
-ordihull(
-  dataMDS,
-  grp$Orc_species,
-  display = "sites",
-  draw = c("polygon"),
-  col = NULL,
-  border = colv,
-  lty = c(1, 2, 1, 2),
-  lwd = 2.5
-)
-
-# Calculating centroids 
-
-# Calculating and plotting centroids of NMDS Result
-scrs <- scores(dataMDS, display = "sites", "species")
-cent <- aggregate(scrs ~ Orc_species, data = grp, FUN = "mean")
-
-names(cent) [-1] <- colnames(scrs)
-
-points(cent [,-1],
-       pch = c( 8 , 8 , 8, 8),
-       col = colv,
-       bg = c("black"),
-       lwd = 3.0,
-       cex = 2.0 # Plots centroids as points on ordination
-)
-dev.off()
+ggplot(scores, aes(x = NMDS1, y = NMDS2, colour = Orchid)) +
+  geom_segment(data = seg,
+             mapping = aes(xend = oNMDS1, yend = oNMDS2)) + # add spiders
+  geom_point(data = centroids, size = 4) +                    # add centroids
+  geom_point() +                                              
+  coord_fixed()+                                              
+  theme_bw()+ 
+  theme(legend.position="right",legend.text=element_text(size=10),legend.direction='vertical')+
+  ggtitle("Ceratobasidiaceae")
+# adds encircle
+#  geom_path(size=1, linetype=2)
+# annotate("text",x=NMDS.mean$MDS1,y=NMDS.mean$MDS2,label=NMDS.mean$group)

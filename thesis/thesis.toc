@@ -11,7 +11,6 @@
 \contentsline {part}{\numberline {III}Results}{15}{}%
 \contentsline {chapter}{\numberline {7}Phylogenetic analysis}{16}{}%
 \contentsline {chapter}{\numberline {8}Multivariate analysis}{16}{}%
-\contentsline {part}{\numberline {IV}Appendices}{17}{}%
-\contentsline {chapter}{\numberline {9}Phylogenetic trees}{18}{}%
-\contentsline {part}{\numberline {V}Bibliography}{21}{}%
-\contentsline {chapter}{Bibliography}{22}{}%
+\contentsline {part}{\numberline {IV}Discussion}{17}{}%
+\contentsline {part}{\numberline {V}Appendices}{19}{}%
+\contentsline {chapter}{Bibliography}{20}{}%
