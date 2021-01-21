@@ -6,15 +6,17 @@ library(tidyverse)
 library(psych)
 library(caret)
 library(ggbiplot)
-setwd("~/tesi/FunModels/data/matrix/split/")
+setwd("~/tesi/FunModels/data/matrix/")
+dataPath <- "lump.csv"
 
+outTitle="Lumped matrix"
 # /SETTINGS
 
 # loop all the csv files and perform the pca
 
 
 
-dataPath <- "the.csv"
+
 plotOut <- paste(name, ".png", sep="")
 
 name <- substr(dataPath, 1,3)
@@ -44,7 +46,7 @@ dataDist <- select(data, -c("lat","lon","population")) %>%
            groups = train$Orc_species, ellipse = TRUE, circle = TRUE,ellipse.prob = 0.68) +
     scale_color_discrete(name = '') +
     theme(legend.direction = 'horizontal', legend.position = 'top')+
-    ggtitle("Theleophoraceae")
+    ggtitle(outTitle)
   #dev.off()
   #ggsave(plotOut)
 

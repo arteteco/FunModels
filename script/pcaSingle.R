@@ -41,6 +41,7 @@ summary(pc)
 ggbiplot(pc, obs.scale = 1, var.scale = 1,
          groups = train$Orc_species, ellipse = TRUE, circle = TRUE,ellipse.prob = 0.68) +
   scale_color_discrete(name = '') +
-  theme(legend.direction = 'horizontal', legend.position = 'top')
+  theme(legend.direction = 'horizontal', legend.position = 'top')+
+  ggtitle("Lumped matrix")
 #dev.off()
 
