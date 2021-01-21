@@ -2,8 +2,8 @@
 
 library(vegan)
 library(tidyverse)
-setwd("~/tesi/FunModels/data/matrix/split/")
-dataPath <- "tul.csv"
+setwd("~/tesi/FunModels/data/matrix/")
+dataPath <- "lump.csv"
 #outPath <- "lump.jpg" # output graph
 outTitle <- "Lumped"
 
@@ -74,7 +74,7 @@ ggplot(scores, aes(x = NMDS1, y = NMDS2, colour = Orchid)) +
   coord_fixed()+                                              
   theme_bw()+ 
   theme(legend.position="right",legend.text=element_text(size=10),legend.direction='vertical')+
-  ggtitle("Tulasnellaceae")
+  ggtitle("Lumped matrix")
 # adds encircle
 #  geom_path(size=1, linetype=2)
 # annotate("text",x=NMDS.mean$MDS1,y=NMDS.mean$MDS2,label=NMDS.mean$group)

@@ -14,7 +14,7 @@ setwd("~/tesi/FunModels/data/matrix/split/")
 
 
 
-dataPath <- "ser.csv"
+dataPath <- "the.csv"
 plotOut <- paste(name, ".png", sep="")
 
 name <- substr(dataPath, 1,3)
@@ -43,8 +43,9 @@ dataDist <- select(data, -c("lat","lon","population")) %>%
   ggbiplot(pc, obs.scale = 1, var.scale = 1,
            groups = train$Orc_species, ellipse = TRUE, circle = TRUE,ellipse.prob = 0.68) +
     scale_color_discrete(name = '') +
-    theme(legend.direction = 'horizontal', legend.position = 'top')
+    theme(legend.direction = 'horizontal', legend.position = 'top')+
+    ggtitle("Theleophoraceae")
   #dev.off()
   #ggsave(plotOut)
-}
+
 
