@@ -6,8 +6,8 @@ library(tidyverse)
 library(psych)
 library(caret)
 library(ggbiplot)
-setwd("~/tesi/FunModels/data/matrix/")
-dataPath <- "lump.csv"
+setwd("~/tesi/FunModels/data/misc/")
+dataPath <- "envVarWithFamilies.csv"
 
 outTitle="Lumped matrix"
 # /SETTINGS

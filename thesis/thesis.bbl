@@ -1,4 +1,4 @@
-\begin{thebibliography}{77}
+\begin{thebibliography}{82}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -135,6 +135,13 @@ H.~F. Copeland.
 \newblock The classification of lower organisms.
 \newblock \emph{The classification of lower organisms.}, 1956.
 
+\bibitem[Dearnaley(2007)]{dearnaley2007}
+J.~D.~W. Dearnaley.
+\newblock Further advances in orchid mycorrhizal research.
+\newblock \emph{Mycorrhiza}, 17\penalty0 (6):\penalty0 475--486, Sept. 2007.
+\newblock ISSN 1432-1890.
+\newblock \doi{10.1007/s00572-007-0138-1}.
+
 \bibitem[Dearnaley et~al.(2012)Dearnaley, Martos, and Selosse]{dearnaley2012}
 J.~D.~W. Dearnaley, F.~Martos, and M.-A. Selosse.
 \newblock 12 {{Orchid Mycorrhizas}}: {{Molecular Ecology}}, {{Physiology}},
@@ -143,6 +150,14 @@ J.~D.~W. Dearnaley, F.~Martos, and M.-A. Selosse.
   {Springer Berlin Heidelberg}, {Berlin, Heidelberg}, 2012.
 \newblock ISBN 978-3-642-30825-3 978-3-642-30826-0.
 \newblock \doi{10.1007/978-3-642-30826-0_12}.
+
+\bibitem[Dixon(2003)]{dixon2003a}
+P.~Dixon.
+\newblock {{VEGAN}}, a package of {{R}} functions for community ecology.
+\newblock \emph{Journal of Vegetation Science}, 14\penalty0 (6):\penalty0
+  927--930, 2003.
+\newblock ISSN 1654-1103.
+\newblock \doi{10.1111/j.1654-1103.2003.tb02228.x}.
 
 \bibitem[Duffy et~al.(2019)Duffy, Waud, Schatz, Petanidou, and
   Jacquemyn]{duffy2019}
@@ -241,6 +256,10 @@ D.~S. Heckman, D.~M. Geiser, B.~R. Eidell, R.~L. Stauffer, N.~L. Kardos, and
 \newblock \emph{Science}, 293\penalty0 (5532):\penalty0 1129--1133, Aug. 2001.
 \newblock ISSN 0036-8075, 1095-9203.
 \newblock \doi{10.1126/science.1061457}.
+
+\bibitem[{hmsc-r}(2021)]{hmsc-r2021}
+{hmsc-r}.
+\newblock Hmsc-r/{{HMSC}}, Jan. 2021.
 
 \bibitem[Honegger et~al.(2013)Honegger, Edwards, and Axe]{honegger2013}
 R.~Honegger, D.~Edwards, and L.~Axe.
@@ -396,6 +415,16 @@ L.~Meschinelli.
 \newblock \emph{Fungorum Fossilium Omnium: Hucusque Cognitorum Iconographia}.
 \newblock {Sumptibus auctoris, typis Aloysii Fabris}, 1898.
 
+\bibitem[Oberwinkler et~al.(2017)Oberwinkler, Cruz, and
+  Su{\'a}rez]{oberwinkler2017}
+F.~Oberwinkler, D.~Cruz, and J.~P. Su{\'a}rez.
+\newblock Biogeography and {{Ecology}} of {{Tulasnellaceae}}.
+\newblock In L.~Tedersoo, editor, \emph{Biogeography of {{Mycorrhizal
+  Symbiosis}}}, Ecological {{Studies}}, pages 237--271. {Springer International
+  Publishing}, {Cham}, 2017.
+\newblock ISBN 978-3-319-56363-3.
+\newblock \doi{10.1007/978-3-319-56363-3_12}.
+
 \bibitem[Okonechnikov et~al.(2012)Okonechnikov, Golosova, Fursov, and {the
   UGENE team}]{okonechnikov2012}
 K.~Okonechnikov, O.~Golosova, M.~Fursov, and {the UGENE team}.
@@ -412,6 +441,16 @@ N.~Ouanphanivanh.
 \newblock \emph{Acta Biologica Szegediensis}, 52\penalty0 (1):\penalty0
   229--232, Jan. 2008.
 \newblock ISSN 1588-4082.
+
+\bibitem[Ovaskainen et~al.(2017)Ovaskainen, Tikhonov, Norberg, Blanchet, Duan,
+  Dunson, Roslin, and Abrego]{ovaskainen2017}
+O.~Ovaskainen, G.~Tikhonov, A.~Norberg, F.~G. Blanchet, L.~Duan, D.~Dunson,
+  T.~Roslin, and N.~Abrego.
+\newblock How to make more out of community data? {{A}} conceptual framework
+  and its implementation as models and software.
+\newblock \emph{Ecology Letters}, 20\penalty0 (5):\penalty0 561--576, 2017.
+\newblock ISSN 1461-0248.
+\newblock \doi{10.1111/ele.12757}.
 
 \bibitem[Pirozynski and Malloch(1975)]{pirozynski1975}
 K.~A. Pirozynski and D.~W. Malloch.
@@ -561,6 +600,16 @@ T.~N. Taylor, H.~Hass, and H.~Kerp.
 \newblock ISSN 1537-2197.
 \newblock \doi{10.2307/2446290}.
 
+\bibitem[Tikhonov et~al.(2020)Tikhonov, Opedal, Abrego, Lehikoinen, de~Jonge,
+  Oksanen, and Ovaskainen]{tikhonov2020}
+G.~Tikhonov, {\O}.~H. Opedal, N.~Abrego, A.~Lehikoinen, M.~M.~J. de~Jonge,
+  J.~Oksanen, and O.~Ovaskainen.
+\newblock Joint species distribution modelling with the r-package {{Hmsc}}.
+\newblock \emph{Methods in Ecology and Evolution}, 11\penalty0 (3):\penalty0
+  442--447, 2020.
+\newblock ISSN 2041-210X.
+\newblock \doi{10.1111/2041-210X.13345}.
+
 \bibitem[Trappe and Safir(1987)]{trappe1987}
 J.~M. Trappe and G.~R. Safir.
 \newblock Ecophysiology of {{VA}} mycorrhizal plants.
@@ -625,23 +674,12 @@ M.~Weiss, M.-A. Selosse, K.-H. Rexer, A.~Urban, and F.~Oberwinkler.
 \newblock ISSN 0953-7562.
 \newblock \doi{10.1017/S0953756204000772}.
 
-\bibitem[Wei{\ss} et~al.(2016{\natexlab{a}})Wei{\ss}, Waller, Zuccaro, and
+\bibitem[Wei{\ss} et~al.(2016)Wei{\ss}, Waller, Zuccaro, and
   Selosse]{weiss2016}
 M.~Wei{\ss}, F.~Waller, A.~Zuccaro, and M.-A. Selosse.
 \newblock Sebacinales \textendash{} one thousand and one interactions with land
   plants.
-\newblock \emph{New Phytologist}, 211\penalty0 (1):\penalty0 20--40,
-  2016{\natexlab{a}}.
-\newblock ISSN 1469-8137.
-\newblock \doi{10.1111/nph.13977}.
-
-\bibitem[Wei{\ss} et~al.(2016{\natexlab{b}})Wei{\ss}, Waller, Zuccaro, and
-  Selosse]{weiss2016a}
-M.~Wei{\ss}, F.~Waller, A.~Zuccaro, and M.-A. Selosse.
-\newblock Sebacinales \textendash{} one thousand and one interactions with land
-  plants.
-\newblock \emph{New Phytologist}, 211\penalty0 (1):\penalty0 20--40,
-  2016{\natexlab{b}}.
+\newblock \emph{New Phytologist}, 211\penalty0 (1):\penalty0 20--40, 2016.
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1111/nph.13977}.
 

@@ -3,6 +3,7 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 The style file: abbrvnat.bst
 Database file #1: bibliography.bib
+Warning--I didn't find a database entry for "weiss2016a"
 Warning--to sort, need author or key in CITES-1
 Warning--to sort, need author or key in esdac
 Warning--to sort, need author or key in worldclim
@@ -13,45 +14,45 @@ Warning--empty year in tnt
 Warning--empty year in worldclim
 Warning--there's a number but no volume in rayner1927
 Warning--empty journal in trappe1987
-You've used 77 entries,
+You've used 82 entries,
             2773 wiz_defined-function locations,
-            1153 strings with 22563 characters,
-and the built_in function-call counts, 43907 in all, are:
-= -- 4004
-> -- 3043
-< -- 39
-+ -- 1030
-- -- 952
-* -- 4077
-:= -- 6889
-add.period$ -- 343
-call.type$ -- 77
-change.case$ -- 544
-chr.to.int$ -- 76
-cite$ -- 168
-duplicate$ -- 1610
-empty$ -- 3084
-format.name$ -- 1053
-if$ -- 9008
-int.to.chr$ -- 2
+            1189 strings with 23665 characters,
+and the built_in function-call counts, 46673 in all, are:
+= -- 4264
+> -- 3209
+< -- 43
++ -- 1086
+- -- 1004
+* -- 4310
+:= -- 7320
+add.period$ -- 366
+call.type$ -- 82
+change.case$ -- 576
+chr.to.int$ -- 82
+cite$ -- 178
+duplicate$ -- 1720
+empty$ -- 3294
+format.name$ -- 1110
+if$ -- 9588
+int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 75
-newline$ -- 500
-num.names$ -- 298
-pop$ -- 935
+missing$ -- 79
+newline$ -- 532
+num.names$ -- 320
+pop$ -- 992
 preamble$ -- 1
-purify$ -- 470
+purify$ -- 497
 quote$ -- 0
-skip$ -- 1283
+skip$ -- 1374
 stack$ -- 0
-substring$ -- 1770
-swap$ -- 158
-text.length$ -- 7
+substring$ -- 1893
+swap$ -- 172
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 832
+type$ -- 887
 warning$ -- 10
-while$ -- 350
+while$ -- 375
 width$ -- 0
-write$ -- 1218
-(There were 10 warnings)
+write$ -- 1299
+(There were 11 warnings)
