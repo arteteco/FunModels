@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  31 JAN 2021 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  5 FEB 2021 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -366,9 +366,6 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 
 LaTeX Warning: Label `phylogeneticanalysis' multiply defined.
 
-
-LaTeX Warning: Label `multivariateanalysis' multiply defined.
-
 )
 \openout1 = `thesis.aux'.
 
@@ -521,110 +518,83 @@ Package scrkbase Info: You've told me to use the font selection of the element
 
 ]
 chapter 4.
-chapter 5.
-
-Package natbib Warning: Citation `weiss2016a' on page 12 undefined on input lin
-e 84.
-
 [12]
+<images/map.png, id=46, 844.8363pt x 597.432pt>
+File: images/map.png Graphic file (type png)
+<use images/map.png>
+Package pdftex.def Info: images/map.png  used on input line 85.
+(pdftex.def)             Requested size: 469.4698pt x 331.9889pt.
+
+chapter 5.
+[13 <./images/map.png>]
 chapter 6.
-[13]
-<images/clust.png, id=52, 526.96875pt x 325.215pt>
+[14]
+<images/clust.png, id=58, 526.96875pt x 325.215pt>
 File: images/clust.png Graphic file (type png)
 <use images/clust.png>
-Package pdftex.def Info: images/clust.png  used on input line 114.
+Package pdftex.def Info: images/clust.png  used on input line 120.
 (pdftex.def)             Requested size: 469.4912pt x 289.74313pt.
- [14] [15 <./images/clust.png (PNG copy)>]
+ [15 <./images/clust.png (PNG copy)>] [16] [17]
 part III.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 125.
-[16
+(scrkbase)              on input line 138.
+[18
 
 ]
 chapter 7.
 chapter 8.
-<images/tulPCA.png, id=62, 651.18282pt x 435.12563pt>
-File: images/tulPCA.png Graphic file (type png)
-<use images/tulPCA.png>
-Package pdftex.def Info: images/tulPCA.png  used on input line 142.
-(pdftex.def)             Requested size: 469.4872pt x 313.71513pt.
-[17]
-<images/nmdsEnvMatrix.png, id=66, 651.18282pt x 435.12563pt>
-File: images/nmdsEnvMatrix.png Graphic file (type png)
-<use images/nmdsEnvMatrix.png>
-Package pdftex.def Info: images/nmdsEnvMatrix.png  used on input line 153.
-(pdftex.def)             Requested size: 469.4872pt x 313.71513pt.
+<images/lumpPCA.png, id=71, 866.48718pt x 677.53125pt>
+File: images/lumpPCA.png Graphic file (type png)
+<use images/lumpPCA.png>
+Package pdftex.def Info: images/lumpPCA.png  used on input line 153.
+(pdftex.def)             Requested size: 469.46947pt x 367.09167pt.
 
-Overfull \hbox (72.01164pt too wide) in paragraph at lines 152--154
-\OT1/cmr/m/n/12 naceae. [] 
- []
-
-[18 <./images/tulPCA.png (PNG copy)>]
-<images/corrLump.png, id=70, 392.21532pt x 435.87843pt>
-File: images/corrLump.png Graphic file (type png)
-<use images/corrLump.png>
-Package pdftex.def Info: images/corrLump.png  used on input line 156.
-(pdftex.def)             Requested size: 469.50098pt x 521.76787pt.
-
-Overfull \hbox (30.03049pt too wide) in paragraph at lines 155--157
+Overfull \hbox (29.99898pt too wide) in paragraph at lines 153--154
 [] 
  []
 
-[19 <./images/nmdsEnvMatrix.png (PNG copy)>]
-<images/corrCer.png, id=75, 685.8122pt x 655.69969pt>
+[19] [20 <./images/lumpPCA.png (PNG copy)>]
+chapter 9.
+<images/nmdsEnvMatrix.png, id=79, 651.18282pt x 435.12563pt>
+File: images/nmdsEnvMatrix.png Graphic file (type png)
+<use images/nmdsEnvMatrix.png>
+Package pdftex.def Info: images/nmdsEnvMatrix.png  used on input line 194.
+(pdftex.def)             Requested size: 469.4872pt x 313.71513pt.
+[21]
+chapter 10.
+[22 <./images/nmdsEnvMatrix.png (PNG copy)>]
+<images/corrLump.png, id=86, 392.21532pt x 435.87843pt>
+File: images/corrLump.png Graphic file (type png)
+<use images/corrLump.png>
+Package pdftex.def Info: images/corrLump.png  used on input line 207.
+(pdftex.def)             Requested size: 469.50098pt x 521.76787pt.
+<images/corrCer.png, id=87, 685.8122pt x 655.69969pt>
 File: images/corrCer.png Graphic file (type png)
 <use images/corrCer.png>
-Package pdftex.def Info: images/corrCer.png  used on input line 158.
+Package pdftex.def Info: images/corrCer.png  used on input line 213.
 (pdftex.def)             Requested size: 469.48552pt x 448.87144pt.
-
-Overfull \hbox (161.89653pt too wide) in paragraph at lines 158--159
-\OT1/cmr/m/n/12 lated is to be un-der-stood. [] 
- []
-
-[20 <./images/corrLump.png (PNG copy)>] [21 <./images/corrCer.png (PNG copy)>]
+ [23] [24 <./images/corrLump.png (PNG copy)>] [25 <./images/corrCer.png (PNG co
+py)>]
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 160.
-[22
+(scrkbase)              on input line 222.
+[26
 
-] [23]
-part V.
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 165.
-[24
-
-]
-<images/mcmc.jpg, id=91, 773.89125pt x 5368.055pt>
-File: images/mcmc.jpg Graphic file (type jpg)
-<use images/mcmc.jpg>
-Package pdftex.def Info: images/mcmc.jpg  used on input line 170.
-(pdftex.def)             Requested size: 77.21652pt x 535.6083pt.
-<images/mp.jpg, id=92, 1679.27374pt x 2738.23pt>
-File: images/mp.jpg Graphic file (type jpg)
-<use images/mp.jpg>
-Package pdftex.def Info: images/mp.jpg  used on input line 176.
-(pdftex.def)             Requested size: 328.4692pt x 535.6031pt.
- (./latEnd.txt (./thesis.bbl [25] [26 <./images/mcmc.jpg>] [27 <./images/mp.jpg
->] [28] [29] [30]
-Underfull \hbox (badness 1796) in paragraph at lines 376--382
+] (./latEnd.txt (./thesis.bbl [27] [28] [29] [30] [31] [32]
+Underfull \hbox (badness 1796) in paragraph at lines 456--462
 \OT1/cmr/m/n/12 Alaska.  \OT1/cmr/m/it/12 Ecol-ogy\OT1/cmr/m/n/12 , 83(1):104--
 115, 2002.  ISSN 1939-9170.  doi: 10.1890/0012-
  []
 
-[31]
-Underfull \hbox (badness 1152) in paragraph at lines 414--417
+[33]
+Underfull \hbox (badness 1152) in paragraph at lines 494--497
 []\OT1/cmr/m/n/12 L. Meschinelli.  \OT1/cmr/m/it/12 Fun-go-rum Fos-sil-ium Om-n
 ium: Hu-cusque Cog-n-i-to-rum Icono-graphia\OT1/cmr/m/n/12 .
  []
 
-[32] [33] [34])
-
-Package natbib Warning: There were undefined citations.
-
-[35]
+[34] [35] [36] [37]) [38]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
@@ -637,13 +607,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 6002 strings out of 481331
- 116879 string characters out of 5917526
- 536169 words of memory out of 5000000
- 22792 multiletter control sequences out of 15000+600000
+ 6050 strings out of 481331
+ 117817 string characters out of 5917526
+ 536697 words of memory out of 5000000
+ 22841 multiletter control sequences out of 15000+600000
  411368 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 110i,10n,113p,10674b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 110i,10n,113p,10674b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600p
 k></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
 /home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
@@ -652,10 +622,10 @@ home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home
 bom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/tombom
 /.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/tombom/.T
 inyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (35 pages, 1208030 bytes).
+Output written on thesis.pdf (38 pages, 10480954 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
+ 170 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

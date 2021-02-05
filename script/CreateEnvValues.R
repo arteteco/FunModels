@@ -10,14 +10,15 @@ values <- read.csv("matrix/values.csv")
 # Data set with the otus and all the lat, lon etc
 otus <- read.csv("cluster/otus.csv")
 
+View(values)
 # We don't need all the values from "values", we are only going to keep the following
 keepFromValues <- c("Orc_species", "lat", "lon", "N", "P", "K", "pH", "MaxPrec", "MinTemp")
 
 # We don't need anything from envOtu, this is what we are going to keep
-keepFromEnvOtus <- c("N", "P", "K", "pH", "MaxPrec", "MinTemp", "otu")
+keepFromEnvOtus <- c("N", "P", "K", "pH", "MaxPrec", "MinTemp", "otu", "lat","lon")
 
 # Output file name
-outName <- "misc/envVarWithFamilies.csv"
+outName <- "misc/envVarWithFamiliesLonLat.csv"
 
 # / SETTING
 
@@ -36,6 +37,7 @@ final <- mutate(selected, family = substr(otu, 1,3)) %>%
   select(-otu) %>%# Remove the otus, we don't need them anymore
   distinct() # remove duplicate rows
 
+View(final)
 write.csv(final, outName, row.names = F)
 
 

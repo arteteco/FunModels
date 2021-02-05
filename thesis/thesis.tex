@@ -42,7 +42,7 @@ What we know is that fossils resembling mycorrhizal relationships have fossil da
 
 You could say ``\emph{wait a minute: those plants did not have true roots, how can we have a mycorrhizal relationship?}''. Good point. Fossil records provides evidence that fungal organisms entered in such symbiosis before the appearance of true roots, and as long as there is a multicellular host AM fungi are fine ~\citep{wang2006, bonfante2008}.
 
-Whether as lichen or as mycorrhiza, the symbiosis between plants and fungi is one of the most important, most ancient relationship in the history of living beings and it surely played a crucial role in the successful colonization of the land by plants ~\citep{pirozynski1975, malloch1980, harley1987, trappe1987, selosse1998, brundrett2002}. The relationship is so beneficial (for one or both parts) that today is the norm, and is well established in c. 85\% of extant plants ~\citep{cairney2000, strullu-derrien2018}, with a high degree of complexity ~\citep{heijden2015}.
+Whether as lichen or as mycorrhiza, the symbiosis between plants and fungi is one of the most important, most ancient relationship in the history of living beings and it surely played a crucial role in the successful colonization of the land by plants ~\citep{pirozynski1975, malloch1980, harley1987, trappe1987, selosse1998, brundrett2002}. The relationship is so beneficial (for one or both parts) that today is the norm, and is well established in c. 85\% of extant plants ~\citep{cairney2000, strullu-derrien2018}, with a high degree of complexity ~\citep{heijden2015} and mychorrizas networks often constitute 20\%–30\% of total soil microbial biomass ~\citep{leake2011}
 
 \chapter{Orchids}
 \label{orchids}
@@ -74,14 +74,22 @@ Giving a partial answer to those questions, in regard to Europe, is the main aim
 \label{thedatabase}
 
 Data from bibliography regarding the distribution of OMFs in Europe was collected into a starting database. The data had to be of fungi isolated from known orchid roots, and had to be georeferenced at the very least with the name of a close enough place; also, each sample had to have a genbank accession code in order to get the sequences and do the analysis.
-Only sequences from well-known OMFs were considered, that is: Ceratobasidiaceae, Tulasnellaceae, Inocybaceae, Serendipitaceae, Sebacinaceae, Russulaceae and Thelephoraceae ~\citep{dearnaley2012}
+Only sequences from well-known OMFs were considered, that is: Ceratobasidiaceae, Tulasnellaceae, Inocybaceae, Serendipitaceae, Sebacinaceae, Russulaceae and Thelephoraceae ~\citep{dearnaley2012}.
+Orchid species sampled were Orchis anthropophora, Cephalanthera damasonium ~\citep{julou2005}, Cephalanthera longifolia ~\citep{pecoraro2017}, Orchis simia and Orchis simia ~\citep{schatz2010, lievens2010}, Orchis tridentata ~\citep{pecoraro2012}, Orchis militaris ~\citep{shefferson2008}, Orchis purpurea ~\citep{lievens2010}, Himantoglossum adriaticum ~\citep{pecoraro2013}, Limodorum abortivum ~\citep{girlanda2005}, Spiranthes spiralis ~\citep{duffy2019}, Ophrys bertolonii ~\citep{pecoraro2015}, Neottia ovata ~\citep{hansjacquemyn2015, tesitelova2015} Neottia cordata ~\citep{tesitelova2015}, Dactylorhiza baltica ~\citep{shefferson2008} and Epipactis atrorubens ~\citep{shefferson2008}
+
 For each point six variables were extracted by using the ESDAC database ~\citep{esdac} and the World Clim database ~\citep{worldclim}: Nitrogen, Potassium and Phosphorus soil content, soil pH, minimum temperature of the coldest quarter and maximum precipitation of the wettest month. Those variables were selected because there is evidence that mycorrhizal fungi are very sensitive to nutrients in the soil: Nitrogen, Phosphorus and Potassium in high quantities (such as in eutrophicated soils because of agricultural fertilizers) have been seen to cause decline in the belowground mycorrhizal fungi species richness and cause dramatic changes in the community composition and structure ~\citep{lilleskov2002, baar2002, grant2011}. Mycorrhizal fungi growth and community composition also seem to be influenced by the soil pH ~\citep{aarle2002, carrino-kyker2016}, temperature and precipitation ~\citep{rillig2003}. That's not all though: those variables may serve as important proxy for other conditions. Biomes and vegetation are correlated with the environmental condition, both because they change said conditions (like soil pH) and because all species have a range of tolerance. Also, human impact can often be seen by the amount of chemicals in the soil, especially close to cultivated fields.
 Environmental values were extracted using \texttt{GDAL}'s \texttt{Sample Raster Values} tool (Using QGIS v. 3.16 as a GUI) and appended to the dataset
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/map.png}
+\caption{Sampled points}
+\end{figure}
 
 \chapter{Phylogenetic analysis}
 \label{phylogeneticanalysis}
 
-In order to understand the distribution and ecology of the OMFs we need to get a better insight of their phylogenesis. The hypothesis was for sequences of the same family to be clustered together, with some doubts with the Sebacinales as Serendipitaceae and Sebacinaceae are very close and only recently named so ~\citep{weiss2016a}.
+In order to understand the distribution and ecology of the OMFs we need to get a better insight of their phylogenesis. The hypothesis was for sequences of the same family to be clustered together, with some doubts with the Sebacinales as Serendipitaceae and Sebacinaceae are very close and only recently named so ~\citep{weiss2016}.
 The phylogenetic analysis were performed on the sequences deposited by the papers included in the database.
 The \textbf{primers} used were mainly ITS1F, ITS4, ITS3 and ITS4OF, all targeting \textbf{regions} between the 18S rRNA subunit and the 28S rRNA subunit, including the Internal Transcribed Spacers (ITS hereafter) 1 and ITS 2. Those primers were usually universal for \emph{Basidiomycota} or in some cases more specific for \emph{Tulasnellaceae} (like ITS4tul) or other taxa.
 Sequence \texttt{DQ520100} from \emph{Tremiscus helvelloides} was used as outgroup.
@@ -105,9 +113,7 @@ Sequence \texttt{DQ520100} from \emph{Tremiscus helvelloides} was used as outgro
 \label{multivariateanalysis}
 
 Before proceeding with the multivariate analysis, sequences have been clustered into Operative Taxonomic Units (\textbf{OTU} hereafter), by using cd-hit v. 4.8.1 ~\citep{li2001}. This process yielded 210 OTUs, with the extremes of \emph{Serendipitaceae} having two OTUs only, and \emph{Tulasnellaceae} 52 OTUs.
-The database was then pivoted in a presence-absence matrix, and for further analysis it was splitted by family, so that each matrix only had all the OTUs for that single family, yielding 7 different matrices. This was necessary to test what internal variability each family has. Another matrix was obtained by grouping together all the observations from the same family, to test what the variability between the different families is.
-Principal Component Analysis (PCA hereafter) and Non-metric Multi Dimensional Scaling (NMDS hereafter) were performed on all the matrices by using the R package \emph{vegan} ~\citep{dixon2003a}, to understand both how do the OTUs from different families cluster together (if they do) and what environmental factors are most relevant. For the NMDS an Euclidean distance method was used.
-Another matrix was obtained by using the single Families\slash OTUs as rows and removing the qualitaties orchid species variable. This was done to understand the impact of the environmental variables only on each OTU, therefore trying to understand how different the realized niche (ie variance in the environmental variables) is between the groups.
+The database was then pivoted in a presence-absence matrix, and for further analysis it was splitted by family, so that each matrix only had all the OTUs for that single family, yielding 7 different matrices. This was necessary to test what internal variability each family has; another matrix was obtained by grouping together all the observations from the same family, to test what the variability between the different families is.
 
 \begin{figure}[htbp]
 \centering
@@ -115,9 +121,16 @@ Another matrix was obtained by using the single Families\slash OTUs as rows and 
 \caption{Number of OTUs from each family}
 \end{figure}
 
-In the PCA and NMDS we have taken into account how each OTUs presence was influenced by environmental factors, such as climate and soil conditions. By using Species Distribution Models (SDM hereafter) we also take in account the presence of other OTUs, trying to disentangle the assembly processes that lead to the community as we can observe from the data we have.
+A final matrix was obtained by using the single Families\slash OTUs as rows and removing the qualitaties orchid species variable. This was done to understand the impact of the environmental variables only on each OTU, therefore trying to understand how different the realized niche (ie variance in the environmental variables) is between the groups.
 
-A bayesian analysis based hierarchical model of species community (HMSC) ~\citep{ovaskainen2017} was performed by using the \texttt{Hmsc} package in R, v. 3.0.9 ~\citep{tikhonov2020, hmsc-r2021}.
+Principal Component Analysis (PCA hereafter) is an orthogonal linear transformation of the data that aims to maximize the variance of the scalar projection of all points of a dataset into a number of axis ordinated by explained variance. This yields a set of axis, which can be used for clustering, to reduce the number of dimensions and so on. PCA was performed on all matrices using the base R functions \texttt{princomp()}, which takes into account the covariance matrix and applies an eigen method of spectral decomposition when possible. Only in the case of Russulaceae, when the number of observation was too limited, \texttt{prcomp()} was used, which does a single value decomposition on the centered and scaled data matrix.
+
+As of clustering, Non-metric Multi Dimensional Scaling (NMDS) is another widely used method that allows to visualize the level of similarity of individuals in a dataset. In contrast with PCA, it's non-linear and it's based on a distance matrix, computed by different algorithms depending on the data. It works better with non-parametric data, such as the present one. NMDS was performed on all the matrices by using the R package \emph{vegan} ~\citep{dixon2003a}, to understand both how do the OTUs from different families cluster together (if they do) and what environmental factors are most relevant; the Euclidean distance method was used.
+
+In both the PCA and the NMDS we have taken into account how each OTUs presence was influenced by environmental factors, such as climate and soil conditions, and how do they cluster together.
+Species Distribution Models (SDM hereafter) is another conceptual framework we can use to disentangle the assembly processes that lead to the community as we can observe from the data we have, and to infer the relative importance of the environmental factors. SDMs are numerical tools that combine observations of species occurrence or abundance with environmental estimates. They are used to gain ecological and evolutionary insights and to predict distributions across landscapes, sometimes requiring extrapolation in space and time ~\citep{elith2009}; those models can also inform us of how species‐to‐species associations depend on the environmental context, in a Joint Species Distribution Model which oftentimes outperforms simple SDMs especially with sparse data ~\citep{pollock2014, tikhonov2017}
+
+In the present work, a kind of JSDM called Hierarchical Model of Species Community (HMSC) ~\citep{ovaskainen2017} was performed by using the \texttt{Hmsc} package in R, v. 3.0.9 ~\citep{tikhonov2020, hmsc-r2021}; this method uses a bayesian framework to find the best fitting model based on the data, and works very well with presence-absence data as well as with environmental data ~\citep{hefley2016}
 Three parallel chains were run, sampling every 500 results. Regression was done with a probit model (probability + unit), a non-linear model where the dependent variable can only take two variables, which was particularly apt for this dataset because of the binary nature of the presence-absence matrix.
 Using this framework, a plot with the species responses to environmental covariates (beta parameters) was produced, with at least a 85\% posterior probability of being positive (red) or negative (blue).
 In addition, by using the presence-absence matrix, a correlation plot between the OTUs was established, looking at the positive associations with a statistical support of at least 85\% shown in red and negative associations shown in blue.
@@ -130,53 +143,93 @@ In addition, by using the presence-absence matrix, a correlation plot between th
 
 The \textbf{Bayesian analysis} yielded low probability branches. Nonetheless, it correctly put together the families, with the only notable exception of the \emph{Serendipitaceae} and \emph{Sebacinaceae} which were nested separately. This makes sense though, as they are both \emph{Sebacinales} and the \emph{serendipitaceae} were originally considered \emph{sebacinaceae B} ~\citep{weiss2004} and were only recently given a new name and properly defined ~\citep{weiss2016}
 The \textbf{Maximum parsimony analysis} gave similar results, with very low bootstrap support
-The low quality of the trees is likely the result of the inconsistent overlap of the sequences. Many primers were used, and the resulting sequences were differently trimmed before depositing.
 
-\chapter{Multivariate analysis}
-\label{multivariateanalysis}
+\chapter{PCA}
+\label{pca}
 
-The \textbf{PCA analysis} on the presence-absence matrix and the environmental variables combined showed how there is a substantial overlap of realized niche in the OTUs isolated from different orchids, with the notable exception of the Tulasnellaceae family; here we can see that the OTUs found in Ophrys are clustered separately from all the others, even though there is some overlap.
+The \textbf{PCA analysis} on the presence-absence matrix and the environmental variables combined showed how there is a substantial overlap of realized niche in the OTUs isolated from different orchids, without distinguishable clusterings except for the Tulasnellaceae isolated from Neottia cordata.
+In all cases, the variance was well explained by the first two components (>95\% explained variance), with two variables bearing most of the loading: Maximum Precipitation of the wettest month and Potassium content in the soil.
 
-\begin{figure}[htbp]
-\centering
-\includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/tulPCA.png}
-\caption{PCA done on the Tulasnellaceae OTUs only}
-\end{figure}
+The PCA done using the condensed family matrix yielded the same results, with the notable exception of the Limodorum abortivum, which a way higher variance than expected \includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/lumpPCA.png}
 
-The first two components explained most of the variance, roughly 98\%
+\begin{verbatim}
+Condensed Matrix
+
+          PC1      PC2
+K         0.996
+MaxPrec           0.994
+
+
+Ceratobasidiaceae
+
+         PC1      PC2
+K       -0.991  0.117                                                                                                                                                 
+MaxPrec  0.120  0.992  
+
+Russulaceae
+
+         PC1      PC2
+K        0.995                                                                                                                        
+MaxPrec        -0.994 
+
+
+Theleophoraceae
+
+          PC1    PC2
+K        0.999                                                                                                                        
+MaxPrec         0.987
+\end{verbatim}
+
+\chapter{NMDS}
+\label{nmds}
 
 The \textbf{NMDS analysis} on the single families seems to show that there is no highly relevant differentiation in the OTUs found in different orchid species, as the clustering wasn't really neat.
 Again, Tulasnellaceae seem to be the exception, with more distinct groups for different orchid hosts; while this could be a bias caused by the higher number of samples, Ceratobasidiaceae and Theleophoraceae did not show this pattern even though the sample amount where roughly similar. This could point to a higher specialization of the Tulasnellaceae group, confirming previous observations ~\citep{dearnaley2007}
 The NMDS campiring the families yielded only a partial overlapping clustering, which could indicate that different orchids may have different degrees of specialization and realized niche; Limodorum abortivum seemed to exibit the highest diversity, together with Spiranthes spiralis.
 
 Taking the Orchid species out of the NMDS analysis and only looking at how different OMF families clustered based on the environmental conditions showed an unexpected pattern. Russulaceae seemed to have a way bigger variance, which points to a broader realized niche, compared to all other families; Tulasnellaceae, which is the most sampled and abundant OMF in the dataset, had less than half the variance and clustered in an area comparable to Sebacinaceae.
+
+\begin{figure}[htbp]
+\centering
 \includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/nmdsEnvMatrix.png}
+\caption{NMDS of the OMFs families considering environmental variables only}
+\end{figure}
+
+\chapter{HMSC}
+\label{hmsc}
 
 The \textbf{HMSC} yielded basically two results.
-In the correlation between the families seemed like most families had a positive correlation, with two exceptions: Tulasnellaceae, who had no correlation (0) and Russulaceae, that had a negative correlation (-1). Apparently, Russulaceae not only have a bigger niche, they also don't share it. The mechanisms and reasons for such negative correlation could be interesting matter for future studies. \includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/corrLump.png}
+In the correlation between the families seemed like most families had a positive correlation, with two exceptions: Tulasnellaceae, who had no correlation (0) and Russulaceae, that had a negative correlation (-1). Apparently, Russulaceae not only have a bigger niche, they also don't share it. The mechanisms and reasons for such negative correlation could be interesting matter for future studies.
+OTUs from the same families seemed, on the other hand, to have no correlation with the others, positive or negative. This stands true for all families but Ceratobasidiaceae, which had more complex correlations, both positive and negative. Whether this is phylogenetically related is to be understood.
 
-OTUs from the same families seemed, on the other hand, to have no correlation with the others, positive or negative. This stands true for all families but Ceratobasidiaceae, which had more complex correlations, both positive and negative. Whether this is phylogenetically related is to be understood. \includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/corrCer.png}
+\begin{figure}[htbp]
+\centering
+\includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/corrLump.png}
+\caption{HMSC correlation between the families, taking into account the presence-absence data}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/corrCer.png}
+\caption{HMSC correlation between Ceratobasidiaceae OTUs}
+\end{figure}
+
+The second HMSC result is the correlation between the groups and the environmental variables.
+The difference between the families wasn't very pronounced, and the most relevant parameter seemed the minimum temperature, which was highly correlated with most families (only Tulasnellaceae had 0 correlation), confirming the importance of this environmental parameter in understanding the distribution of OMFs. Maximum precipitation was also invertedly correlated with most families, except for Russulaceae which showed a positive correlation. Of all the soil parameters, pH seemed the most important with a general inverse correlation (the lower the pH, the higher the presence of the OMF).
+The differences between OTUS from the same families were less clear-cut, showing different correlations for different OTUs in the same family, giving an idea of the diversity that can happen also at low taxonomic levels.
+It's worthy of notice that Tulasnellaceae showed again the least amount of internal differences, with Ceratobasidiaceae being at the opposite side of the spectrum.
 
 \part{Discussion}
 \label{discussion}
 
-This could be a bias because of the higher number of samples in the dataset, repeating th
+The phylogenetic analysis yielded low quality trees, from which no useful data could be extracted. This is likely the result of the inconsistent overlap of the sequences. Many primers were used, and the resulting sequences were differently trimmed before depositing, with many partial sequences.
 
-\part{Appendices}
-\label{appendices}
+The PCA analysis was more fruitful. Together with NMDS it seemed to cluster together the fungi isolated from different orchid species, which would support the idea of the OMFs generalist approach as being the most common, which is a still ongoing debate ~\citep{bailarote2012}. Also, variance was mainly explained by two main variables, Potassium and Maximum Precipitation, which means that those variables contribute the least to the definition of the niche and that the Orchids were living in places highly differenciated in those parameters. This could also be the result of the very broad sampling, and more research should be done on a smaller scale, as the Potsassium levels can dramatically vary even in a very small plot, doubling in just a few meters ~\citep{bogunovic2014}.
 
-\begin{figure}[htbp]
-\centering
-\includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/mcmc.jpg}
-\caption{Bayesian analysis tree}
-\end{figure}
+Russulaceae seemed from the NMDS to be more tolerant than other families to different environments, and despite the lower number of sampled individuals we witness a more widespread. This could mean that the Russulaceae are more generalist toward orchids, that they have a wider niche or that it's more ecologically flexible, or all of the above. Russulaceae are a very diverse family, but it is actually difficult to say that Russulaceae find a ``niche'' in the symbiosis with orchids, especially with Limodorum, as there doesn't seem to be any advantage for the fungus: this orchids seem to have an insufficient photosynthesis and to heavily rely on the OMFs to provide not only minerals but also carbon-base chemicals; this also means that distribution of Limodorum may also be potentially constrained by the occurrence of its fungal symbionts ~\citep{girlanda2005}.
 
-\begin{figure}[htbp]
-\centering
-\includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{images/mp.jpg}
-\caption{Maximum Parsimony tree. Node labels are the bootstrap values}
-\end{figure}
+The HMSC put the spotlight on Russulaceae again, with their negative correlation with the other families. This means that where we find Russulaceae, we are unlikely going to find other OMFs. This is probably the result of the main orchid species where Russulas were found in this dataset, Limodorum abortivum, which seems to show a specialization toward this family ~\citep{girlanda2005}. The rest of the data seem to confirm a major generalistic approach in the recruitment by orchids, also confirmed by the lack of any correlation between the different OTUs of the same family: the presence of one doesn't seem to inhibit other OTUs from the same family to infect the root.
 
 \input{latEnd.txt}
 
-\end{document}
+

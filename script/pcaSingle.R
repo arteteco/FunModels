@@ -5,7 +5,7 @@ library(caret)
 library(ggbiplot)
 
 # SETTINGS
-setwd("~/tesi/FunModels/data/matrix/")
+setwd("~/tesi/FunModels/data/matrix/lump/")
 
 dataPath <- "lump.csv"
 plotOut <- paste(substr(dataPath, 1,3), ".png", sep="")
@@ -34,7 +34,7 @@ dataDist <- select(data, -c("lat","lon","population")) %>%
 
 
 train <- dataDist
-pc <- prcomp(train[,-2],center = T,scale. = T)
+pc <- princomp(train[,-1],center = T,scale. = T)
 
 summary(pc)
 #png(plotOut)
@@ -45,3 +45,4 @@ ggbiplot(pc, obs.scale = 1, var.scale = 1,
   ggtitle("Lumped matrix")
 #dev.off()
 
+loadings(pc)

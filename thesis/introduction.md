@@ -36,7 +36,7 @@ What we know is that fossils resembling mycorrhizal relationships have fossil da
 
 You could say "*wait a minute: those plants did not have true roots, how can we have a mycorrhizal relationship?*". Good point. Fossil records provides evidence that fungal organisms entered in such symbiosis before the appearance of true roots, and as long as there is a multicellular host AM fungi are fine [#wang2006, bonfante2008].
 
-Whether as lichen or as mycorrhiza, the symbiosis between plants and fungi is one of the most important, most ancient relationship in the history of living beings and it surely played a crucial role in the successful colonization of the land by plants [#pirozynski1975, malloch1980, harley1987, trappe1987, selosse1998, brundrett2002]. The relationship is so beneficial (for one or both parts) that today is the norm, and is well established in c. 85% of extant plants [#cairney2000, strullu-derrien2018], with a high degree of complexity [#heijden2015].
+Whether as lichen or as mycorrhiza, the symbiosis between plants and fungi is one of the most important, most ancient relationship in the history of living beings and it surely played a crucial role in the successful colonization of the land by plants [#pirozynski1975, malloch1980, harley1987, trappe1987, selosse1998, brundrett2002]. The relationship is so beneficial (for one or both parts) that today is the norm, and is well established in c. 85% of extant plants [#cairney2000, strullu-derrien2018], with a high degree of complexity [#heijden2015] and mychorrizas networks often constitute 20%–30% of total soil microbial biomass [#leake2011]
 
 ## Orchids
 

@@ -18,8 +18,3 @@ BibTeX: bibliography
 
 {{discussion.md}}
 
-
-# Appendices
-
-{{appendices.md}}
-

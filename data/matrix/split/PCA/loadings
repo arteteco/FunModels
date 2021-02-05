@@ -1,0 +1,33 @@
+cer
+
+K       -0.991  0.117                                                                                                                                                 
+MaxPrec  0.120  0.992  
+
+rus
+
+K        0.995                                                                                                                        
+MaxPrec        -0.994 
+
+
+the
+
+K        0.999                                                                                                                        
+MaxPrec         0.987
+
+tul
+
+K        0.957  0.288                                                                                                                                                 
+MaxPrec -0.287  0.952
+
+seb
+
+K       -0.995                                                                
+MaxPrec        -0.989                                                 
+MinTemp                     
+N                                            
+P               0.115
+
+ser
+
+K       -0.999                                          
+MaxPrec        -0.999
