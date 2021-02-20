@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  5 FEB 2021 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  5 FEB 2021 20:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -232,28 +232,6 @@ Package tocbasic Info: babel extension for `lot' omitted
 Class scrbook Info: Redefining `\numberline' on input line 7123.
 \bibindent=\dimen138
 )
-(/home/tombom/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/home/tombom/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/home/tombom/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-\Gm@cnth=\count187
-\Gm@cntv=\count188
-\c@Gm@tempcnt=\count189
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
-\Gm@dimlist=\toks16
-)
 (/home/tombom/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -271,8 +249,8 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 (/home/tombom/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen147
-\Gin@req@width=\dimen148
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
 )
 
 Class scrbook Warning: Usage of package `parskip' together
@@ -296,43 +274,15 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 (/home/tombom/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count190
+\etb@tempcnta=\count187
 )
 Couldn't patch \@startsection
-)
-
-Class scrbook Warning: Usage of package `fancyhdr' together
-(scrbook)              with a KOMA-Script class is not recommended.
-(scrbook)              I'd suggest to use 
-(scrbook)              package `scrlayer' or `scrlayer-scrpage', because
-(scrbook)              they support KOMA-Script classes.
-(scrbook)              With `fancyhdr' several features of class `scrbook'
-(scrbook)              like options `headsepline', `footsepline' or command
-(scrbook)              `\MakeMarkcase' and the commands `\setkomafont' and
-(scrbook)              `\addtokomafont' for the page style elements need
-(scrbook)              explicite user intervention to work.
-(scrbook)              Nevertheless, using requested
-(scrbook)              package `fancyhdr' on input line 21.
-
-(/home/tombom/.TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip64
-\f@nch@O@elh=\skip65
-\f@nch@O@erh=\skip66
-\f@nch@O@olh=\skip67
-\f@nch@O@orh=\skip68
-\f@nch@O@elf=\skip69
-\f@nch@O@erf=\skip70
-\f@nch@O@olf=\skip71
-\f@nch@O@orf=\skip72
-)
-(/home/tombom/.TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
+) (/home/tombom/.TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip73
-\bibsep=\skip74
+\bibhang=\skip64
+\bibsep=\skip65
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count191
+\c@NAT@ctr=\count188
 )
 
 Class scrbook Warning: Usage of package `tocbibind' together
@@ -344,7 +294,7 @@ Class scrbook Warning: Usage of package `tocbibind' together
 (scrbook)              the list of figures, list of tables, bibliography,
 (scrbook)              index and the running head.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `tocbibind' on input line 38.
+(scrbook)              package `tocbibind' on input line 46.
 
 (/home/tombom/.TinyTeX/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -359,7 +309,7 @@ LaTeX Info: Redefining \_ on input line 42.
 )
 (/home/tombom/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count192
+\l__kernel_color_stack_int=\count189
 \l__pdf_internal_box=\box49
 )
 (./thesis.aux
@@ -369,24 +319,24 @@ LaTeX Warning: Label `phylogeneticanalysis' multiply defined.
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-Package scrbase Info: activating english \contentsname on input line 51.
-Package scrbase Info: activating english \listfigurename on input line 51.
-Package scrbase Info: activating english \listtablename on input line 51.
-Package tocbasic Info: usage of `tocbibind' detected on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+Package scrbase Info: activating english \contentsname on input line 59.
+Package scrbase Info: activating english \listfigurename on input line 59.
+Package scrbase Info: activating english \listtablename on input line 59.
+Package tocbasic Info: usage of `tocbibind' detected on input line 59.
 
 
 Package tocbasic Warning: `tocbibind' redefinition of `\tableofcontents'
@@ -406,40 +356,6 @@ Package tocbasic Warning: `tocbibind' redefinition of `\listoftables'
 (tocbasic)                Note: Loading `tocbibind' without option `notlot'
 (tocbasic)                can break several features of `tocbasic'.
 
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
-* v-part:(T,H,B)=(65.44142pt, 714.164pt, 65.44142pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=469.47049pt
-* \textheight=714.164pt
-* \oddsidemargin=-1.1381pt
-* \evensidemargin=-1.1381pt
-* \topmargin=-46.70357pt
-* \headheight=18.125pt
-* \headsep=21.75pt
-* \topskip=12.0pt
-* \footskip=-56.9055pt
-* \marginparwidth=49.79233pt
-* \marginparsep=12.8401pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
 (/home/tombom/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -454,6 +370,10 @@ Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ))
 (/home/tombom/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/tombom/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -471,9 +391,9 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 57.
+(Font)              <17.28> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 57.
+(Font)              <12> on input line 65.
 
 [1
 
@@ -485,18 +405,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
-)
+ [2])
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
 
-
-
-Package Fancyhdr Warning: \footskip is too small (-56.9055pt): 
-Make it at least 14.49998pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-[2] [3])
+ [3])
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
@@ -509,92 +422,92 @@ chapter 1.
 chapter 2.
 [6] [7]
 chapter 3.
-[8] [9] [10]
+[8] [9]
+Overfull \hbox (5.20602pt too wide) in paragraph at lines 57--59
+[]\OT1/cmr/m/n/12 While the re-la-tion-ship be-tween or-chids and OMFs is known
+ since over a cen-tury  (Bernard,
+ []
+
+[10] [11]
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 70.
-[11
+[12
 
 ]
 chapter 4.
-[12]
-<images/map.png, id=46, 844.8363pt x 597.432pt>
+[13]
+<images/map.png, id=50, 844.8363pt x 597.432pt>
 File: images/map.png Graphic file (type png)
 <use images/map.png>
 Package pdftex.def Info: images/map.png  used on input line 85.
-(pdftex.def)             Requested size: 469.4698pt x 331.9889pt.
+(pdftex.def)             Requested size: 448.13495pt x 316.90181pt.
 
 chapter 5.
-[13 <./images/map.png>]
+[14 <./images/map.png>] [15]
 chapter 6.
-[14]
-<images/clust.png, id=58, 526.96875pt x 325.215pt>
+<images/clust.png, id=61, 526.96875pt x 325.215pt>
 File: images/clust.png Graphic file (type png)
 <use images/clust.png>
 Package pdftex.def Info: images/clust.png  used on input line 120.
-(pdftex.def)             Requested size: 469.4912pt x 289.74313pt.
- [15 <./images/clust.png (PNG copy)>] [16] [17]
+(pdftex.def)             Requested size: 448.1507pt x 276.573pt.
+[16] [17 <./images/clust.png (PNG copy)>] [18] [19]
 part III.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 138.
-[18
+[20
 
 ]
 chapter 7.
 chapter 8.
-<images/lumpPCA.png, id=71, 866.48718pt x 677.53125pt>
+<images/lumpPCA.png, id=78, 866.48718pt x 677.53125pt>
 File: images/lumpPCA.png Graphic file (type png)
 <use images/lumpPCA.png>
 Package pdftex.def Info: images/lumpPCA.png  used on input line 153.
-(pdftex.def)             Requested size: 469.46947pt x 367.09167pt.
+(pdftex.def)             Requested size: 448.12994pt x 350.40569pt.
 
-Overfull \hbox (29.99898pt too wide) in paragraph at lines 153--154
+Overfull \hbox (29.999pt too wide) in paragraph at lines 153--154
 [] 
  []
 
-[19] [20 <./images/lumpPCA.png (PNG copy)>]
+[21] [22 <./images/lumpPCA.png (PNG copy)>]
 chapter 9.
-<images/nmdsEnvMatrix.png, id=79, 651.18282pt x 435.12563pt>
+[23]
+<images/nmdsEnvMatrix.png, id=88, 651.18282pt x 435.12563pt>
 File: images/nmdsEnvMatrix.png Graphic file (type png)
 <use images/nmdsEnvMatrix.png>
 Package pdftex.def Info: images/nmdsEnvMatrix.png  used on input line 194.
-(pdftex.def)             Requested size: 469.4872pt x 313.71513pt.
-[21]
+(pdftex.def)             Requested size: 448.14415pt x 299.45354pt.
+
 chapter 10.
-[22 <./images/nmdsEnvMatrix.png (PNG copy)>]
-<images/corrLump.png, id=86, 392.21532pt x 435.87843pt>
+[24 <./images/nmdsEnvMatrix.png (PNG copy)>]
+<images/corrLump.png, id=92, 392.21532pt x 435.87843pt>
 File: images/corrLump.png Graphic file (type png)
 <use images/corrLump.png>
 Package pdftex.def Info: images/corrLump.png  used on input line 207.
-(pdftex.def)             Requested size: 469.50098pt x 521.76787pt.
-<images/corrCer.png, id=87, 685.8122pt x 655.69969pt>
+(pdftex.def)             Requested size: 428.87672pt x 476.62114pt.
+<images/corrCer.png, id=93, 685.8122pt x 655.69969pt>
 File: images/corrCer.png Graphic file (type png)
 <use images/corrCer.png>
 Package pdftex.def Info: images/corrCer.png  used on input line 213.
-(pdftex.def)             Requested size: 469.48552pt x 448.87144pt.
- [23] [24 <./images/corrLump.png (PNG copy)>] [25 <./images/corrCer.png (PNG co
+(pdftex.def)             Requested size: 448.14813pt x 428.47092pt.
+ [25] [26 <./images/corrLump.png (PNG copy)>] [27 <./images/corrCer.png (PNG co
 py)>]
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 222.
-[26
+[28
 
-] (./latEnd.txt (./thesis.bbl [27] [28] [29] [30] [31] [32]
-Underfull \hbox (badness 1796) in paragraph at lines 456--462
-\OT1/cmr/m/n/12 Alaska.  \OT1/cmr/m/it/12 Ecol-ogy\OT1/cmr/m/n/12 , 83(1):104--
-115, 2002.  ISSN 1939-9170.  doi: 10.1890/0012-
+] [29] (./latEnd.txt (./thesis.bbl
+Underfull \hbox (badness 1454) in paragraph at lines 17--21
+[]\OT1/cmr/m/n/12 TNT, a free pro-gram for phy-lo-ge-netic anal-y-sis - Golobof
+f - 2008 - Cladis-tics
  []
 
-[33]
-Underfull \hbox (badness 1152) in paragraph at lines 494--497
-[]\OT1/cmr/m/n/12 L. Meschinelli.  \OT1/cmr/m/it/12 Fun-go-rum Fos-sil-ium Om-n
-ium: Hu-cusque Cog-n-i-to-rum Icono-graphia\OT1/cmr/m/n/12 .
- []
-
-[34] [35] [36] [37]) [38]
+[30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]) [42]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
@@ -607,13 +520,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 6050 strings out of 481331
- 117817 string characters out of 5917526
- 536697 words of memory out of 5000000
- 22841 multiletter control sequences out of 15000+600000
+ 5462 strings out of 481331
+ 109465 string characters out of 5917526
+ 519095 words of memory out of 5000000
+ 22263 multiletter control sequences out of 15000+600000
  411368 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 110i,10n,113p,10674b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 110i,8n,113p,10674b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600p
 k></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
 /home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
@@ -622,10 +535,10 @@ home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home
 bom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/tombom
 /.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/tombom/.T
 inyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (38 pages, 10480954 bytes).
+Output written on thesis.pdf (42 pages, 10483482 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 182 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

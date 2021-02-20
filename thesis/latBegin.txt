@@ -2,7 +2,7 @@
 \addtokomafont{disposition}{\rmfamily}
 \title{Mycorrhizas}
 \author{Manuel Moscariello}
-\usepackage[a4paper,left=2.5cm,right=2cm,top=2.3cm,bottom=2.3cm, footskip=-2cm]{geometry}
+%\usepackage[a4paper,left=2.5cm,right=2cm,top=2.3cm,bottom=2.7cm, footskip=-2cm]{geometry}
 
 \renewcommand{\familydefault}{\rmdefault}
 
@@ -17,13 +17,21 @@
 \usepackage[parfill]{parskip}
 
 % Page number on the right
-\usepackage{fancyhdr}
-\fancypagestyle{plain}{
-  \fancyhf{}
-  \fancyfoot[R]{\thepage}
-  \renewcommand{\headrulewidth}{0pt}
-  \renewcommand{\footrulewidth}{0pt}%
-}
+
+%\usepackage[headsepline,manualmark]{scrlayer-scrpage}
+%\clearpairofpagestyles
+
+%\setkomafont{pageheadfoot}{} % define font style for page head foot
+%\clearpairofpagestyles % remove the defaults
+%\ofoot{\pagemark} %
+
+% \usepackage{fancyhdr}
+% \fancypagestyle{plain}{
+%   \fancyhf{}
+%  \fancyfoot[R]{\thepage}
+%  \renewcommand{\headrulewidth}{0pt}
+%  \renewcommand{\footrulewidth}{0pt}%
+%}
 
 % bibliography with bibtex
 
@@ -51,7 +59,7 @@
 \begin{document} 
 
 \font\calibri=cmr12 at 40pt
-\title{{\calibri Mycorrhizas}}
+\title{{\calibri The ecology and distribution of European orchid mycorrhizal fungi}}
 \author{{\Huge Manuel Moscariello}}
 \maketitle
 

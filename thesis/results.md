@@ -11,60 +11,25 @@ The **PCA analysis** on the presence-absence matrix and the environmental variab
 In all cases, the variance was well explained by the first two components (>95% explained variance), with two variables bearing most of the loading: Maximum Precipitation of the wettest month and Potassium content in the soil.
 
 The PCA done using the condensed family matrix yielded the same results, with the notable exception of the Limodorum abortivum, which a way higher variance than expected ![PCA done on the condensed matrix of all seven OTUs families](images/lumpPCA.png)
-
-
-
-```
-Condensed Matrix
-
-          PC1      PC2
-K         0.996
-MaxPrec           0.994
-
-
-Ceratobasidiaceae
-
-         PC1      PC2
-K       -0.991  0.117                                                                                                                                                 
-MaxPrec  0.120  0.992  
-
-Russulaceae
-
-         PC1      PC2
-K        0.995                                                                                                                        
-MaxPrec        -0.994 
-
-
-Theleophoraceae
-
-          PC1    PC2
-K        0.999                                                                                                                        
-MaxPrec         0.987
-```
-
-
-
 ## NMDS
 The **NMDS analysis** on the single families seems to show that there is no highly relevant differentiation in the OTUs found in different orchid species, as the clustering wasn't really neat.
 Again, Tulasnellaceae seem to be the exception, with more distinct groups for different orchid hosts; while this could be a bias caused by the higher number of samples, Ceratobasidiaceae and Theleophoraceae did not show this pattern even though the sample amount where roughly similar. This could point to a higher specialization of the Tulasnellaceae group, confirming previous observations [#dearnaley2007]
-The NMDS campiring the families yielded only a partial overlapping clustering, which could indicate that different orchids may have different degrees of specialization and realized niche; Limodorum abortivum seemed to exibit the highest diversity, together with Spiranthes spiralis. 
+The NMDS comparing the families yielded only a partial overlapping clustering, which could indicate that different orchids may have different degrees of specialization and realized niche; Limodorum abortivum seemed to exibit the highest diversity, together with Spiranthes spiralis. 
 
 Taking the Orchid species out of the NMDS analysis and only looking at how different OMF families clustered based on the environmental conditions showed an unexpected pattern. Russulaceae seemed to have a way bigger variance, which points to a broader realized niche, compared to all other families; Tulasnellaceae, which is the most sampled and abundant OMF in the dataset, had less than half the variance and clustered in an area comparable to Sebacinaceae. 
 
 ![NMDS of the OMFs families considering environmental variables only](images/nmdsEnvMatrix.png)
 
 
-## HMSC
+## Hierarchical modelling of species communities
 
-The **HMSC** yielded basically two results.
-In the correlation between the families seemed like most families had a positive correlation, with two exceptions: Tulasnellaceae, who had no correlation (0) and Russulaceae, that had a negative correlation (-1). Apparently, Russulaceae not only have a bigger niche, they also don't share it. The mechanisms and reasons for such negative correlation could be interesting matter for future studies. 
-OTUs from the same families seemed, on the other hand, to have no correlation with the others, positive or negative. This stands true for all families but Ceratobasidiaceae, which had more complex correlations, both positive and negative. Whether this is phylogenetically related is to be understood. 
+Joint species distribution modelling in HMSC. In the correlation between the families seemed like most families had a positive correlation, with two exceptions: Tulasnellaceae, who had no correlation (0) and Russulaceae, that had a negative correlation (-1). OTUs from the same families seemed, on the other hand, to have no correlation with the others, positive or negative. This stands true for all families but Ceratobasidiaceae, which had more complex correlations, both positive and negative. Whether this is phylogenetically related is to be understood. 
 
 
 
 ![HMSC correlation between the families, taking into account the presence-absence data](images/corrLump.png)
 
-![HMSC correlation between Ceratobasidiaceae OTUs](images/corrCer.png)
+![](images/corrCer.png)
 
 The second HMSC result is the correlation between the groups and the environmental variables.
 The difference between the families wasn't very pronounced, and the most relevant parameter seemed the minimum temperature, which was highly correlated with most  families (only Tulasnellaceae had 0 correlation), confirming the importance of this environmental parameter in understanding the distribution of OMFs. Maximum precipitation was also invertedly correlated with most families, except for Russulaceae which showed a positive correlation. Of all the soil parameters, pH seemed the most important with a general inverse correlation (the lower the pH, the higher the presence of the OMF). 
