@@ -11,7 +11,7 @@ It was not until the development of molecular phylogenetics techniques that some
 The molecular clock is one of the most widely used tools to investigate the timing of phylogenetic events. It is based on the hypothesis of the constancy of the rate of evolution with time and, when combined with the use of fossil records, allows the dating of branching events on phylogenetic trees [#lepage2007, weir2008].
 From molecular clock analysis seems like fungi are sister group to animals, that is, the two lineages are close, diverging around 1.5 billion years ago [#wang1999]. The two groups form one supergroup called Opisthokhonta [#cavalier-smith1987], from the Greek opísthios (rear, posterior) and kontós ("pole" i.e. "flagellum"), since the group is characterized by flagellate cells that propel themselves with a single, posterior flagellum, now lost in most fungi [#steenkamp2006] with the notable exception of the Chytridiomycota division [#james2006a].
 
-![Simplified phylogenetic tree showing the relationship between the three clades](pfatree.png)
+![Simplified phylogenetic tree showing the relationship between the three clades](images/pfatree.png)
 
 
 The ancestors of fungi are believed to be simple aquatic forms with flagellated spores, similar to members of the extant phylum Chytridiomycota (chytrids), which are now considered one of the early-diverging clade in the kingdom [#james2006]. The first terrestrial fungi colonized land probably before plants [#heckman2001], as saprobe (taking nutrition out of dead matter) and/or in symbiosis with organisms capable of photosynthesis. 

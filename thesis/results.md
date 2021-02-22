@@ -39,6 +39,7 @@ The difference between the families wasn't very pronounced, and the most relevan
 The differences between OTUS from the same families were less clear-cut, showing different correlations for different OTUs in the same family, giving an idea of the diversity that can happen also at low taxonomic levels.
 It's worthy of notice that Tulasnellaceae showed again the least amount of internal differences, with Ceratobasidiaceae being at the opposite side of the spectrum.
 
+
 ![HMSC taking into account the environmental variables for all the families](images/envCorrLump.png)
 
 ![HMSC taking into account the environmental variables for Ceratobasidiaceae, Inocybaceae, Russulaceae and Sebacinaceae OTUs](images/hmsc01.png)

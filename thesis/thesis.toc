@@ -9,6 +9,6 @@
 \contentsline {chapter}{\numberline {4}Phylogenetic analysis}{21}{}%
 \contentsline {chapter}{\numberline {5}PCA}{21}{}%
 \contentsline {chapter}{\numberline {6}NMDS}{22}{}%
-\contentsline {chapter}{\numberline {7}Hierarchical modelling of species communities}{23}{}%
+\contentsline {chapter}{\numberline {7}Hierarchical modelling of species communities}{24}{}%
 \contentsline {part}{\numberline {IV}Discussion}{32}{}%
 \contentsline {chapter}{Bibliography}{34}{}%
