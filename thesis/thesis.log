@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  5 FEB 2021 20:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  21 FEB 2021 19:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -402,131 +402,145 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/home/tombom/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./thesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
- [2])
+(Font)              <6> on input line 4.
+)
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
 
- [3])
+ [2] [3])
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 4.
 [4
 
-]
+] [5] [6] [7]
 chapter 1.
-[5]
-chapter 2.
-[6] [7]
-chapter 3.
-[8] [9]
-Overfull \hbox (5.20602pt too wide) in paragraph at lines 57--59
-[]\OT1/cmr/m/n/12 While the re-la-tion-ship be-tween or-chids and OMFs is known
- since over a cen-tury  (Bernard,
- []
-
-[10] [11]
+[8] [9] [10] [11]
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 70.
+(scrkbase)              on input line 68.
 [12
 
-]
-chapter 4.
-[13]
+] [13]
 <images/map.png, id=50, 844.8363pt x 597.432pt>
 File: images/map.png Graphic file (type png)
 <use images/map.png>
-Package pdftex.def Info: images/map.png  used on input line 85.
+Package pdftex.def Info: images/map.png  used on input line 80.
 (pdftex.def)             Requested size: 448.13495pt x 316.90181pt.
 
-chapter 5.
+chapter 2.
 [14 <./images/map.png>] [15]
-chapter 6.
-<images/clust.png, id=61, 526.96875pt x 325.215pt>
+chapter 3.
+<images/clust.png, id=61, 496.85625pt x 677.53125pt>
 File: images/clust.png Graphic file (type png)
 <use images/clust.png>
-Package pdftex.def Info: images/clust.png  used on input line 120.
-(pdftex.def)             Requested size: 448.1507pt x 276.573pt.
+Package pdftex.def Info: images/clust.png  used on input line 115.
+(pdftex.def)             Requested size: 349.53314pt x 476.63611pt.
 [16] [17 <./images/clust.png (PNG copy)>] [18] [19]
 part III.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 138.
+(scrkbase)              on input line 133.
 [20
 
 ]
-chapter 7.
-chapter 8.
+chapter 4.
+chapter 5.
 <images/lumpPCA.png, id=78, 866.48718pt x 677.53125pt>
 File: images/lumpPCA.png Graphic file (type png)
 <use images/lumpPCA.png>
-Package pdftex.def Info: images/lumpPCA.png  used on input line 153.
+Package pdftex.def Info: images/lumpPCA.png  used on input line 148.
 (pdftex.def)             Requested size: 448.12994pt x 350.40569pt.
 
-Overfull \hbox (29.999pt too wide) in paragraph at lines 153--154
+Overfull \hbox (29.999pt too wide) in paragraph at lines 148--149
 [] 
  []
 
-[21] [22 <./images/lumpPCA.png (PNG copy)>]
-chapter 9.
-[23]
-<images/nmdsEnvMatrix.png, id=88, 651.18282pt x 435.12563pt>
+[21]
+chapter 6.
+[22 <./images/lumpPCA.png (PNG copy)>]
+<images/nmdsEnvMatrix.png, id=85, 651.18282pt x 435.12563pt>
 File: images/nmdsEnvMatrix.png Graphic file (type png)
 <use images/nmdsEnvMatrix.png>
-Package pdftex.def Info: images/nmdsEnvMatrix.png  used on input line 194.
+Package pdftex.def Info: images/nmdsEnvMatrix.png  used on input line 161.
 (pdftex.def)             Requested size: 448.14415pt x 299.45354pt.
 
-chapter 10.
-[24 <./images/nmdsEnvMatrix.png (PNG copy)>]
-<images/corrLump.png, id=92, 392.21532pt x 435.87843pt>
-File: images/corrLump.png Graphic file (type png)
-<use images/corrLump.png>
-Package pdftex.def Info: images/corrLump.png  used on input line 207.
-(pdftex.def)             Requested size: 428.87672pt x 476.62114pt.
+chapter 7.
+[23] [24 <./images/nmdsEnvMatrix.png (PNG copy)>]
+<images/envCorrLump.png, id=92, 776.14969pt x 435.87843pt>
+File: images/envCorrLump.png Graphic file (type png)
+<use images/envCorrLump.png>
+Package pdftex.def Info: images/envCorrLump.png  used on input line 172.
+(pdftex.def)             Requested size: 448.14197pt x 251.67235pt.
 <images/corrCer.png, id=93, 685.8122pt x 655.69969pt>
 File: images/corrCer.png Graphic file (type png)
 <use images/corrCer.png>
-Package pdftex.def Info: images/corrCer.png  used on input line 213.
+Package pdftex.def Info: images/corrCer.png  used on input line 178.
 (pdftex.def)             Requested size: 448.14813pt x 428.47092pt.
- [25] [26 <./images/corrLump.png (PNG copy)>] [27 <./images/corrCer.png (PNG co
-py)>]
+<images/hmscfam01.png, id=94, 597.27272pt x 844.74272pt>
+File: images/hmscfam01.png Graphic file (type png)
+<use images/hmscfam01.png>
+Package pdftex.def Info: images/hmscfam01.png  used on input line 184.
+(pdftex.def)             Requested size: 337.00403pt x 476.63605pt.
+<images/hmscfam02.png, id=95, 597.27272pt x 844.74272pt>
+File: images/hmscfam02.png Graphic file (type png)
+<use images/hmscfam02.png>
+Package pdftex.def Info: images/hmscfam02.png  used on input line 190.
+(pdftex.def)             Requested size: 337.00403pt x 476.63605pt.
+File: images/envCorrLump.png Graphic file (type png)
+<use images/envCorrLump.png>
+Package pdftex.def Info: images/envCorrLump.png  used on input line 201.
+(pdftex.def)             Requested size: 448.14197pt x 251.67235pt.
+ [25 <./images/envCorrLump.png (PNG copy)>] [26 <./images/corrCer.png (PNG copy
+)>] [27 <./images/hmscfam01.png>] [28 <./images/hmscfam02.png>]
+<images/hmsc01.png, id=111, 597.27272pt x 844.74272pt>
+File: images/hmsc01.png Graphic file (type png)
+<use images/hmsc01.png>
+Package pdftex.def Info: images/hmsc01.png  used on input line 207.
+(pdftex.def)             Requested size: 337.00403pt x 476.63605pt.
+<images/hmsc02.png, id=112, 597.27272pt x 844.74272pt>
+File: images/hmsc02.png Graphic file (type png)
+<use images/hmsc02.png>
+Package pdftex.def Info: images/hmsc02.png  used on input line 213.
+(pdftex.def)             Requested size: 337.00403pt x 476.63605pt.
+ [29] [30 <./images/hmsc01.png>] [31 <./images/hmsc02.png>]
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 222.
-[28
+(scrkbase)              on input line 217.
+[32
 
-] [29] (./latEnd.txt (./thesis.bbl
+] (./latEnd.txt (./thesis.bbl [33]
 Underfull \hbox (badness 1454) in paragraph at lines 17--21
 []\OT1/cmr/m/n/12 TNT, a free pro-gram for phy-lo-ge-netic anal-y-sis - Golobof
 f - 2008 - Cladis-tics
  []
 
-[30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]) [42]
+[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]) [47]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
 
- (./thesis.aux)
+
+(./thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 5462 strings out of 481331
- 109465 string characters out of 5917526
- 519095 words of memory out of 5000000
- 22263 multiletter control sequences out of 15000+600000
+ 5507 strings out of 481331
+ 110467 string characters out of 5917526
+ 519820 words of memory out of 5000000
+ 22304 multiletter control sequences out of 15000+600000
  411368 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 110i,8n,113p,10674b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 110i,7n,113p,10674b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600p
 k></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
 /home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
@@ -535,10 +549,10 @@ home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home
 bom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/tombom
 /.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/tombom/.T
 inyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (42 pages, 10483482 bytes).
+Output written on thesis.pdf (47 pages, 14534046 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
+ 206 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

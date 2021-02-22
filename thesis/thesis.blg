@@ -5,53 +5,51 @@ The style file: abbrvnat.bst
 Database file #1: bibliography.bib
 Warning--to sort, need author or key in CITES-1
 Warning--to sort, need author or key in esdac
-Warning--to sort, need author or key in worldclim
 Warning--to sort, need author or key in tnt
 Warning--empty year in CITES-1
 Warning--empty year in esdac
 Warning--empty year in tnt
-Warning--empty year in worldclim
 Warning--there's a number but no volume in rayner1927
 Warning--empty journal in trappe1987
-You've used 99 entries,
+You've used 107 entries,
             2773 wiz_defined-function locations,
-            1303 strings with 28379 characters,
-and the built_in function-call counts, 57732 in all, are:
-= -- 5261
-> -- 4088
-< -- 45
-+ -- 1379
-- -- 1280
-* -- 5418
-:= -- 9090
-add.period$ -- 449
-call.type$ -- 99
-change.case$ -- 719
-chr.to.int$ -- 99
-cite$ -- 212
-duplicate$ -- 2074
-empty$ -- 3984
-format.name$ -- 1407
-if$ -- 11814
-int.to.chr$ -- 1
+            1361 strings with 30383 characters,
+and the built_in function-call counts, 63371 in all, are:
+= -- 5774
+> -- 4538
+< -- 46
++ -- 1529
+- -- 1421
+* -- 6001
+:= -- 10005
+add.period$ -- 492
+call.type$ -- 107
+change.case$ -- 790
+chr.to.int$ -- 106
+cite$ -- 225
+duplicate$ -- 2247
+empty$ -- 4324
+format.name$ -- 1559
+if$ -- 12940
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 96
-newline$ -- 649
-num.names$ -- 388
-pop$ -- 1214
+missing$ -- 105
+newline$ -- 708
+num.names$ -- 424
+pop$ -- 1311
 preamble$ -- 1
-purify$ -- 623
+purify$ -- 686
 quote$ -- 0
-skip$ -- 1665
+skip$ -- 1801
 stack$ -- 0
-substring$ -- 2345
-swap$ -- 198
+substring$ -- 2606
+swap$ -- 214
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1074
-warning$ -- 10
-while$ -- 458
+type$ -- 1162
+warning$ -- 8
+while$ -- 503
 width$ -- 0
-write$ -- 1583
-(There were 10 warnings)
+write$ -- 1727
+(There were 8 warnings)

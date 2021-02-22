@@ -1,4 +1,4 @@
-\begin{thebibliography}{99}
+\begin{thebibliography}{107}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -18,10 +18,6 @@ Appendices | {{CITES}}.
   {{Cladistics}} - {{Wiley Online Library}}.
 \newblock
   https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00217.x.
-
-\bibitem[wor()]{worldclim}
-{{WorldClim}}.
-\newblock https://www.worldclim.org/.
 
 \bibitem[Aarle et~al.(2002)Aarle, Olsson, and S{\"o}derstr{\"o}m]{aarle2002}
 I.~M.~V. Aarle, P.~A. Olsson, and B.~S{\"o}derstr{\"o}m.
@@ -46,6 +42,13 @@ B.~C. Bailarote, B.~Lievens, and H.~Jacquemyn.
   1655--1665, 2012.
 \newblock ISSN 1537-2197.
 \newblock \doi{10.3732/ajb.1200117}.
+
+\bibitem[Barman et~al.(2016)Barman, Samanta, Saha, and Datta]{barman2016}
+J.~Barman, A.~Samanta, B.~Saha, and S.~Datta.
+\newblock Mycorrhiza.
+\newblock \emph{Resonance}, 21\penalty0 (12):\penalty0 1093--1104, Dec. 2016.
+\newblock ISSN 0973-712X.
+\newblock \doi{10.1007/s12045-016-0421-6}.
 
 \bibitem[Berbee and Taylor(1993)]{berbee1993}
 M.~L. Berbee and J.~W. Taylor.
@@ -317,6 +320,16 @@ T.~J. Hefley and M.~B. Hooten.
 \newblock ISSN 2364-494X.
 \newblock \doi{10.1007/s40823-016-0008-7}.
 
+\bibitem[Hijmans et~al.(2005)Hijmans, Cameron, Parra, Jones, and
+  Jarvis]{hijmans2005}
+R.~J. Hijmans, S.~E. Cameron, J.~L. Parra, P.~G. Jones, and A.~Jarvis.
+\newblock Very high resolution interpolated climate surfaces for global land
+  areas.
+\newblock \emph{International Journal of Climatology}, 25\penalty0
+  (15):\penalty0 1965--1978, 2005.
+\newblock ISSN 1097-0088.
+\newblock \doi{10.1002/joc.1276}.
+
 \bibitem[{hmsc-r}(2021)]{hmsc-r2021}
 {hmsc-r}.
 \newblock Hmsc-r/{{HMSC}}, Jan. 2021.
@@ -354,16 +367,16 @@ H.~Jacquemyn, K.~J. Duffy, and M.-A. Selosse.
 \newblock ISBN 978-3-319-56363-3.
 \newblock \doi{10.1007/978-3-319-56363-3-8}.
 
-\bibitem[James et~al.(2006)James, Kauff, Schoch, Matheny, Hofstetter, Cox,
-  Celio, Gueidan, Fraker, Miadlikowska, Lumbsch, Rauhut, Reeb, Arnold, Amtoft,
-  Stajich, Hosaka, Sung, Johnson, O'Rourke, Crockett, Binder, Curtis, Slot,
-  Wang, Wilson, Sch{\"u}{\ss}ler, Longcore, O'Donnell, {Mozley-Standridge},
-  Porter, Letcher, Powell, Taylor, White, Griffith, Davies, Humber, Morton,
-  Sugiyama, Rossman, Rogers, Pfister, Hewitt, Hansen, Hambleton, Shoemaker,
-  Kohlmeyer, {Volkmann-Kohlmeyer}, Spotts, Serdani, Crous, Hughes, Matsuura,
-  Langer, Langer, Untereiner, L{\"u}cking, B{\"u}del, Geiser, Aptroot,
-  Diederich, Schmitt, Schultz, Yahr, Hibbett, Lutzoni, McLaughlin, Spatafora,
-  and Vilgalys]{james2006}
+\bibitem[James et~al.(2006{\natexlab{a}})James, Kauff, Schoch, Matheny,
+  Hofstetter, Cox, Celio, Gueidan, Fraker, Miadlikowska, Lumbsch, Rauhut, Reeb,
+  Arnold, Amtoft, Stajich, Hosaka, Sung, Johnson, O'Rourke, Crockett, Binder,
+  Curtis, Slot, Wang, Wilson, Sch{\"u}{\ss}ler, Longcore, O'Donnell,
+  {Mozley-Standridge}, Porter, Letcher, Powell, Taylor, White, Griffith,
+  Davies, Humber, Morton, Sugiyama, Rossman, Rogers, Pfister, Hewitt, Hansen,
+  Hambleton, Shoemaker, Kohlmeyer, {Volkmann-Kohlmeyer}, Spotts, Serdani,
+  Crous, Hughes, Matsuura, Langer, Langer, Untereiner, L{\"u}cking, B{\"u}del,
+  Geiser, Aptroot, Diederich, Schmitt, Schultz, Yahr, Hibbett, Lutzoni,
+  McLaughlin, Spatafora, and Vilgalys]{james2006}
 T.~Y. James, F.~Kauff, C.~L. Schoch, P.~B. Matheny, V.~Hofstetter, C.~J. Cox,
   G.~Celio, C.~Gueidan, E.~Fraker, J.~Miadlikowska, H.~T. Lumbsch, A.~Rauhut,
   V.~Reeb, A.~E. Arnold, A.~Amtoft, J.~E. Stajich, K.~Hosaka, G.-H. Sung,
@@ -380,9 +393,29 @@ T.~Y. James, F.~Kauff, C.~L. Schoch, P.~B. Matheny, V.~Hofstetter, C.~J. Cox,
   R.~Vilgalys.
 \newblock Reconstructing the early evolution of {{Fungi}} using a six-gene
   phylogeny.
-\newblock \emph{Nature}, 443\penalty0 (7113):\penalty0 818--822, Oct. 2006.
+\newblock \emph{Nature}, 443\penalty0 (7113):\penalty0 818--822, Oct.
+  2006{\natexlab{a}}.
 \newblock ISSN 1476-4687.
 \newblock \doi{10.1038/nature05110}.
+
+\bibitem[James et~al.(2006{\natexlab{b}})James, Letcher, Longcore,
+  {Mozley-Standridge}, Porter, Powell, Griffith, and Vilgalys]{james2006a}
+T.~Y. James, P.~M. Letcher, J.~E. Longcore, S.~E. {Mozley-Standridge},
+  D.~Porter, M.~J. Powell, G.~W. Griffith, and R.~Vilgalys.
+\newblock A molecular phylogeny of the flagellated fungi ({{Chytridiomycota}})
+  and description of a new phylum ({{Blastocladiomycota}}).
+\newblock \emph{Mycologia}, 98\penalty0 (6):\penalty0 860--871, Nov.
+  2006{\natexlab{b}}.
+\newblock ISSN 0027-5514.
+\newblock \doi{10.1080/15572536.2006.11832616}.
+
+\bibitem[Johnson et~al.(1997)Johnson, Graham, and Smith]{johnson1997}
+N.~C. Johnson, J.-H. Graham, and F.~A. Smith.
+\newblock Functioning of mycorrhizal associations along the
+  mutualism\textendash parasitism continuum*.
+\newblock \emph{New Phytologist}, 135\penalty0 (4):\penalty0 575--585, 1997.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1046/j.1469-8137.1997.00729.x}.
 
 \bibitem[Julou et~al.(2005)Julou, Burghardt, Gebauer, Berveiller, Damesin, and
   Selosse]{julou2005}
@@ -430,6 +463,15 @@ J.~R. Leake.
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1111/j.1469-8137.1994.tb04272.x}.
 
+\bibitem[Lepage et~al.(2007)Lepage, Bryant, Philippe, and
+  Lartillot]{lepage2007}
+T.~Lepage, D.~Bryant, H.~Philippe, and N.~Lartillot.
+\newblock A {{General Comparison}} of {{Relaxed Molecular Clock Models}}.
+\newblock \emph{Molecular Biology and Evolution}, 24\penalty0 (12):\penalty0
+  2669--2680, Dec. 2007.
+\newblock ISSN 0737-4038.
+\newblock \doi{10.1093/molbev/msm193}.
+
 \bibitem[Li et~al.(2001)Li, Jaroszewski, and Godzik]{li2001}
 W.~Li, L.~Jaroszewski, and A.~Godzik.
 \newblock Clustering of highly homologous sequences to reduce the size of large
@@ -468,6 +510,14 @@ C.~C. Loron, C.~Fran{\c c}ois, R.~H. Rainbird, E.~C. Turner, S.~Borensztajn,
 \newblock \emph{Nature}, 570\penalty0 (7760):\penalty0 232--235, June 2019.
 \newblock ISSN 1476-4687.
 \newblock \doi{10.1038/s41586-019-1217-0}.
+
+\bibitem[L{\"u}cking et~al.(2009)L{\"u}cking, Huhndorf, Pfister, Plata, and
+  Lumbsch]{lucking2009}
+R.~L{\"u}cking, S.~Huhndorf, D.~H. Pfister, E.~R. Plata, and H.~T. Lumbsch.
+\newblock Fungi evolved right on track.
+\newblock \emph{Mycologia}, 101\penalty0 (6):\penalty0 810--822, Nov. 2009.
+\newblock ISSN 0027-5514.
+\newblock \doi{10.3852/09-016}.
 
 \bibitem[Malloch et~al.(1980)Malloch, Pirozynski, and Raven]{malloch1980}
 D.~W. Malloch, K.~A. Pirozynski, and P.~H. Raven.
@@ -726,6 +776,26 @@ R.~P. Shefferson, T.~Kull, and K.~Tali.
 \newblock ISSN 1537-2197.
 \newblock \doi{10.3732/ajb.95.2.156}.
 
+\bibitem[Spribille et~al.(2016)Spribille, Tuovinen, Resl, Vanderpool, Wolinski,
+  Aime, Schneider, Stabentheiner, {Toome-Heller}, Thor, Mayrhofer, Johannesson,
+  and McCutcheon]{spribille2016}
+T.~Spribille, V.~Tuovinen, P.~Resl, D.~Vanderpool, H.~Wolinski, M.~C. Aime,
+  K.~Schneider, E.~Stabentheiner, M.~{Toome-Heller}, G.~Thor, H.~Mayrhofer,
+  H.~Johannesson, and J.~P. McCutcheon.
+\newblock Basidiomycete yeasts in the cortex of ascomycete macrolichens.
+\newblock \emph{Science (New York, N.Y.)}, 353\penalty0 (6298):\penalty0
+  488--492, July 2016.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.aaf8287}.
+
+\bibitem[Steenkamp et~al.(2006)Steenkamp, Wright, and Baldauf]{steenkamp2006}
+E.~T. Steenkamp, J.~Wright, and S.~L. Baldauf.
+\newblock The {{Protistan Origins}} of {{Animals}} and {{Fungi}}.
+\newblock \emph{Molecular Biology and Evolution}, 23\penalty0 (1):\penalty0
+  93--106, Jan. 2006.
+\newblock ISSN 0737-4038.
+\newblock \doi{10.1093/molbev/msj011}.
+
 \bibitem[Strullu-Derrien et~al.(2018)Strullu-Derrien, Selosse, Kenrick, and
   Martin]{strullu-derrien2018}
 C.~Strullu-Derrien, M.-A. Selosse, P.~Kenrick, and F.~M. Martin.
@@ -833,6 +903,14 @@ R.~J. Waterman, M.~I. Bidartondo, J.~Stofberg, J.~K. Combs, G.~Gebauer,
   Feb. 2011.
 \newblock ISSN 0003-0147.
 \newblock \doi{10.1086/657955}.
+
+\bibitem[Weir and Schluter(2008)]{weir2008}
+J.~T. Weir and D.~Schluter.
+\newblock Calibrating the avian molecular clock.
+\newblock \emph{Molecular Ecology}, 17\penalty0 (10):\penalty0 2321--2328,
+  2008.
+\newblock ISSN 1365-294X.
+\newblock \doi{10.1111/j.1365-294X.2008.03742.x}.
 
 \bibitem[Weiss et~al.(2004)Weiss, Selosse, Rexer, Urban, and
   Oberwinkler]{weiss2004}
