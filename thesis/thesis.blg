@@ -4,52 +4,50 @@ The top-level auxiliary file: thesis.aux
 The style file: abbrvnat.bst
 Database file #1: bibliography.bib
 Warning--to sort, need author or key in CITES-1
-Warning--to sort, need author or key in esdac
 Warning--to sort, need author or key in tnt
 Warning--empty year in CITES-1
-Warning--empty year in esdac
 Warning--empty year in tnt
 Warning--there's a number but no volume in rayner1927
 Warning--empty journal in trappe1987
-You've used 107 entries,
+You've used 113 entries,
             2773 wiz_defined-function locations,
-            1361 strings with 30383 characters,
-and the built_in function-call counts, 63371 in all, are:
-= -- 5774
-> -- 4538
-< -- 46
-+ -- 1529
-- -- 1421
-* -- 6001
-:= -- 10005
-add.period$ -- 492
-call.type$ -- 107
-change.case$ -- 790
-chr.to.int$ -- 106
-cite$ -- 225
-duplicate$ -- 2247
-empty$ -- 4324
-format.name$ -- 1559
-if$ -- 12940
+            1412 strings with 31996 characters,
+and the built_in function-call counts, 67063 in all, are:
+= -- 6121
+> -- 4791
+< -- 50
++ -- 1613
+- -- 1499
+* -- 6357
+:= -- 10608
+add.period$ -- 525
+call.type$ -- 113
+change.case$ -- 834
+chr.to.int$ -- 112
+cite$ -- 234
+duplicate$ -- 2375
+empty$ -- 4569
+format.name$ -- 1650
+if$ -- 13686
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 105
-newline$ -- 708
-num.names$ -- 424
-pop$ -- 1311
+missing$ -- 112
+newline$ -- 753
+num.names$ -- 452
+pop$ -- 1363
 preamble$ -- 1
-purify$ -- 686
+purify$ -- 724
 quote$ -- 0
-skip$ -- 1801
+skip$ -- 1899
 stack$ -- 0
-substring$ -- 2606
-swap$ -- 214
+substring$ -- 2778
+swap$ -- 226
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1162
-warning$ -- 8
-while$ -- 503
+type$ -- 1228
+warning$ -- 6
+while$ -- 536
 width$ -- 0
-write$ -- 1727
-(There were 8 warnings)
+write$ -- 1837
+(There were 6 warnings)

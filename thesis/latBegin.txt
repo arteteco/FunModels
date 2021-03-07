@@ -54,14 +54,22 @@
 % solve the issue with underscores in the DOI
 \usepackage[strings]{underscore}
 
+% embed the first page from an external pdf
+
+\usepackage{pdfpages}
+
 
 
 \begin{document} 
 
-\font\calibri=cmr12 at 40pt
-\title{{\calibri The ecology and distribution of European orchid mycorrhizal fungi}}
-\author{{\Huge Manuel Moscariello}}
-\maketitle
+% embed the first page from an external pdf
+\includepdf[pages={1}]{frontespizio.pdf}
+
+% Old first page
+%\font\calibri=cmr12 at 40pt
+%\title{{\calibri The ecology and distribution of European orchid mycorrhizal fungi}}
+%\author{{\Huge Manuel Moscariello}}
+%\maketitle
 
 \newpage
 

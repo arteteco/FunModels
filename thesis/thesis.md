@@ -2,6 +2,10 @@ latex begin: latBegin.txt
 latex footer: latEnd.txt
 BibTeX: bibliography
 
+## Abstract
+
+{{abstract.md}}
+
 # Introduction
 
 {{introduction.md}}
@@ -18,3 +22,10 @@ BibTeX: bibliography
 
 {{discussion.md}}
 
+# Conclusions
+
+{{conclusion.md}}
+
+# Appendices
+
+{{appendices.md}}

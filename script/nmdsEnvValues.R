@@ -15,6 +15,17 @@ data <- read.csv(dataPath)
 
 data <- drop_na(data)
 
+data <- transmute(data,
+                  family = case_when(
+                    family == "cer" ~ "Ceratobasidiaceae",
+                    family == "rus" ~ "Russulaceae",
+                    family == "ino" ~ "Inocybaceae",
+                    family == "seb" ~ "Sebacinaceae",
+                    family == "ser" ~ "Serendipitaceae",
+                    family == "the" ~ "Theleophoraceae",
+                    family == "tul" ~ "Tulasnellaceae"))
+
+data
 grp <-data$family
 
 
@@ -55,8 +66,10 @@ ggplot(scores, aes(x = NMDS1, y = NMDS2, colour = grp)) +
   coord_fixed()+                                              
   theme_bw()+ 
   #geom_path(size=1, linetype=1)+
-  stat_ellipse()
-  theme(legend.position="right",legend.text=element_text(size=10),legend.direction='vertical')+
+  stat_ellipse()+
+  theme(legend.title = element_blank()) 
+  
+theme(legend.position="right",legend.text=element_text(size=10),legend.direction='vertical')+
   ggtitle(outTitle)
 # adds encircle
 #  geom_path(size=1, linetype=2)

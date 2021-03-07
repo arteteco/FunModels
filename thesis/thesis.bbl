@@ -1,4 +1,4 @@
-\begin{thebibliography}{107}
+\begin{thebibliography}{113}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -8,10 +8,6 @@
 \bibitem[CIT()]{CITES-1}
 Appendices | {{CITES}}.
 \newblock https://cites.org/eng/app/appendices.php.
-
-\bibitem[esd()]{esdac}
-{{ESDAC}} - {{European Commission}}.
-\newblock https://esdac.jrc.ec.europa.eu/.
 
 \bibitem[tnt()]{tnt}
 {{TNT}}, a free program for phylogenetic analysis - {{Goloboff}} - 2008 -
@@ -42,6 +38,16 @@ B.~C. Bailarote, B.~Lievens, and H.~Jacquemyn.
   1655--1665, 2012.
 \newblock ISSN 1537-2197.
 \newblock \doi{10.3732/ajb.1200117}.
+
+\bibitem[Ballabio et~al.(2019)Ballabio, Lugato, {Fern{\'a}ndez-Ugalde},
+  Orgiazzi, Jones, Borrelli, Montanarella, and Panagos]{ballabio2019}
+C.~Ballabio, E.~Lugato, O.~{Fern{\'a}ndez-Ugalde}, A.~Orgiazzi, A.~Jones,
+  P.~Borrelli, L.~Montanarella, and P.~Panagos.
+\newblock Mapping {{LUCAS}} topsoil chemical properties at {{European}} scale
+  using {{Gaussian}} process regression.
+\newblock \emph{Geoderma}, 355:\penalty0 113912, Dec. 2019.
+\newblock ISSN 0016-7061.
+\newblock \doi{10.1016/j.geoderma.2019.113912}.
 
 \bibitem[Barman et~al.(2016)Barman, Samanta, Saha, and Datta]{barman2016}
 J.~Barman, A.~Samanta, B.~Saha, and S.~Datta.
@@ -237,6 +243,14 @@ G.~Gebauer and M.~Meyer.
 \newblock \emph{New Phytologist}, 160\penalty0 (1):\penalty0 209--223, 2003.
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1046/j.1469-8137.2003.00872.x}.
+
+\bibitem[Gelman and Rubin(1992)]{gelman1992}
+A.~Gelman and D.~B. Rubin.
+\newblock Inference from {{Iterative Simulation Using Multiple Sequences}}.
+\newblock \emph{Statistical Science}, 7\penalty0 (4):\penalty0 457--472, Nov.
+  1992.
+\newblock ISSN 0883-4237, 2168-8745.
+\newblock \doi{10.1214/ss/1177011136}.
 
 \bibitem[Girlanda et~al.(2005)Girlanda, Selosse, Cafasso, Brilli, Delfine,
   Fabbian, Ghignone, Pinelli, Segreto, Loreto, Cozzolino, and
@@ -582,6 +596,25 @@ O.~Ovaskainen, G.~Tikhonov, A.~Norberg, F.~G. Blanchet, L.~Duan, D.~Dunson,
 \newblock ISSN 1461-0248.
 \newblock \doi{10.1111/ele.12757}.
 
+\bibitem[Panagos et~al.(2012)Panagos, Van~Liedekerke, Jones, and
+  Montanarella]{panagos2012}
+P.~Panagos, M.~Van~Liedekerke, A.~Jones, and L.~Montanarella.
+\newblock European {{Soil Data Centre}}: {{Response}} to {{European}} policy
+  support and public data requirements.
+\newblock \emph{Land Use Policy}, 29\penalty0 (2):\penalty0 329--338, Apr.
+  2012.
+\newblock ISSN 0264-8377.
+\newblock \doi{10.1016/j.landusepol.2011.07.003}.
+
+\bibitem[Pearce and Ferrier(2000)]{pearce2000}
+J.~Pearce and S.~Ferrier.
+\newblock Evaluating the predictive performance of habitat models developed
+  using logistic regression.
+\newblock \emph{Ecological Modelling}, 133\penalty0 (3):\penalty0 225--245,
+  Sept. 2000.
+\newblock ISSN 0304-3800.
+\newblock \doi{10.1016/S0304-3800(00)00322-7}.
+
 \bibitem[Pecoraro et~al.(2012)Pecoraro, Girlanda, Kull, Perini, and
   Perotto]{pecoraro2012}
 L.~Pecoraro, M.~Girlanda, T.~Kull, C.~Perini, and S.~Perotto.
@@ -638,6 +671,14 @@ L.~J. Pollock, R.~Tingley, W.~K. Morris, N.~Golding, R.~B. O'Hara, K.~M.
   397--406, 2014.
 \newblock ISSN 2041-210X.
 \newblock \doi{10.1111/2041-210X.12180}.
+
+\bibitem[Powers and Hampton(2019)]{powers2019}
+S.~M. Powers and S.~E. Hampton.
+\newblock Open science, reproducibility, and transparency in ecology.
+\newblock \emph{Ecological Applications}, 29\penalty0 (1):\penalty0 e01822,
+  2019.
+\newblock ISSN 1939-5582.
+\newblock \doi{10.1002/eap.1822}.
 
 \bibitem[Ram{\'i}rez et~al.(2007)Ram{\'i}rez, Gravendeel, Singer, Marshall, and
   Pierce]{ramirez2007}
@@ -852,6 +893,16 @@ G.~Tikhonov, {\O}.~H. Opedal, N.~Abrego, A.~Lehikoinen, M.~M.~J. de~Jonge,
 \newblock ISSN 2041-210X.
 \newblock \doi{10.1111/2041-210X.13345}.
 
+\bibitem[Tjur(2009)]{tjur2009}
+T.~Tjur.
+\newblock Coefficients of {{Determination}} in {{Logistic Regression
+  Models}}\textemdash{{A New Proposal}}: {{The Coefficient}} of
+  {{Discrimination}}.
+\newblock \emph{The American Statistician}, 63\penalty0 (4):\penalty0 366--372,
+  Nov. 2009.
+\newblock ISSN 0003-1305.
+\newblock \doi{10.1198/tast.2009.08210}.
+
 \bibitem[Trappe and Safir(1987)]{trappe1987}
 J.~M. Trappe and G.~R. Safir.
 \newblock Ecophysiology of {{VA}} mycorrhizal plants.
@@ -892,6 +943,16 @@ D.~Y. Wang, S.~Kumar, and S.~B. Hedges.
 \newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
   266\penalty0 (1415):\penalty0 163--171, Jan. 1999.
 \newblock ISSN 0962-8452.
+
+\bibitem[Warton et~al.(2015)Warton, Blanchet, O'Hara, Ovaskainen, Taskinen,
+  Walker, and Hui]{warton2015}
+D.~I. Warton, F.~G. Blanchet, R.~B. O'Hara, O.~Ovaskainen, S.~Taskinen, S.~C.
+  Walker, and F.~K.~C. Hui.
+\newblock So {{Many Variables}}: {{Joint Modeling}} in {{Community Ecology}}.
+\newblock \emph{Trends in Ecology \& Evolution}, 30\penalty0 (12):\penalty0
+  766--779, Dec. 2015.
+\newblock ISSN 0169-5347.
+\newblock \doi{10.1016/j.tree.2015.09.007}.
 
 \bibitem[Waterman et~al.(2011)Waterman, Bidartondo, Stofberg, Combs, Gebauer,
   Savolainen, Barraclough, and Pauw]{waterman2011}

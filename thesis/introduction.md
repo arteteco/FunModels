@@ -1,6 +1,6 @@
 The kingdom Fungi is one of the most diverse groups of organisms on Earth. Fungi play an important role in the ecosystem and have a huge impact on biogeochemical cycles, plant and animal pathology, plant nutrition and soil properties.
 While historically fungi were taxonomically clustered with plants [#copeland1938, copeland1956], towards the middle of the twentieth century it became clear that it failed to properly deal with the differences between the two groups. In 1969 R. H. Whittaker divided the organisms into five kingdoms: Animalia, Plantae, Fungi, Protista and Monera [#whittaker1969]. By the 1970s this division became widely accepted, and the Kingdom Fungi was recognized.
-However, due to limitations understanding of the taxonomy, evolution and phylogenesis of fungi was still a matter of ample debate. All the analysis were based on morphological differences, with all of its downsides.
+However, due to a limited understanding of the taxonomy, evolution and phylogenesis of fungi, it was still a matter of ample debate. All the analysis were based on morphological differences, with all of its downsides.
 
 The fossil record for fungi is limited and even though the known fossils cover almost all major fungal lineages [#lucking2009], it is rather incomplete relative to the evolutionary history of the various fungal lineages. The earliest compendium of fossil fungi is from the late 19th century [#meschinelli1898], and their symbiotic relationship with plants in fossils was suggested around that period [#renault1896], but the difficulty in the interpretation of morphological data made it impossible to actually understand what happened.
 
@@ -8,6 +8,7 @@ Earliest fossil with the morphological features of a fungus is dated to around 1
 Starting from the lower Devonian (around 400 Mya), fossil record is more abundant [#lucking2009].
 
 It was not until the development of molecular phylogenetics techniques that some light could be properly shed on the evolutionary history of fungi [#james2006].
+
 The molecular clock is one of the most widely used tools to investigate the timing of phylogenetic events. It is based on the hypothesis of the constancy of the rate of evolution with time and, when combined with the use of fossil records, allows the dating of branching events on phylogenetic trees [#lepage2007, weir2008].
 From molecular clock analysis seems like fungi are sister group to animals, that is, the two lineages are close, diverging around 1.5 billion years ago [#wang1999]. The two groups form one supergroup called Opisthokhonta [#cavalier-smith1987], from the Greek opísthios (rear, posterior) and kontós ("pole" i.e. "flagellum"), since the group is characterized by flagellate cells that propel themselves with a single, posterior flagellum, now lost in most fungi [#steenkamp2006] with the notable exception of the Chytridiomycota division [#james2006a].
 

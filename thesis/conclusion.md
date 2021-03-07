@@ -1,1 +1,9 @@
- 
+In this thesis I compiled and analysed an extensive database of mycorrhizal fungi that associate with European orchids. These results show that fungi are generally associated with individual orchid species, but that members of each OrM family often occur in a broad range of ecological conditions. Competitive and facilitative interactions may be common within OrM, and this study provides a platform for future experimental to work with. The usage of probabilistic models in this thesis was a useful instrument to untangle the correlation between the OTUs and the environmental variables, and I have little doubt that in the future more work will be done using these tools.
+
+These kind of studies are of crucial importance for the understanding and protection of species we may not even know yet. Improving the ecosystem is not something we can successfully do without knowing the key elements that allow them to function, and fungi surely are part of this category. These studies are heavily reliant on data, which must be accurate and abundant. Presently there is limited properly georeferenced studies that allow the pinpointing of genetic sequences to places, resulting in gappy databases and in a difficulty reproducing the analysis.
+Furthermore, gathering the data the way I've done is mostly a manual process, with huge cost in terms of time and resources. More transparent analysis with an accessible, standardize and rich metadata structure are of the uttermost importance for a significant progress of knowledge in the understanding of ecology and distribution of OrM [#powers2019], and for scientific studies in general.
+
+The understanding of OrM ecology will always be incomplete without a better knowledge of the phylogenetic relationship between the organisms. Patterns may emerge and we can analyse them, but we are flying blind when we try to infer those patterns to a broader context. 
+
+
+

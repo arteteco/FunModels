@@ -1,0 +1,13 @@
+The importance of fungi in the ecosystems could not be overestimated. Not only they are key decomposer and provide food and digestive aid to many animals, most of the plants rely on fungi living in their roots for minerals, protection and other nutrients, in what we call a a mycorrhizal symbiosis. Orchidaceae are particularly reliant on this symbiosis, as their seeds need the fungal symbiont to provide all the necessary nutrients in a symbiosis that is often obligate also when the plant reaches adulthood. Despite all of this, the ecological processes that influence the fungal distribution, the environmental and biotic factors, are still unclear.
+
+Fungi are often invisible to human eye and the soil is a very complex system, thriving with a multitude of organisms. By sampling the fungi that live in the orchids root system, we can have a simpler, more understandable starting point to explore the ecological mechanisms that contribute to their distribution.
+
+Multivariate analysis, phylogenetic analysis and Bayesian distribution modelling are useful tools that can help us shed some light on what the most relevant environmental variables are, if there is a correlation in the presence of organisms from different groups, what their niche is and how do those overlap.
+
+## Riassunto
+
+L'importanza dei funghi negli ecosistemi non può essere sovrastimata. Non solo sono decompositori chiave, forniscono cibo e supporto digestivo a molti animali, la maggior parte delle piante dipende dai funghi che vivono nelle loro radici per minerali, protezione e altri nutrienti, in quella che chiamiamo una simbiosi micorrizica. Le Orchidaceae sono particolarmente dipendenti da questa simbiosi. I loro semi hanno bisogno dei funghi per ottenere tutti i nutrienti necessari in una simbiosi che spesso rimane obbligata anche quando la pianta raggiunge la maturità. Nonostante ciò, i processi ecologici che influenzano la distribuzione dei funghi, i fattori ambientali e biotici, sono ancora poco chiari.
+
+I funghi sono solitamente invisibili all'occhio umano e il suolo è un sistema molto complesso, in cui vivono una moltitudine di organismi. Campionando i funghi che vivono nel sistema radicale delle orchidee abbiamo un punto di partenza più semplice per esplorare i meccanismi ecologici che contribuiscono alla loro distribuzione.
+
+Analisi multivariate, analisi filogenetiche e modellizzazioni di distribuzione Bayesiane sono strumenti utili che possono aiutarci a capire quali siano le variabili ambientali più rilevanti, se ci sono correlazioni nella presenza di organismi di gruppi diversi, quale è la loro nicchia ecologica e in che modo queste si sovrappongono.
