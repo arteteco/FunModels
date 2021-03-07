@@ -1,0 +1,1010 @@
+\begin{thebibliography}{114}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[CIT()]{CITES-1}
+Appendices | {{CITES}}.
+\newblock https://cites.org/eng/app/appendices.php.
+
+\bibitem[tnt()]{tnt}
+{{TNT}}, a free program for phylogenetic analysis - {{Goloboff}} - 2008 -
+  {{Cladistics}} - {{Wiley Online Library}}.
+\newblock
+  https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00217.x.
+
+\bibitem[Aarle et~al.(2002)Aarle, Olsson, and S{\"o}derstr{\"o}m]{aarle2002}
+I.~M.~V. Aarle, P.~A. Olsson, and B.~S{\"o}derstr{\"o}m.
+\newblock Arbuscular mycorrhizal fungi respond to the substrate {{pH}} of their
+  extraradical mycelium by altered growth and root colonization.
+\newblock \emph{New Phytologist}, 155\penalty0 (1):\penalty0 173--182, 2002.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1046/j.1469-8137.2002.00439.x}.
+
+\bibitem[Baar et~al.(2002)Baar, Bastiaans, {van de Coevering}, and
+  Roelofs]{baar2002}
+J.~Baar, T.~Bastiaans, M.~{van de Coevering}, and J.~Roelofs.
+\newblock Ectomycorrhizal root development in wet {{Alder}} carr forests in
+  response to desiccation and eutrophication.
+\newblock \emph{Mycorrhiza}, 12\penalty0 (3):\penalty0 147--151, 2002.
+
+\bibitem[Bailarote et~al.(2012)Bailarote, Lievens, and
+  Jacquemyn]{bailarote2012}
+B.~C. Bailarote, B.~Lievens, and H.~Jacquemyn.
+\newblock Does mycorrhizal specificity affect orchid decline and rarity?
+\newblock \emph{American Journal of Botany}, 99\penalty0 (10):\penalty0
+  1655--1665, 2012.
+\newblock ISSN 1537-2197.
+\newblock \doi{10.3732/ajb.1200117}.
+
+\bibitem[Ballabio et~al.(2019)Ballabio, Lugato, {Fern{\'a}ndez-Ugalde},
+  Orgiazzi, Jones, Borrelli, Montanarella, and Panagos]{ballabio2019}
+C.~Ballabio, E.~Lugato, O.~{Fern{\'a}ndez-Ugalde}, A.~Orgiazzi, A.~Jones,
+  P.~Borrelli, L.~Montanarella, and P.~Panagos.
+\newblock Mapping {{LUCAS}} topsoil chemical properties at {{European}} scale
+  using {{Gaussian}} process regression.
+\newblock \emph{Geoderma}, 355:\penalty0 113912, Dec. 2019.
+\newblock ISSN 0016-7061.
+\newblock \doi{10.1016/j.geoderma.2019.113912}.
+
+\bibitem[Barman et~al.(2016)Barman, Samanta, Saha, and Datta]{barman2016}
+J.~Barman, A.~Samanta, B.~Saha, and S.~Datta.
+\newblock Mycorrhiza.
+\newblock \emph{Resonance}, 21\penalty0 (12):\penalty0 1093--1104, Dec. 2016.
+\newblock ISSN 0973-712X.
+\newblock \doi{10.1007/s12045-016-0421-6}.
+
+\bibitem[Berbee and Taylor(1993)]{berbee1993}
+M.~L. Berbee and J.~W. Taylor.
+\newblock Dating the evolutionary radiations of the true fungi.
+\newblock https://cdnsciencepub.com/doi/abs/10.1139/b93-131, 1993.
+
+\bibitem[Bernard(1899)]{bernard1899}
+N.~Bernard.
+\newblock Sur la germination du {{Neottia}} nidus-avis.
+\newblock \emph{Comptes Rendus Hebdomadaires Des S\'eances de l'Acad\'emie Des
+  Sciences, Paris}, 128:\penalty0 1253--1255, 1899.
+
+\bibitem[Blackwell(2000)]{blackwell2000}
+M.~Blackwell.
+\newblock Terrestrial {{Life}}--{{Fungal}} from the {{Start}}?
+\newblock \emph{Science}, 289\penalty0 (5486):\penalty0 1884--1885, Sept. 2000.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.289.5486.1884}.
+
+\bibitem[Bogunovic et~al.(2014)Bogunovic, Mesic, Zgorelec, Jurisic, and
+  Bilandzija]{bogunovic2014}
+I.~Bogunovic, M.~Mesic, Z.~Zgorelec, A.~Jurisic, and D.~Bilandzija.
+\newblock Spatial variation of soil nutrients on sandy-loam soil.
+\newblock \emph{Soil and Tillage Research}, 144:\penalty0 174--183, Dec. 2014.
+\newblock ISSN 0167-1987.
+\newblock \doi{10.1016/j.still.2014.07.020}.
+
+\bibitem[Bonfante and Genre(2008)]{bonfante2008}
+P.~Bonfante and A.~Genre.
+\newblock Plants and arbuscular mycorrhizal fungi: An
+  evolutionary-developmental perspective.
+\newblock \emph{Trends in Plant Science}, 13\penalty0 (9):\penalty0 492--498,
+  Sept. 2008.
+\newblock ISSN 1360-1385.
+\newblock \doi{10.1016/j.tplants.2008.07.001}.
+
+\bibitem[Bonneville et~al.(2020)Bonneville, Delpomdor, Pr{\'e}at, Chevalier,
+  Araki, Kazemian, Steele, Schreiber, Wirth, and Benning]{bonneville2020}
+S.~Bonneville, F.~Delpomdor, A.~Pr{\'e}at, C.~Chevalier, T.~Araki, M.~Kazemian,
+  A.~Steele, A.~Schreiber, R.~Wirth, and L.~G. Benning.
+\newblock Molecular identification of fungi microfossils in a
+  {{Neoproterozoic}} shale rock.
+\newblock \emph{Science Advances}, 6\penalty0 (4):\penalty0 eaax7599, Jan.
+  2020.
+\newblock ISSN 2375-2548.
+\newblock \doi{10.1126/sciadv.aax7599}.
+
+\bibitem[Brundrett(2002)]{brundrett2002}
+M.~C. Brundrett.
+\newblock Coevolution of roots and mycorrhizas of land plants.
+\newblock \emph{New Phytologist}, 154\penalty0 (2):\penalty0 275--304, 2002.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1046/j.1469-8137.2002.00397.x}.
+
+\bibitem[Cairney(2000)]{cairney2000}
+J.~W.~G. Cairney.
+\newblock Evolution of mycorrhiza systems.
+\newblock \emph{Naturwissenschaften}, 87\penalty0 (11):\penalty0 467--475,
+  2000.
+
+\bibitem[Cameron et~al.(2008)Cameron, Johnson, Read, and Leake]{cameron2008}
+D.~D. Cameron, I.~Johnson, D.~J. Read, and J.~R. Leake.
+\newblock Giving and receiving: Measuring the carbon cost of mycorrhizas in the
+  green orchid, {{Goodyera}} repens.
+\newblock \emph{New Phytologist}, 180\penalty0 (1):\penalty0 176--184, 2008.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/j.1469-8137.2008.02533.x}.
+
+\bibitem[{Carrino-Kyker} et~al.(2016){Carrino-Kyker}, Kluber, Petersen, Coyle,
+  Hewins, DeForest, Smemo, and Burke]{carrino-kyker2016}
+S.~R. {Carrino-Kyker}, L.~A. Kluber, S.~M. Petersen, K.~P. Coyle, C.~R. Hewins,
+  J.~L. DeForest, K.~A. Smemo, and D.~J. Burke.
+\newblock Mycorrhizal fungal communities respond to experimental elevation of
+  soil {{pH}} and {{P}} availability in temperate hardwood forests.
+\newblock \emph{FEMS Microbiology Ecology}, 92\penalty0 (fiw024), Mar. 2016.
+\newblock ISSN 0168-6496.
+\newblock \doi{10.1093/femsec/fiw024}.
+
+\bibitem[{Cavalier-Smith}(1987)]{cavalier-smith1987}
+T.~{Cavalier-Smith}.
+\newblock The origin of fungi and pseudofungi.
+\newblock In \emph{Evolutionary {{Biology}} of the {{FUngi}}, {{British
+  Mycological Society Symposium}}}, volume~12, pages 339--353. {Cambridge Univ.
+  Press}, 1987.
+
+\bibitem[Christenhusz and Byng(2016)]{christenhusz2016}
+M.~J.~M. Christenhusz and J.~W. Byng.
+\newblock The number of known plants species in the world and its annual
+  increase.
+\newblock \emph{Phytotaxa}, 261\penalty0 (3):\penalty0 201--217, May 2016.
+\newblock ISSN 1179-3163.
+\newblock \doi{10.11646/phytotaxa.261.3.1}.
+
+\bibitem[Copeland(1938)]{copeland1938}
+H.~F. Copeland.
+\newblock The {{Kingdoms}} of {{Organisms}}.
+\newblock \emph{The Quarterly Review of Biology}, 13\penalty0 (4):\penalty0
+  383--420, Dec. 1938.
+\newblock ISSN 0033-5770.
+\newblock \doi{10.1086/394568}.
+
+\bibitem[Copeland(1956)]{copeland1956}
+H.~F. Copeland.
+\newblock The classification of lower organisms.
+\newblock \emph{The classification of lower organisms.}, 1956.
+
+\bibitem[Dearnaley(2007)]{dearnaley2007}
+J.~D.~W. Dearnaley.
+\newblock Further advances in orchid mycorrhizal research.
+\newblock \emph{Mycorrhiza}, 17\penalty0 (6):\penalty0 475--486, Sept. 2007.
+\newblock ISSN 1432-1890.
+\newblock \doi{10.1007/s00572-007-0138-1}.
+
+\bibitem[Dearnaley et~al.(2012)Dearnaley, Martos, and Selosse]{dearnaley2012}
+J.~D.~W. Dearnaley, F.~Martos, and M.-A. Selosse.
+\newblock 12 {{Orchid Mycorrhizas}}: {{Molecular Ecology}}, {{Physiology}},
+  {{Evolution}} and {{Conservation Aspects}}.
+\newblock In B.~Hock, editor, \emph{Fungal {{Associations}}}, pages 207--230.
+  {Springer Berlin Heidelberg}, {Berlin, Heidelberg}, 2012.
+\newblock ISBN 978-3-642-30825-3 978-3-642-30826-0.
+\newblock \doi{10.1007/978-3-642-30826-0_12}.
+
+\bibitem[Dixon(2003)]{dixon2003a}
+P.~Dixon.
+\newblock {{VEGAN}}, a package of {{R}} functions for community ecology.
+\newblock \emph{Journal of Vegetation Science}, 14\penalty0 (6):\penalty0
+  927--930, 2003.
+\newblock ISSN 1654-1103.
+\newblock \doi{10.1111/j.1654-1103.2003.tb02228.x}.
+
+\bibitem[Duffy et~al.(2019)Duffy, Waud, Schatz, Petanidou, and
+  Jacquemyn]{duffy2019}
+K.~J. Duffy, M.~Waud, B.~Schatz, T.~Petanidou, and H.~Jacquemyn.
+\newblock Latitudinal variation in mycorrhizal diversity associated with a
+  {{European}} orchid.
+\newblock \emph{Journal of Biogeography}, 46\penalty0 (5):\penalty0 968--980,
+  2019.
+\newblock ISSN 1365-2699.
+\newblock \doi{10.1111/jbi.13548}.
+
+\bibitem[Edgar(2004)]{edgar2004}
+R.~C. Edgar.
+\newblock {{MUSCLE}}: Multiple sequence alignment with high accuracy and high
+  throughput.
+\newblock \emph{Nucleic acids research}, 32\penalty0 (5):\penalty0 1792--1797,
+  2004.
+
+\bibitem[Elith and Leathwick(2009)]{elith2009}
+J.~Elith and J.~R. Leathwick.
+\newblock Species {{Distribution Models}}: {{Ecological Explanation}} and
+  {{Prediction Across Space}} and {{Time}}.
+\newblock \emph{Annual Review of Ecology, Evolution, and Systematics},
+  40\penalty0 (1):\penalty0 677--697, Feb. 2009.
+\newblock ISSN 1543-592X.
+\newblock \doi{10.1146/annurev.ecolsys.110308.120159}.
+
+\bibitem[Fay(2018)]{fay2018}
+M.~F. Fay.
+\newblock Orchid conservation: How can we meet the challenges in the
+  twenty-first century?
+\newblock \emph{Botanical Studies}, 59\penalty0 (1):\penalty0 16, June 2018.
+\newblock ISSN 1999-3110.
+\newblock \doi{10.1186/s40529-018-0232-z}.
+
+\bibitem[Gale et~al.(2018)Gale, Fischer, Cribb, and Fay]{gale2018}
+S.~W. Gale, G.~A. Fischer, P.~J. Cribb, and M.~F. Fay.
+\newblock Orchid conservation: Bridging the gap between science and practice.
+\newblock \emph{Botanical Journal of the Linnean Society}, 186\penalty0
+  (4):\penalty0 425--434, Mar. 2018.
+\newblock ISSN 0024-4074.
+\newblock \doi{10.1093/botlinnean/boy003}.
+
+\bibitem[Gargas et~al.(1995)Gargas, DePriest, Grube, and Tehler]{gargas1995}
+A.~Gargas, P.~T. DePriest, M.~Grube, and A.~Tehler.
+\newblock Multiple origins of lichen symbioses in fungi suggested by {{SSU
+  rDNA}} phylogeny.
+\newblock \emph{Science}, 268\penalty0 (5216):\penalty0 1492--1495, June 1995.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.7770775}.
+
+\bibitem[Gebauer and Meyer(2003)]{gebauer2003}
+G.~Gebauer and M.~Meyer.
+\newblock {{15N}} and {{13C}} natural abundance of autotrophic and
+  myco-heterotrophic orchids provides insight into nitrogen and carbon gain
+  from fungal association.
+\newblock \emph{New Phytologist}, 160\penalty0 (1):\penalty0 209--223, 2003.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1046/j.1469-8137.2003.00872.x}.
+
+\bibitem[Gelman and Rubin(1992)]{gelman1992}
+A.~Gelman and D.~B. Rubin.
+\newblock Inference from {{Iterative Simulation Using Multiple Sequences}}.
+\newblock \emph{Statistical Science}, 7\penalty0 (4):\penalty0 457--472, Nov.
+  1992.
+\newblock ISSN 0883-4237, 2168-8745.
+\newblock \doi{10.1214/ss/1177011136}.
+
+\bibitem[Girlanda et~al.(2005)Girlanda, Selosse, Cafasso, Brilli, Delfine,
+  Fabbian, Ghignone, Pinelli, Segreto, Loreto, Cozzolino, and
+  Perotto]{girlanda2005}
+M.~Girlanda, M.~A. Selosse, D.~Cafasso, F.~Brilli, S.~Delfine, R.~Fabbian,
+  S.~Ghignone, P.~Pinelli, R.~Segreto, F.~Loreto, S.~Cozzolino, and S.~Perotto.
+\newblock Inefficient photosynthesis in the {{Mediterranean}} orchid
+  {{Limodorum}} abortivum is mirrored by specific association to
+  ectomycorrhizal {{Russulaceae}}: {{MYCORRHIZAL SPECIFICITY IN LIMODORUM}}.
+\newblock \emph{Molecular Ecology}, 15\penalty0 (2):\penalty0 491--504, Dec.
+  2005.
+\newblock ISSN 09621083.
+\newblock \doi{10.1111/j.1365-294X.2005.02770.x}.
+
+\bibitem[Girlanda et~al.(2011)Girlanda, Segreto, Cafasso, Liebel, Rodda,
+  Ercole, Cozzolino, Gebauer, and Perotto]{girlanda2011}
+M.~Girlanda, R.~Segreto, D.~Cafasso, H.~T. Liebel, M.~Rodda, E.~Ercole,
+  S.~Cozzolino, G.~Gebauer, and S.~Perotto.
+\newblock Photosynthetic {{Mediterranean}} meadow orchids feature partial
+  mycoheterotrophy and specific mycorrhizal associations.
+\newblock \emph{American Journal of Botany}, 98\penalty0 (7):\penalty0
+  1148--1163, 2011.
+\newblock ISSN 1537-2197.
+\newblock \doi{10.3732/ajb.1000486}.
+
+\bibitem[Givnish et~al.(2016)Givnish, Spalink, Ames, Lyon, Hunter, Zuluaga,
+  Doucette, Caro, McDaniel, Clements, Arroyo, Endara, Kriebel, Williams, and
+  Cameron]{givnish2016}
+T.~J. Givnish, D.~Spalink, M.~Ames, S.~P. Lyon, S.~J. Hunter, A.~Zuluaga,
+  A.~Doucette, G.~G. Caro, J.~McDaniel, M.~A. Clements, M.~T.~K. Arroyo,
+  L.~Endara, R.~Kriebel, N.~H. Williams, and K.~M. Cameron.
+\newblock Orchid historical biogeography, diversification, {{Antarctica}} and
+  the paradox of orchid dispersal.
+\newblock \emph{Journal of Biogeography}, 43\penalty0 (10):\penalty0
+  1905--1916, 2016.
+\newblock ISSN 1365-2699.
+\newblock \doi{10.1111/jbi.12854}.
+
+\bibitem[Grant et~al.(2011)Grant, Bittman, Montreal, Plenchette, and
+  Morel]{grant2011}
+C.~Grant, S.~Bittman, M.~Montreal, C.~Plenchette, and C.~Morel.
+\newblock Soil and fertilizer phosphorus: {{Effects}} on plant {{P}} supply and
+  mycorrhizal development.
+\newblock \emph{Canadian Journal of Plant Science}, Mar. 2011.
+\newblock \doi{10.4141/P03-182}.
+
+\bibitem[{Hans Jacquemyn} et~al.(2015){Hans Jacquemyn}, {Michael Waud},
+  {Vincent S. F. T. Merckx}, {Bart Lievens}, and {Rein
+  Brys}]{hansjacquemyn2015}
+{Hans Jacquemyn}, {Michael Waud}, {Vincent S. F. T. Merckx}, {Bart Lievens},
+  and {Rein Brys}.
+\newblock Mycorrhizal diversity, seed germination and long-term changes in
+  population size across nine populations of the terrestrial orchid {{Neottia}}
+  ovata.
+\newblock \emph{Molecular Ecology}, 24\penalty0 (13):\penalty0 3269--3280,
+  2015.
+\newblock ISSN 1365-294X.
+\newblock \doi{10.1111/mec.13236}.
+
+\bibitem[Harley and Harley(1987)]{harley1987}
+J.~L. Harley and E.~L. Harley.
+\newblock A {{Check}}-{{List}} of {{Mycorrhiza}} in the {{British Flora}}.
+\newblock \emph{The New Phytologist}, 105\penalty0 (2):\penalty0 1--102, 1987.
+\newblock ISSN 0028-646X.
+
+\bibitem[Heckman et~al.(2001)Heckman, Geiser, Eidell, Stauffer, Kardos, and
+  Hedges]{heckman2001}
+D.~S. Heckman, D.~M. Geiser, B.~R. Eidell, R.~L. Stauffer, N.~L. Kardos, and
+  S.~B. Hedges.
+\newblock Molecular {{Evidence}} for the {{Early Colonization}} of {{Land}} by
+  {{Fungi}} and {{Plants}}.
+\newblock \emph{Science}, 293\penalty0 (5532):\penalty0 1129--1133, Aug. 2001.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.1061457}.
+
+\bibitem[Hefley and Hooten(2016)]{hefley2016}
+T.~J. Hefley and M.~B. Hooten.
+\newblock Hierarchical {{Species Distribution Models}}.
+\newblock \emph{Current Landscape Ecology Reports}, 1\penalty0 (2):\penalty0
+  87--97, June 2016.
+\newblock ISSN 2364-494X.
+\newblock \doi{10.1007/s40823-016-0008-7}.
+
+\bibitem[Hijmans et~al.(2005)Hijmans, Cameron, Parra, Jones, and
+  Jarvis]{hijmans2005}
+R.~J. Hijmans, S.~E. Cameron, J.~L. Parra, P.~G. Jones, and A.~Jarvis.
+\newblock Very high resolution interpolated climate surfaces for global land
+  areas.
+\newblock \emph{International Journal of Climatology}, 25\penalty0
+  (15):\penalty0 1965--1978, 2005.
+\newblock ISSN 1097-0088.
+\newblock \doi{10.1002/joc.1276}.
+
+\bibitem[{hmsc-r}(2021)]{hmsc-r2021}
+{hmsc-r}.
+\newblock Hmsc-r/{{HMSC}}, Jan. 2021.
+
+\bibitem[Honegger et~al.(2013)Honegger, Edwards, and Axe]{honegger2013}
+R.~Honegger, D.~Edwards, and L.~Axe.
+\newblock The earliest records of internally stratified cyanobacterial and
+  algal lichens from the {{Lower Devonian}} of the {{Welsh Borderland}}.
+\newblock \emph{New Phytologist}, 197\penalty0 (1):\penalty0 264--275, 2013.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/nph.12009}.
+
+\bibitem[Huelsenbeck and Ronquist(2001)]{huelsenbeck2001}
+J.~P. Huelsenbeck and F.~Ronquist.
+\newblock {{MRBAYES}}: {{Bayesian}} inference of phylogenetic trees.
+\newblock \emph{Bioinformatics}, 17\penalty0 (8):\penalty0 754--755, 2001.
+
+\bibitem[Jacquemyn et~al.(2005)Jacquemyn, Brys, Hermy, and
+  Willems]{jacquemyn2005}
+H.~Jacquemyn, R.~Brys, M.~Hermy, and J.~H. Willems.
+\newblock Does nectar reward affect rarity and extinction probabilities of
+  orchid species? {{An}} assessment using historical records from {{Belgium}}
+  and the {{Netherlands}}.
+\newblock \emph{Biological Conservation}, 121\penalty0 (2):\penalty0 257--263,
+  Jan. 2005.
+\newblock ISSN 0006-3207.
+\newblock \doi{10.1016/j.biocon.2004.05.002}.
+
+\bibitem[Jacquemyn et~al.(2017)Jacquemyn, Duffy, and Selosse]{jacquemyn2017}
+H.~Jacquemyn, K.~J. Duffy, and M.-A. Selosse.
+\newblock Biogeography of {{Orchid Mycorrhizas}}.
+\newblock In L.~Tedersoo, editor, \emph{Biogeography of {{Mycorrhizal
+  Symbiosis}}}, Ecological {{Studies}}, pages 159--177. {Springer International
+  Publishing}, {Cham}, 2017.
+\newblock ISBN 978-3-319-56363-3.
+\newblock \doi{10.1007/978-3-319-56363-3-8}.
+
+\bibitem[James et~al.(2006{\natexlab{a}})James, Kauff, Schoch, Matheny,
+  Hofstetter, Cox, Celio, Gueidan, Fraker, Miadlikowska, Lumbsch, Rauhut, Reeb,
+  Arnold, Amtoft, Stajich, Hosaka, Sung, Johnson, O'Rourke, Crockett, Binder,
+  Curtis, Slot, Wang, Wilson, Sch{\"u}{\ss}ler, Longcore, O'Donnell,
+  {Mozley-Standridge}, Porter, Letcher, Powell, Taylor, White, Griffith,
+  Davies, Humber, Morton, Sugiyama, Rossman, Rogers, Pfister, Hewitt, Hansen,
+  Hambleton, Shoemaker, Kohlmeyer, {Volkmann-Kohlmeyer}, Spotts, Serdani,
+  Crous, Hughes, Matsuura, Langer, Langer, Untereiner, L{\"u}cking, B{\"u}del,
+  Geiser, Aptroot, Diederich, Schmitt, Schultz, Yahr, Hibbett, Lutzoni,
+  McLaughlin, Spatafora, and Vilgalys]{james2006}
+T.~Y. James, F.~Kauff, C.~L. Schoch, P.~B. Matheny, V.~Hofstetter, C.~J. Cox,
+  G.~Celio, C.~Gueidan, E.~Fraker, J.~Miadlikowska, H.~T. Lumbsch, A.~Rauhut,
+  V.~Reeb, A.~E. Arnold, A.~Amtoft, J.~E. Stajich, K.~Hosaka, G.-H. Sung,
+  D.~Johnson, B.~O'Rourke, M.~Crockett, M.~Binder, J.~M. Curtis, J.~C. Slot,
+  Z.~Wang, A.~W. Wilson, A.~Sch{\"u}{\ss}ler, J.~E. Longcore, K.~O'Donnell,
+  S.~{Mozley-Standridge}, D.~Porter, P.~M. Letcher, M.~J. Powell, J.~W. Taylor,
+  M.~M. White, G.~W. Griffith, D.~R. Davies, R.~A. Humber, J.~B. Morton,
+  J.~Sugiyama, A.~Y. Rossman, J.~D. Rogers, D.~H. Pfister, D.~Hewitt,
+  K.~Hansen, S.~Hambleton, R.~A. Shoemaker, J.~Kohlmeyer,
+  B.~{Volkmann-Kohlmeyer}, R.~A. Spotts, M.~Serdani, P.~W. Crous, K.~W. Hughes,
+  K.~Matsuura, E.~Langer, G.~Langer, W.~A. Untereiner, R.~L{\"u}cking,
+  B.~B{\"u}del, D.~M. Geiser, A.~Aptroot, P.~Diederich, I.~Schmitt, M.~Schultz,
+  R.~Yahr, D.~S. Hibbett, F.~Lutzoni, D.~J. McLaughlin, J.~W. Spatafora, and
+  R.~Vilgalys.
+\newblock Reconstructing the early evolution of {{Fungi}} using a six-gene
+  phylogeny.
+\newblock \emph{Nature}, 443\penalty0 (7113):\penalty0 818--822, Oct.
+  2006{\natexlab{a}}.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature05110}.
+
+\bibitem[James et~al.(2006{\natexlab{b}})James, Letcher, Longcore,
+  {Mozley-Standridge}, Porter, Powell, Griffith, and Vilgalys]{james2006a}
+T.~Y. James, P.~M. Letcher, J.~E. Longcore, S.~E. {Mozley-Standridge},
+  D.~Porter, M.~J. Powell, G.~W. Griffith, and R.~Vilgalys.
+\newblock A molecular phylogeny of the flagellated fungi ({{Chytridiomycota}})
+  and description of a new phylum ({{Blastocladiomycota}}).
+\newblock \emph{Mycologia}, 98\penalty0 (6):\penalty0 860--871, Nov.
+  2006{\natexlab{b}}.
+\newblock ISSN 0027-5514.
+\newblock \doi{10.1080/15572536.2006.11832616}.
+
+\bibitem[Johnson et~al.(1997)Johnson, Graham, and Smith]{johnson1997}
+N.~C. Johnson, J.-H. Graham, and F.~A. Smith.
+\newblock Functioning of mycorrhizal associations along the
+  mutualism\textendash parasitism continuum*.
+\newblock \emph{New Phytologist}, 135\penalty0 (4):\penalty0 575--585, 1997.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1046/j.1469-8137.1997.00729.x}.
+
+\bibitem[Julou et~al.(2005)Julou, Burghardt, Gebauer, Berveiller, Damesin, and
+  Selosse]{julou2005}
+T.~Julou, B.~Burghardt, G.~Gebauer, D.~Berveiller, C.~Damesin, and M.-A.
+  Selosse.
+\newblock Mixotrophy in orchids: Insights from a comparative study of green
+  individuals and nonphotosynthetic individuals of {{Cephalanthera}}
+  damasonium.
+\newblock \emph{New Phytologist}, 166\penalty0 (2):\penalty0 639--653, 2005.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/j.1469-8137.2005.01364.x}.
+
+\bibitem[Kull and Hutchings(2006)]{kull2006}
+T.~Kull and M.~J. Hutchings.
+\newblock A comparative analysis of decline in the distribution ranges of
+  orchid species in {{Estonia}} and the {{United Kingdom}}.
+\newblock \emph{Biological Conservation}, 129\penalty0 (1):\penalty0 31--39,
+  Apr. 2006.
+\newblock ISSN 0006-3207.
+\newblock \doi{10.1016/j.biocon.2005.09.046}.
+
+\bibitem[Kull et~al.(2016)Kull, Selgis, Peci{\~n}a, Metsare, Ilves, Tali, Sepp,
+  Kull, and Shefferson]{kull2016}
+T.~Kull, U.~Selgis, M.~V. Peci{\~n}a, M.~Metsare, A.~Ilves, K.~Tali, K.~Sepp,
+  K.~Kull, and R.~P. Shefferson.
+\newblock Factors influencing {{IUCN}} threat levels to orchids across
+  {{Europe}} on the basis of national red lists.
+\newblock \emph{Ecology and Evolution}, 6\penalty0 (17):\penalty0 6245--6265,
+  2016.
+\newblock ISSN 2045-7758.
+\newblock \doi{10.1002/ece3.2363}.
+
+\bibitem[Leake et~al.(2011)Leake, Johnson, Donnelly, Muckle, Boddy, and
+  Read]{leake2011}
+J.~Leake, D.~Johnson, D.~Donnelly, G.~Muckle, L.~Boddy, and D.~Read.
+\newblock Networks of power and influence: The role of mycorrhizal mycelium in
+  controlling plant communities and agroecosystem functioning.
+\newblock \emph{Canadian Journal of Botany}, Feb. 2011.
+\newblock \doi{10.1139/b04-060}.
+
+\bibitem[Leake(1994)]{leake1994}
+J.~R. Leake.
+\newblock The biology of myco-heterotrophic (`saprophytic') plants.
+\newblock \emph{New Phytologist}, 127\penalty0 (2):\penalty0 171--216, 1994.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/j.1469-8137.1994.tb04272.x}.
+
+\bibitem[Lepage et~al.(2007)Lepage, Bryant, Philippe, and
+  Lartillot]{lepage2007}
+T.~Lepage, D.~Bryant, H.~Philippe, and N.~Lartillot.
+\newblock A {{General Comparison}} of {{Relaxed Molecular Clock Models}}.
+\newblock \emph{Molecular Biology and Evolution}, 24\penalty0 (12):\penalty0
+  2669--2680, Dec. 2007.
+\newblock ISSN 0737-4038.
+\newblock \doi{10.1093/molbev/msm193}.
+
+\bibitem[Li et~al.(2001)Li, Jaroszewski, and Godzik]{li2001}
+W.~Li, L.~Jaroszewski, and A.~Godzik.
+\newblock Clustering of highly homologous sequences to reduce the size of large
+  protein databases.
+\newblock \emph{Bioinformatics (Oxford, England)}, 17\penalty0 (3):\penalty0
+  282--283, Mar. 2001.
+\newblock ISSN 1367-4803.
+\newblock \doi{10.1093/bioinformatics/17.3.282}.
+
+\bibitem[Lievens et~al.(2010)Lievens, {van Kerckhove}, Just{\'e}, Cammue,
+  Honnay, and Jacquemyn]{lievens2010}
+B.~Lievens, S.~{van Kerckhove}, A.~Just{\'e}, B.~P. Cammue, O.~Honnay, and
+  H.~Jacquemyn.
+\newblock From extensive clone libraries to comprehensive {{DNA}} arrays for
+  the efficient and simultaneous detection and identification of orchid
+  mycorrhizal fungi.
+\newblock \emph{Journal of Microbiological Methods}, 80\penalty0 (1):\penalty0
+  76--85, Jan. 2010.
+\newblock ISSN 01677012.
+\newblock \doi{10.1016/j.mimet.2009.11.004}.
+
+\bibitem[Lilleskov et~al.(2002)Lilleskov, Fahey, Horton, and
+  Lovett]{lilleskov2002}
+E.~A. Lilleskov, T.~J. Fahey, T.~R. Horton, and G.~M. Lovett.
+\newblock Belowground {{Ectomycorrhizal Fungal Community Change Over}} a
+  {{Nitrogen Deposition Gradient}} in {{Alaska}}.
+\newblock \emph{Ecology}, 83\penalty0 (1):\penalty0 104--115, 2002.
+\newblock ISSN 1939-9170.
+\newblock \doi{10.1890/0012-9658(2002)083[0104:BEFCCO]2.0.CO;2}.
+
+\bibitem[Loron et~al.(2019)Loron, Fran{\c c}ois, Rainbird, Turner, Borensztajn,
+  and Javaux]{loron2019}
+C.~C. Loron, C.~Fran{\c c}ois, R.~H. Rainbird, E.~C. Turner, S.~Borensztajn,
+  and E.~J. Javaux.
+\newblock Early fungi from the {{Proterozoic}} era in {{Arctic Canada}}.
+\newblock \emph{Nature}, 570\penalty0 (7760):\penalty0 232--235, June 2019.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/s41586-019-1217-0}.
+
+\bibitem[L{\"u}cking et~al.(2009)L{\"u}cking, Huhndorf, Pfister, Plata, and
+  Lumbsch]{lucking2009}
+R.~L{\"u}cking, S.~Huhndorf, D.~H. Pfister, E.~R. Plata, and H.~T. Lumbsch.
+\newblock Fungi evolved right on track.
+\newblock \emph{Mycologia}, 101\penalty0 (6):\penalty0 810--822, Nov. 2009.
+\newblock ISSN 0027-5514.
+\newblock \doi{10.3852/09-016}.
+
+\bibitem[Malloch et~al.(1980)Malloch, Pirozynski, and Raven]{malloch1980}
+D.~W. Malloch, K.~A. Pirozynski, and P.~H. Raven.
+\newblock Ecological and evolutionary significance of mycorrhizal symbioses in
+  vascular plants ({{A Review}}).
+\newblock \emph{Proceedings of the National Academy of Sciences}, 77\penalty0
+  (4):\penalty0 2113--2118, Apr. 1980.
+\newblock ISSN 0027-8424, 1091-6490.
+\newblock \doi{10.1073/pnas.77.4.2113}.
+
+\bibitem[McCormick et~al.(2004)McCormick, Whigham, and O'Neill]{mccormick2004}
+M.~K. McCormick, D.~F. Whigham, and J.~O'Neill.
+\newblock Mycorrhizal diversity in photosynthetic terrestrial orchids.
+\newblock \emph{New Phytologist}, 163\penalty0 (2):\penalty0 425--438, 2004.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/j.1469-8137.2004.01114.x}.
+
+\bibitem[Meng et~al.(2019)Meng, Zhang, Selosse, and Gao]{meng2019}
+Y.-Y. Meng, W.-L. Zhang, M.-A. Selosse, and J.-Y. Gao.
+\newblock Are fungi from adult orchid roots the best symbionts at germination?
+  {{A}} case study.
+\newblock \emph{Mycorrhiza}, 29\penalty0 (5):\penalty0 541--547, Oct. 2019.
+\newblock ISSN 1432-1890.
+\newblock \doi{10.1007/s00572-019-00907-0}.
+
+\bibitem[Merckx(2013)]{merckx2013}
+V.~S. Merckx.
+\newblock Mycoheterotrophy: An introduction.
+\newblock In \emph{Mycoheterotrophy}, pages 1--17. {Springer}, 2013.
+
+\bibitem[Meschinelli(1898)]{meschinelli1898}
+L.~Meschinelli.
+\newblock \emph{Fungorum Fossilium Omnium: Hucusque Cognitorum Iconographia}.
+\newblock {Sumptibus auctoris, typis Aloysii Fabris}, 1898.
+
+\bibitem[Oberwinkler et~al.(2017)Oberwinkler, Cruz, and
+  Su{\'a}rez]{oberwinkler2017}
+F.~Oberwinkler, D.~Cruz, and J.~P. Su{\'a}rez.
+\newblock Biogeography and {{Ecology}} of {{Tulasnellaceae}}.
+\newblock In L.~Tedersoo, editor, \emph{Biogeography of {{Mycorrhizal
+  Symbiosis}}}, Ecological {{Studies}}, pages 237--271. {Springer International
+  Publishing}, {Cham}, 2017.
+\newblock ISBN 978-3-319-56363-3.
+\newblock \doi{10.1007/978-3-319-56363-3_12}.
+
+\bibitem[Okonechnikov et~al.(2012)Okonechnikov, Golosova, Fursov, and {the
+  UGENE team}]{okonechnikov2012}
+K.~Okonechnikov, O.~Golosova, M.~Fursov, and {the UGENE team}.
+\newblock Unipro {{UGENE}}: A unified bioinformatics toolkit.
+\newblock \emph{Bioinformatics}, 28\penalty0 (8):\penalty0 1166--1167, Apr.
+  2012.
+\newblock ISSN 1367-4803.
+\newblock \doi{10.1093/bioinformatics/bts091}.
+
+\bibitem[Ouanphanivanh(2008)]{ouanphanivanh2008}
+N.~Ouanphanivanh.
+\newblock Could orchids indicate truffle habitats? : Mycorrhizal association
+  between orchids and truffles.
+\newblock \emph{Acta Biologica Szegediensis}, 52\penalty0 (1):\penalty0
+  229--232, Jan. 2008.
+\newblock ISSN 1588-4082.
+
+\bibitem[Ovaskainen et~al.(2017)Ovaskainen, Tikhonov, Norberg, Blanchet, Duan,
+  Dunson, Roslin, and Abrego]{ovaskainen2017}
+O.~Ovaskainen, G.~Tikhonov, A.~Norberg, F.~G. Blanchet, L.~Duan, D.~Dunson,
+  T.~Roslin, and N.~Abrego.
+\newblock How to make more out of community data? {{A}} conceptual framework
+  and its implementation as models and software.
+\newblock \emph{Ecology Letters}, 20\penalty0 (5):\penalty0 561--576, 2017.
+\newblock ISSN 1461-0248.
+\newblock \doi{10.1111/ele.12757}.
+
+\bibitem[Panagos et~al.(2012)Panagos, Van~Liedekerke, Jones, and
+  Montanarella]{panagos2012}
+P.~Panagos, M.~Van~Liedekerke, A.~Jones, and L.~Montanarella.
+\newblock European {{Soil Data Centre}}: {{Response}} to {{European}} policy
+  support and public data requirements.
+\newblock \emph{Land Use Policy}, 29\penalty0 (2):\penalty0 329--338, Apr.
+  2012.
+\newblock ISSN 0264-8377.
+\newblock \doi{10.1016/j.landusepol.2011.07.003}.
+
+\bibitem[Pearce and Ferrier(2000)]{pearce2000}
+J.~Pearce and S.~Ferrier.
+\newblock Evaluating the predictive performance of habitat models developed
+  using logistic regression.
+\newblock \emph{Ecological Modelling}, 133\penalty0 (3):\penalty0 225--245,
+  Sept. 2000.
+\newblock ISSN 0304-3800.
+\newblock \doi{10.1016/S0304-3800(00)00322-7}.
+
+\bibitem[Pecoraro et~al.(2012)Pecoraro, Girlanda, Kull, Perini, and
+  Perotto]{pecoraro2012}
+L.~Pecoraro, M.~Girlanda, T.~Kull, C.~Perini, and S.~Perotto.
+\newblock Analysis of fungal diversity in {{Orchis}} tridentata {{Scopoli}}.
+\newblock \emph{Central European Journal of Biology}, 7\penalty0 (5):\penalty0
+  850--857, Oct. 2012.
+\newblock ISSN 1644-3632.
+\newblock \doi{10.2478/s11535-012-0071-y}.
+
+\bibitem[Pecoraro et~al.(2013)Pecoraro, Girlanda, Kull, Perini, and
+  Perotto]{pecoraro2013}
+L.~Pecoraro, M.~Girlanda, T.~Kull, C.~Perini, and S.~Perotto.
+\newblock Fungi from the roots of the terrestrial photosynthetic orchid
+  {{Himantoglossum}} adriaticum.
+\newblock \emph{Plant Ecology and Evolution}, 146\penalty0 (2):\penalty0
+  145--152, July 2013.
+\newblock \doi{10.5091/plecevo.2013.782}.
+
+\bibitem[Pecoraro et~al.(2015)Pecoraro, Girlanda, Liu, Huang, and
+  Perotto]{pecoraro2015}
+L.~Pecoraro, M.~Girlanda, Z.-J. Liu, L.~Huang, and S.~Perotto.
+\newblock Molecular analysis of fungi associated with the {{Mediterranean}}
+  orchid {{Ophrys}} bertolonii {{Mor}}.
+\newblock \emph{Annals of Microbiology}, 65\penalty0 (4):\penalty0 2001--2007,
+  Dec. 2015.
+\newblock ISSN 1869-2044.
+\newblock \doi{10.1007/s13213-015-1038-9}.
+
+\bibitem[Pecoraro et~al.(2017)Pecoraro, Huang, Caruso, Perotto, Girlanda, Cai,
+  and Liu]{pecoraro2017}
+L.~Pecoraro, L.~Huang, T.~Caruso, S.~Perotto, M.~Girlanda, L.~Cai, and Z.-J.
+  Liu.
+\newblock Fungal diversity and specificity in {{Cephalanthera}} damasonium and
+  {{C}}. longifolia ({{Orchidaceae}}) mycorrhizas.
+\newblock \emph{Journal of Systematics and Evolution}, 55\penalty0
+  (2):\penalty0 158--169, 2017.
+\newblock ISSN 1759-6831.
+\newblock \doi{10.1111/jse.12238}.
+
+\bibitem[Pirozynski and Malloch(1975)]{pirozynski1975}
+K.~A. Pirozynski and D.~W. Malloch.
+\newblock The origin of land plants: {{A}} matter of mycotrophism.
+\newblock \emph{Biosystems}, 6\penalty0 (3):\penalty0 153--164, Mar. 1975.
+\newblock ISSN 0303-2647.
+\newblock \doi{10.1016/0303-2647(75)90023-4}.
+
+\bibitem[Pollock et~al.(2014)Pollock, Tingley, Morris, Golding, O'Hara, Parris,
+  Vesk, and McCarthy]{pollock2014}
+L.~J. Pollock, R.~Tingley, W.~K. Morris, N.~Golding, R.~B. O'Hara, K.~M.
+  Parris, P.~A. Vesk, and M.~A. McCarthy.
+\newblock Understanding co-occurrence by modelling species simultaneously with
+  a {{Joint Species Distribution Model}} ({{JSDM}}).
+\newblock \emph{Methods in Ecology and Evolution}, 5\penalty0 (5):\penalty0
+  397--406, 2014.
+\newblock ISSN 2041-210X.
+\newblock \doi{10.1111/2041-210X.12180}.
+
+\bibitem[Powers and Hampton(2019)]{powers2019}
+S.~M. Powers and S.~E. Hampton.
+\newblock Open science, reproducibility, and transparency in ecology.
+\newblock \emph{Ecological Applications}, 29\penalty0 (1):\penalty0 e01822,
+  2019.
+\newblock ISSN 1939-5582.
+\newblock \doi{10.1002/eap.1822}.
+
+\bibitem[Ram{\'i}rez et~al.(2007)Ram{\'i}rez, Gravendeel, Singer, Marshall, and
+  Pierce]{ramirez2007}
+S.~R. Ram{\'i}rez, B.~Gravendeel, R.~B. Singer, C.~R. Marshall, and N.~E.
+  Pierce.
+\newblock Dating the origin of the {{Orchidaceae}} from a fossil orchid with
+  its pollinator.
+\newblock \emph{Nature}, 448\penalty0 (7157):\penalty0 1042--1045, Aug. 2007.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature06039}.
+
+\bibitem[Rasmussen(1995)]{rasmussen1995}
+H.~N. Rasmussen.
+\newblock \emph{Terrestrial {{Orchids}}: {{From Seed}} to {{Mycotrophic
+  Plant}}}.
+\newblock {Cambridge University Press}, Aug. 1995.
+\newblock ISBN 978-0-521-45165-9.
+
+\bibitem[Rasmussen(2002)]{rasmussen2002}
+H.~N. Rasmussen.
+\newblock Recent developments in the study of orchid mycorrhiza.
+\newblock \emph{Plant and Soil}, 244\penalty0 (1/2):\penalty0 149--163, 2002.
+\newblock ISSN 0032-079X.
+
+\bibitem[RASMUSSEN and WHIGHAM(1998)]{rasmussen1998}
+H.~N. RASMUSSEN and D.~F. WHIGHAM.
+\newblock The underground phase: A special challenge in studies of terrestrial
+  orchid populations.
+\newblock \emph{Botanical Journal of the Linnean Society}, 126\penalty0
+  (1-2):\penalty0 49--64, Jan. 1998.
+\newblock ISSN 0024-4074.
+\newblock \doi{10.1111/j.1095-8339.1998.tb02515.x}.
+
+\bibitem[Rayner(1927)]{rayner1927}
+M.~C. Rayner.
+\newblock Mycorrhiza. {{An}} account of non-pathogenic infection by fungi in
+  vascular plants and {{Bryophytes}}.
+\newblock \emph{Mycorrhiza. An account of non-pathogenic infection by fungi in
+  vascular plants and Bryophytes.}, \penalty0 (No. 15), 1927.
+
+\bibitem[Redecker et~al.(2000)Redecker, Kodner, and Graham]{redecker2000}
+D.~Redecker, R.~Kodner, and L.~E. Graham.
+\newblock Glomalean {{Fungi}} from the {{Ordovician}}.
+\newblock \emph{Science}, 289\penalty0 (5486):\penalty0 1920--1921, Sept. 2000.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.289.5486.1920}.
+
+\bibitem[Renault(1896)]{renault1896}
+B.~Renault.
+\newblock \emph{Bassin Houiller et Permien d'{{Autun}} et d'{{\'Epinac}}:
+  {{Flore}} Fossile, 2. Partie. {{Fascicule}} 4}, volume~4.
+\newblock {Imprimerie nationale}, 1896.
+
+\bibitem[Rillig et~al.(2003)Rillig, Treseder, and Allen]{rillig2003}
+M.~C. Rillig, K.~K. Treseder, and M.~F. Allen.
+\newblock Global {{Change}} and {{Mycorrhizal Fungi}}.
+\newblock In M.~G.~A. {van der Heijden} and I.~R. Sanders, editors,
+  \emph{Mycorrhizal {{Ecology}}}, Ecological {{Studies}}, pages 135--160.
+  {Springer}, {Berlin, Heidelberg}, 2003.
+\newblock ISBN 978-3-540-38364-2.
+\newblock \doi{10.1007/978-3-540-38364-2_6}.
+
+\bibitem[Roy et~al.(2009)Roy, Yagame, Yamato, Iwase, Heinz, Faccio, Bonfante,
+  and Selosse]{roy2009}
+M.~Roy, T.~Yagame, M.~Yamato, K.~Iwase, C.~Heinz, A.~Faccio, P.~Bonfante, and
+  M.-A. Selosse.
+\newblock Ectomycorrhizal {{Inocybe}} species associate with the
+  mycoheterotrophic orchid {{Epipogium}} aphyllum but not its asexual
+  propagules.
+\newblock \emph{Annals of Botany}, 104\penalty0 (3):\penalty0 595--610, Aug.
+  2009.
+\newblock ISSN 0305-7364.
+\newblock \doi{10.1093/aob/mcn269}.
+
+\bibitem[Schatz et~al.(2010)Schatz, Geoffroy, Dainat, Bessi{\`e}re, Buatois,
+  Hossaert-McKey, and Selosse]{schatz2010}
+B.~Schatz, A.~Geoffroy, B.~Dainat, J.-M. Bessi{\`e}re, B.~Buatois,
+  M.~Hossaert-McKey, and M.-A. Selosse.
+\newblock A case study of modified interactions with symbionts in a hybrid
+  mediterranean orchid.
+\newblock \emph{American Journal of Botany}, 97\penalty0 (8):\penalty0
+  1278--1288, 2010.
+\newblock ISSN 1537-2197.
+\newblock \doi{10.3732/ajb.0900303}.
+
+\bibitem[Selosse and Le~Tacon(1998)]{selosse1998}
+M.-A. Selosse and F.~Le~Tacon.
+\newblock The land flora: A phototroph-fungus partnership?
+\newblock \emph{Trends in Ecology \& Evolution}, 13\penalty0 (1):\penalty0
+  15--20, Jan. 1998.
+\newblock ISSN 0169-5347.
+\newblock \doi{10.1016/S0169-5347(97)01230-5}.
+
+\bibitem[Selosse and Martos(2014)]{selosse2014}
+M.-A. Selosse and F.~Martos.
+\newblock Do chlorophyllous orchids heterotrophically use mycorrhizal fungal
+  carbon?
+\newblock \emph{Trends in Plant Science}, 19\penalty0 (11):\penalty0 683--685,
+  Nov. 2014.
+\newblock ISSN 1360-1385.
+\newblock \doi{10.1016/j.tplants.2014.09.005}.
+
+\bibitem[Selosse and Roy(2009)]{selosse2009}
+M.-A. Selosse and M.~Roy.
+\newblock Green plants that feed on fungi: Facts and questions about
+  mixotrophy.
+\newblock \emph{Trends in Plant Science}, 14\penalty0 (2):\penalty0 64--70,
+  Feb. 2009.
+\newblock ISSN 1360-1385.
+\newblock \doi{10.1016/j.tplants.2008.11.004}.
+
+\bibitem[Selosse et~al.(2004)Selosse, Faccio, Scappaticci, and
+  Bonfante]{selosse2004}
+M.-A. Selosse, A.~Faccio, G.~Scappaticci, and P.~Bonfante.
+\newblock Chlorophyllous and {{Achlorophyllous Specimens}} of {{Epipactis}}
+  microphylla ({{Neottieae}}, {{Orchidaceae}}) {{Are Associated}} with
+  {{Ectomycorrhizal Septomycetes}}, including {{Truffles}}.
+\newblock \emph{Microbial Ecology}, 47\penalty0 (4), Apr. 2004.
+\newblock ISSN 0095-3628, 1432-184X.
+\newblock \doi{10.1007/s00248-003-2034-3}.
+
+\bibitem[Selosse et~al.(2011)Selosse, Boullard, and Richardson]{selosse2011}
+M.-A. Selosse, B.~Boullard, and D.~Richardson.
+\newblock No\"el {{Bernard}} (1874\textendash 1911): Orchids to symbiosis in a
+  dozen years, one century ago.
+\newblock \emph{Symbiosis}, 54\penalty0 (2):\penalty0 61--68, June 2011.
+\newblock ISSN 1878-7665.
+\newblock \doi{10.1007/s13199-011-0131-5}.
+
+\bibitem[Shefferson et~al.(2008)Shefferson, Kull, and Tali]{shefferson2008}
+R.~P. Shefferson, T.~Kull, and K.~Tali.
+\newblock Mycorrhizal interactions of orchids colonizing {{Estonian}} mine
+  tailings hills.
+\newblock \emph{American Journal of Botany}, 95\penalty0 (2):\penalty0
+  156--164, 2008.
+\newblock ISSN 1537-2197.
+\newblock \doi{10.3732/ajb.95.2.156}.
+
+\bibitem[Spribille et~al.(2016)Spribille, Tuovinen, Resl, Vanderpool, Wolinski,
+  Aime, Schneider, Stabentheiner, {Toome-Heller}, Thor, Mayrhofer, Johannesson,
+  and McCutcheon]{spribille2016}
+T.~Spribille, V.~Tuovinen, P.~Resl, D.~Vanderpool, H.~Wolinski, M.~C. Aime,
+  K.~Schneider, E.~Stabentheiner, M.~{Toome-Heller}, G.~Thor, H.~Mayrhofer,
+  H.~Johannesson, and J.~P. McCutcheon.
+\newblock Basidiomycete yeasts in the cortex of ascomycete macrolichens.
+\newblock \emph{Science (New York, N.Y.)}, 353\penalty0 (6298):\penalty0
+  488--492, July 2016.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.aaf8287}.
+
+\bibitem[Steenkamp et~al.(2006)Steenkamp, Wright, and Baldauf]{steenkamp2006}
+E.~T. Steenkamp, J.~Wright, and S.~L. Baldauf.
+\newblock The {{Protistan Origins}} of {{Animals}} and {{Fungi}}.
+\newblock \emph{Molecular Biology and Evolution}, 23\penalty0 (1):\penalty0
+  93--106, Jan. 2006.
+\newblock ISSN 0737-4038.
+\newblock \doi{10.1093/molbev/msj011}.
+
+\bibitem[Strullu-Derrien et~al.(2018)Strullu-Derrien, Selosse, Kenrick, and
+  Martin]{strullu-derrien2018}
+C.~Strullu-Derrien, M.-A. Selosse, P.~Kenrick, and F.~M. Martin.
+\newblock The origin and evolution of mycorrhizal symbioses: From
+  palaeomycology to phylogenomics.
+\newblock \emph{New Phytologist}, 220\penalty0 (4):\penalty0 1012--1030, 2018.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/nph.15076}.
+
+\bibitem[Taylor et~al.(2004)Taylor, Bruns, and Hodges]{taylor2004}
+D.~L. Taylor, T.~D. Bruns, and S.~A. Hodges.
+\newblock Evidence for mycorrhizal races in a cheating orchid.
+\newblock \emph{Proceedings of the Royal Society of London. Series B:
+  Biological Sciences}, 271\penalty0 (1534):\penalty0 35--43, Jan. 2004.
+\newblock \doi{10.1098/rspb.2003.2557}.
+
+\bibitem[Taylor et~al.(1997)Taylor, Hass, and Kerp]{taylor1997}
+T.~N. Taylor, H.~Hass, and H.~Kerp.
+\newblock A cyanolichen from the {{Lower Devonian Rhynie}} chert.
+\newblock \emph{American Journal of Botany}, 84\penalty0 (7):\penalty0
+  992--1004, 1997.
+\newblock ISSN 1537-2197.
+\newblock \doi{10.2307/2446290}.
+
+\bibitem[T{\v e}{\v s}itelov{\'a} et~al.(2015)T{\v e}{\v s}itelov{\'a},
+  Kotil{\'i}nek, Jers{\'a}kov{\'a}, Joly, Ko{\v s}nar, Tatarenko, and
+  Selosse]{tesitelova2015}
+T.~T{\v e}{\v s}itelov{\'a}, M.~Kotil{\'i}nek, J.~Jers{\'a}kov{\'a}, F.-X.
+  Joly, J.~Ko{\v s}nar, I.~Tatarenko, and M.-A. Selosse.
+\newblock Two widespread green {{Neottia}} species ({{Orchidaceae}}) show
+  mycorrhizal preference for {{Sebacinales}} in various habitats and
+  ontogenetic stages.
+\newblock \emph{Molecular Ecology}, 24\penalty0 (5):\penalty0 1122--1134, 2015.
+\newblock ISSN 1365-294X.
+\newblock \doi{10.1111/mec.13088}.
+
+\bibitem[Tikhonov et~al.(2017)Tikhonov, Abrego, Dunson, and
+  Ovaskainen]{tikhonov2017}
+G.~Tikhonov, N.~Abrego, D.~Dunson, and O.~Ovaskainen.
+\newblock Using joint species distribution models for evaluating how
+  species-to-species associations depend on the environmental context.
+\newblock \emph{Methods in Ecology and Evolution}, 8\penalty0 (4):\penalty0
+  443--452, 2017.
+\newblock ISSN 2041-210X.
+\newblock \doi{10.1111/2041-210X.12723}.
+
+\bibitem[Tikhonov et~al.(2020)Tikhonov, Opedal, Abrego, Lehikoinen, de~Jonge,
+  Oksanen, and Ovaskainen]{tikhonov2020}
+G.~Tikhonov, {\O}.~H. Opedal, N.~Abrego, A.~Lehikoinen, M.~M.~J. de~Jonge,
+  J.~Oksanen, and O.~Ovaskainen.
+\newblock Joint species distribution modelling with the r-package {{Hmsc}}.
+\newblock \emph{Methods in Ecology and Evolution}, 11\penalty0 (3):\penalty0
+  442--447, 2020.
+\newblock ISSN 2041-210X.
+\newblock \doi{10.1111/2041-210X.13345}.
+
+\bibitem[Tjur(2009)]{tjur2009}
+T.~Tjur.
+\newblock Coefficients of {{Determination}} in {{Logistic Regression
+  Models}}\textemdash{{A New Proposal}}: {{The Coefficient}} of
+  {{Discrimination}}.
+\newblock \emph{The American Statistician}, 63\penalty0 (4):\penalty0 366--372,
+  Nov. 2009.
+\newblock ISSN 0003-1305.
+\newblock \doi{10.1198/tast.2009.08210}.
+
+\bibitem[Trappe and Safir(1987)]{trappe1987}
+J.~M. Trappe and G.~R. Safir.
+\newblock Ecophysiology of {{VA}} mycorrhizal plants.
+\newblock 1987.
+
+\bibitem[van~der Heijden et~al.(2015)van~der Heijden, Martin, Selosse, and
+  Sanders]{heijden2015}
+M.~G.~A. van~der Heijden, F.~M. Martin, M.-A. Selosse, and I.~R. Sanders.
+\newblock Mycorrhizal ecology and evolution: The past, the present, and the
+  future.
+\newblock \emph{New Phytologist}, 205\penalty0 (4):\penalty0 1406--1423, 2015.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/nph.13288}.
+
+\bibitem[Veldre et~al.(2013)Veldre, Abarenkov, Bahram, Martos, Selosse, Tamm,
+  K{\~o}ljalg, and Tedersoo]{veldre2013}
+V.~Veldre, K.~Abarenkov, M.~Bahram, F.~Martos, M.-A. Selosse, H.~Tamm,
+  U.~K{\~o}ljalg, and L.~Tedersoo.
+\newblock Evolution of nutritional modes of {{Ceratobasidiaceae}}
+  ({{Cantharellales}}, {{Basidiomycota}}) as revealed from publicly available
+  {{ITS}} sequences.
+\newblock \emph{Fungal Ecology}, 6\penalty0 (4):\penalty0 256--268, Aug. 2013.
+\newblock ISSN 1754-5048.
+\newblock \doi{10.1016/j.funeco.2013.03.004}.
+
+\bibitem[Wang and Qiu(2006)]{wang2006}
+B.~Wang and Y.-L. Qiu.
+\newblock Phylogenetic distribution and evolution of mycorrhizas in land
+  plants.
+\newblock \emph{Mycorrhiza}, 16\penalty0 (5):\penalty0 299--363, July 2006.
+\newblock ISSN 1432-1890.
+\newblock \doi{10.1007/s00572-005-0033-6}.
+
+\bibitem[Wang et~al.(1999)Wang, Kumar, and Hedges]{wang1999}
+D.~Y. Wang, S.~Kumar, and S.~B. Hedges.
+\newblock Divergence time estimates for the early history of animal phyla and
+  the origin of plants, animals and fungi.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
+  266\penalty0 (1415):\penalty0 163--171, Jan. 1999.
+\newblock ISSN 0962-8452.
+
+\bibitem[Warton et~al.(2015)Warton, Blanchet, O'Hara, Ovaskainen, Taskinen,
+  Walker, and Hui]{warton2015}
+D.~I. Warton, F.~G. Blanchet, R.~B. O'Hara, O.~Ovaskainen, S.~Taskinen, S.~C.
+  Walker, and F.~K.~C. Hui.
+\newblock So {{Many Variables}}: {{Joint Modeling}} in {{Community Ecology}}.
+\newblock \emph{Trends in Ecology \& Evolution}, 30\penalty0 (12):\penalty0
+  766--779, Dec. 2015.
+\newblock ISSN 0169-5347.
+\newblock \doi{10.1016/j.tree.2015.09.007}.
+
+\bibitem[Waterman et~al.(2011)Waterman, Bidartondo, Stofberg, Combs, Gebauer,
+  Savolainen, Barraclough, and Pauw]{waterman2011}
+R.~J. Waterman, M.~I. Bidartondo, J.~Stofberg, J.~K. Combs, G.~Gebauer,
+  V.~Savolainen, T.~G. Barraclough, and A.~Pauw.
+\newblock The {{Effects}} of {{Above}}- and {{Belowground Mutualisms}} on
+  {{Orchid Speciation}} and {{Coexistence}}.
+\newblock \emph{The American Naturalist}, 177\penalty0 (2):\penalty0 E54--E68,
+  Feb. 2011.
+\newblock ISSN 0003-0147.
+\newblock \doi{10.1086/657955}.
+
+\bibitem[Weir and Schluter(2008)]{weir2008}
+J.~T. Weir and D.~Schluter.
+\newblock Calibrating the avian molecular clock.
+\newblock \emph{Molecular Ecology}, 17\penalty0 (10):\penalty0 2321--2328,
+  2008.
+\newblock ISSN 1365-294X.
+\newblock \doi{10.1111/j.1365-294X.2008.03742.x}.
+
+\bibitem[Weiss et~al.(2004)Weiss, Selosse, Rexer, Urban, and
+  Oberwinkler]{weiss2004}
+M.~Weiss, M.-A. Selosse, K.-H. Rexer, A.~Urban, and F.~Oberwinkler.
+\newblock Sebacinales: A hitherto overlooked cosm of heterobasidiomycetes with
+  a broad mycorrhizal potential* *{{Part}} 221 of the series {{Studies}} in
+  {{Heterobasidiomycetes}} from the {{Botanical Institute}}, {{University}} of
+  {{T\"ubingen}}, {{T\"ubingen}}.
+\newblock \emph{Mycological Research}, 108\penalty0 (9):\penalty0 1003--1010,
+  Sept. 2004.
+\newblock ISSN 0953-7562.
+\newblock \doi{10.1017/S0953756204000772}.
+
+\bibitem[Wei{\ss} et~al.(2016)Wei{\ss}, Waller, Zuccaro, and
+  Selosse]{weiss2016}
+M.~Wei{\ss}, F.~Waller, A.~Zuccaro, and M.-A. Selosse.
+\newblock Sebacinales \textendash{} one thousand and one interactions with land
+  plants.
+\newblock \emph{New Phytologist}, 211\penalty0 (1):\penalty0 20--40, 2016.
+\newblock ISSN 1469-8137.
+\newblock \doi{10.1111/nph.13977}.
+
+\bibitem[Whittaker(1969)]{whittaker1969}
+R.~H. Whittaker.
+\newblock New concepts of kingdoms of organisms.
+\newblock \emph{Science}, 163\penalty0 (3863):\penalty0 150--160, 1969.
+
+\end{thebibliography}

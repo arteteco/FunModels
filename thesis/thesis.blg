@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: abbrvnat.bst
+Database file #1: bibliography.bib
+Warning--to sort, need author or key in CITES-1
+Warning--to sort, need author or key in tnt
+Warning--empty year in CITES-1
+Warning--empty year in tnt
+Warning--there's a number but no volume in rayner1927
+Warning--empty journal in trappe1987
+You've used 114 entries,
+            2773 wiz_defined-function locations,
+            1417 strings with 32204 characters,
+and the built_in function-call counts, 67648 in all, are:
+= -- 6176
+> -- 4830
+< -- 50
++ -- 1626
+- -- 1511
+* -- 6416
+:= -- 10700
+add.period$ -- 530
+call.type$ -- 114
+change.case$ -- 841
+chr.to.int$ -- 113
+cite$ -- 236
+duplicate$ -- 2396
+empty$ -- 4610
+format.name$ -- 1663
+if$ -- 13805
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 113
+newline$ -- 760
+num.names$ -- 456
+pop$ -- 1373
+preamble$ -- 1
+purify$ -- 730
+quote$ -- 0
+skip$ -- 1914
+stack$ -- 0
+substring$ -- 2805
+swap$ -- 228
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1239
+warning$ -- 6
+while$ -- 541
+width$ -- 0
+write$ -- 1854
+(There were 6 warnings)

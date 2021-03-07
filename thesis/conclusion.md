@@ -3,7 +3,10 @@ In this thesis I compiled and analysed an extensive database of mycorrhizal fung
 These kind of studies are of crucial importance for the understanding and protection of species we may not even know yet. Improving the ecosystem is not something we can successfully do without knowing the key elements that allow them to function, and fungi surely are part of this category. These studies are heavily reliant on data, which must be accurate and abundant. Presently there is limited properly georeferenced studies that allow the pinpointing of genetic sequences to places, resulting in gappy databases and in a difficulty reproducing the analysis.
 Furthermore, gathering the data the way I've done is mostly a manual process, with huge cost in terms of time and resources. More transparent analysis with an accessible, standardize and rich metadata structure are of the uttermost importance for a significant progress of knowledge in the understanding of ecology and distribution of OrM [#powers2019], and for scientific studies in general.
 
-The understanding of OrM ecology will always be incomplete without a better knowledge of the phylogenetic relationship between the organisms. Patterns may emerge and we can analyse them, but we are flying blind when we try to infer those patterns to a broader context. 
+The understanding of OrM ecology will always be incomplete without a better knowledge of the taxonomy of OrM. We lack an acceptable phylogenetic framework that allows adequate assessment of the phylogenetic relationships between fungal strains. This would need to start from a robust species concept for OrM [#jacquemyn2017]. Without this knowledge, patterns may emerge from analysis but we can't infer them to groups or use them to shed light on the evolutionary history of the groups.
+
+It is also important to notice that the sampled orchids were of unknown age, likely adult as those are easier to sample. We do know that orchids change preferences for the fungal symbiont through life, and the ones identified in an adult plant are not necessarily those that will allow the seed to germinate [#meng2019], making those findings difficult to apply in a conservation plan.
+
 
 
 

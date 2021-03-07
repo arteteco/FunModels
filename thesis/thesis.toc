@@ -15,7 +15,7 @@
 \contentsline {chapter}{\numberline {10}Hierarchical modelling of species communities}{26}{}%
 \contentsline {part}{\numberline {IV}Discussion}{32}{}%
 \contentsline {part}{\numberline {V}Conclusions}{37}{}%
-\contentsline {part}{\numberline {VI}Appendices}{39}{}%
-\contentsline {chapter}{\numberline {11}Additional resources and information}{40}{}%
-\contentsline {chapter}{\numberline {12}Phylogenetic trees}{40}{}%
-\contentsline {chapter}{Bibliography}{43}{}%
+\contentsline {part}{\numberline {VI}Appendices}{40}{}%
+\contentsline {chapter}{\numberline {11}Additional resources and information}{41}{}%
+\contentsline {chapter}{\numberline {12}Phylogenetic trees}{41}{}%
+\contentsline {chapter}{Bibliography}{44}{}%
