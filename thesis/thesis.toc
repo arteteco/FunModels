@@ -17,5 +17,5 @@
 \contentsline {part}{\numberline {V}Conclusions}{37}{}%
 \contentsline {part}{\numberline {VI}Appendices}{40}{}%
 \contentsline {chapter}{\numberline {11}Additional resources and information}{41}{}%
-\contentsline {chapter}{\numberline {12}Phylogenetic trees}{41}{}%
-\contentsline {chapter}{Bibliography}{44}{}%
+\contentsline {chapter}{\numberline {12}Analysis results}{41}{}%
+\contentsline {chapter}{Bibliography}{52}{}%
