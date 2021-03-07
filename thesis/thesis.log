@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  7 MAR 2021 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  7 MAR 2021 14:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -611,19 +611,21 @@ Underfull \hbox (badness 1454) in paragraph at lines 13--17
 f - 2008 - Cladis-tics
  []
 
-[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57]) [58]
+[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57]))
+[58]
 
-LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
+LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
+(LaTeX3)     305.
 
 
-LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line 3.
+LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
+(LaTeX3)     305.
 
-
-(./thesis.aux)
+ (./thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
- ) ) 
+ ) 
 Here is how much of TeX's memory you used:
  6721 strings out of 481331
  127213 string characters out of 5917526
@@ -632,14 +634,14 @@ Here is how much of TeX's memory you used:
  409797 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  110i,17n,113p,10674b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600p
-k></home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-/home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></hom
-e/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/t
-ombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/tomb
-om/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/tombom/
-.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (58 pages, 11708375 bytes).
+ </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk>
+</home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></h
+ome/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/
+tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/tom
+bom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/tombom
+/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/tombom/.T
+inyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis.pdf (58 pages, 11708383 bytes).
 PDF statistics:
  266 PDF objects out of 1000 (max. 8388607)
  170 compressed objects within 2 object streams
