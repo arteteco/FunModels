@@ -18,4 +18,4 @@
 \contentsline {part}{\numberline {VI}Appendices}{40}{}%
 \contentsline {chapter}{\numberline {11}Additional resources and information}{41}{}%
 \contentsline {chapter}{\numberline {12}Analysis results}{41}{}%
-\contentsline {chapter}{Bibliography}{52}{}%
+\contentsline {chapter}{Bibliography}{42}{}%

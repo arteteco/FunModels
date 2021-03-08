@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  8 MAR 2021 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  8 MAR 2021 17:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,74 +597,75 @@ chapter 12.
 <images/mcmc.jpg, id=178, 773.89125pt x 5368.055pt>
 File: images/mcmc.jpg Graphic file (type jpg)
 <use images/mcmc.jpg>
-Package pdftex.def Info: images/mcmc.jpg  used on input line 297.
+Package pdftex.def Info: images/mcmc.jpg  used on input line 299.
 (pdftex.def)             Requested size: 68.70251pt x 476.55133pt.
-<images/mp.jpg, id=179, 1679.27374pt x 2738.23pt>
+[41]
+<images/mp.jpg, id=182, 1679.27374pt x 2738.23pt>
 File: images/mp.jpg Graphic file (type jpg)
 <use images/mp.jpg>
-Package pdftex.def Info: images/mp.jpg  used on input line 303.
+Package pdftex.def Info: images/mp.jpg  used on input line 305.
 (pdftex.def)             Requested size: 292.28864pt x 476.60695pt.
-<images/NMDScerino.png, id=180, 596.67252pt x 843.74335pt>
+<images/NMDScerino.png, id=183, 596.67252pt x 843.74335pt>
 File: images/NMDScerino.png Graphic file (type png)
 <use images/NMDScerino.png>
-Package pdftex.def Info: images/NMDScerino.png  used on input line 309.
+Package pdftex.def Info: images/NMDScerino.png  used on input line 311.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/NMDSrusseb.png, id=181, 596.67252pt x 843.74335pt>
+<images/NMDSrusseb.png, id=184, 596.67252pt x 843.74335pt>
 File: images/NMDSrusseb.png Graphic file (type png)
 <use images/NMDSrusseb.png>
-Package pdftex.def Info: images/NMDSrusseb.png  used on input line 315.
+Package pdftex.def Info: images/NMDSrusseb.png  used on input line 317.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/NMDSserthe.png, id=182, 596.67252pt x 843.74335pt>
+<images/NMDSserthe.png, id=185, 596.67252pt x 843.74335pt>
 File: images/NMDSserthe.png Graphic file (type png)
 <use images/NMDSserthe.png>
-Package pdftex.def Info: images/NMDSserthe.png  used on input line 321.
+Package pdftex.def Info: images/NMDSserthe.png  used on input line 323.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/NMDStul.png, id=183, 651.18282pt x 435.12563pt>
+<images/NMDStul.png, id=186, 651.18282pt x 435.12563pt>
 File: images/NMDStul.png Graphic file (type png)
 <use images/NMDStul.png>
-Package pdftex.def Info: images/NMDStul.png  used on input line 327.
+Package pdftex.def Info: images/NMDStul.png  used on input line 329.
 (pdftex.def)             Requested size: 448.14415pt x 299.45354pt.
-<images/PCAcerino.png, id=184, 596.67252pt x 843.74335pt>
+<images/PCAcerino.png, id=187, 596.67252pt x 843.74335pt>
 File: images/PCAcerino.png Graphic file (type png)
 <use images/PCAcerino.png>
-Package pdftex.def Info: images/PCAcerino.png  used on input line 333.
+Package pdftex.def Info: images/PCAcerino.png  used on input line 335.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/PCArusseb.png, id=185, 596.67252pt x 843.74335pt>
+<images/PCArusseb.png, id=188, 596.67252pt x 843.74335pt>
 File: images/PCArusseb.png Graphic file (type png)
 <use images/PCArusseb.png>
-Package pdftex.def Info: images/PCArusseb.png  used on input line 339.
+Package pdftex.def Info: images/PCArusseb.png  used on input line 341.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/PCAserthe.png, id=186, 596.67252pt x 843.74335pt>
+<images/PCAserthe.png, id=189, 596.67252pt x 843.74335pt>
 File: images/PCAserthe.png Graphic file (type png)
 <use images/PCAserthe.png>
-Package pdftex.def Info: images/PCAserthe.png  used on input line 345.
+Package pdftex.def Info: images/PCAserthe.png  used on input line 347.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/PCAtul.png, id=187, 634.62094pt x 677.53125pt>
+<images/PCAtul.png, id=190, 634.62094pt x 677.53125pt>
 File: images/PCAtul.png Graphic file (type png)
 <use images/PCAtul.png>
-Package pdftex.def Info: images/PCAtul.png  used on input line 351.
+Package pdftex.def Info: images/PCAtul.png  used on input line 353.
 (pdftex.def)             Requested size: 446.44916pt x 476.63611pt.
-(./latEnd.txt (./thesis.bbl [41] [42 <./images/mcmc.jpg>] [43 <./images/mp.jpg>
-] [44 <./images/NMDScerino.png>] [45 <./images/NMDSrusseb.png>] [46 <./images/N
-MDSserthe.png>] [47 <./images/NMDStul.png (PNG copy)>] [48 <./images/PCAcerino.
-png>] [49 <./images/PCArusseb.png>] [50 <./images/PCAserthe.png>] [51 <./images
-/PCAtul.png (PNG copy)>]
+ (./latEnd.txt (./thesis.bbl
 Underfull \hbox (badness 1454) in paragraph at lines 13--17
 []\OT1/cmr/m/n/12 TNT, a free pro-gram for phy-lo-ge-netic anal-y-sis - Golobof
 f - 2008 - Cladis-tics
  []
 
-[52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]))
-[66]
+[42] [43 <./images/mcmc.jpg>] [44 <./images/mp.jpg>] [45 <./images/NMDScerino.p
+ng>] [46 <./images/NMDSrusseb.png>] [47 <./images/NMDSserthe.png>] [48 <./image
+s/NMDStul.png (PNG copy)>] [49 <./images/PCAcerino.png>] [50 <./images/PCArusse
+b.png>] [51 <./images/PCAserthe.png>] [52 <./images/PCAtul.png (PNG copy)>]
+[53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65])) [66]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     357.
+(LaTeX3)     359.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     357.
+(LaTeX3)     359.
 
- (./thesis.aux)
+
+(./thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -676,7 +677,7 @@ Here is how much of TeX's memory you used:
  23537 multiletter control sequences out of 15000+600000
  409797 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 110i,17n,113p,10674b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 110i,17n,113p,10674b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk>
 </home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></h
 ome/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/
@@ -684,7 +685,7 @@ tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/tom
 bom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/tombom
 /.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/tombom/.T
 inyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (66 pages, 13552977 bytes).
+Output written on thesis.pdf (66 pages, 13553265 bytes).
 PDF statistics:
  305 PDF objects out of 1000 (max. 8388607)
  187 compressed objects within 2 object streams
