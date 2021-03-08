@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  7 MAR 2021 20:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  8 MAR 2021 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,52 +597,52 @@ chapter 12.
 <images/mcmc.jpg, id=178, 773.89125pt x 5368.055pt>
 File: images/mcmc.jpg Graphic file (type jpg)
 <use images/mcmc.jpg>
-Package pdftex.def Info: images/mcmc.jpg  used on input line 295.
+Package pdftex.def Info: images/mcmc.jpg  used on input line 297.
 (pdftex.def)             Requested size: 68.70251pt x 476.55133pt.
 <images/mp.jpg, id=179, 1679.27374pt x 2738.23pt>
 File: images/mp.jpg Graphic file (type jpg)
 <use images/mp.jpg>
-Package pdftex.def Info: images/mp.jpg  used on input line 301.
+Package pdftex.def Info: images/mp.jpg  used on input line 303.
 (pdftex.def)             Requested size: 292.28864pt x 476.60695pt.
 <images/NMDScerino.png, id=180, 596.67252pt x 843.74335pt>
 File: images/NMDScerino.png Graphic file (type png)
 <use images/NMDScerino.png>
-Package pdftex.def Info: images/NMDScerino.png  used on input line 307.
+Package pdftex.def Info: images/NMDScerino.png  used on input line 309.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
 <images/NMDSrusseb.png, id=181, 596.67252pt x 843.74335pt>
 File: images/NMDSrusseb.png Graphic file (type png)
 <use images/NMDSrusseb.png>
-Package pdftex.def Info: images/NMDSrusseb.png  used on input line 313.
+Package pdftex.def Info: images/NMDSrusseb.png  used on input line 315.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
 <images/NMDSserthe.png, id=182, 596.67252pt x 843.74335pt>
 File: images/NMDSserthe.png Graphic file (type png)
 <use images/NMDSserthe.png>
-Package pdftex.def Info: images/NMDSserthe.png  used on input line 319.
+Package pdftex.def Info: images/NMDSserthe.png  used on input line 321.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
 <images/NMDStul.png, id=183, 651.18282pt x 435.12563pt>
 File: images/NMDStul.png Graphic file (type png)
 <use images/NMDStul.png>
-Package pdftex.def Info: images/NMDStul.png  used on input line 325.
+Package pdftex.def Info: images/NMDStul.png  used on input line 327.
 (pdftex.def)             Requested size: 448.14415pt x 299.45354pt.
 <images/PCAcerino.png, id=184, 596.67252pt x 843.74335pt>
 File: images/PCAcerino.png Graphic file (type png)
 <use images/PCAcerino.png>
-Package pdftex.def Info: images/PCAcerino.png  used on input line 331.
+Package pdftex.def Info: images/PCAcerino.png  used on input line 333.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
 <images/PCArusseb.png, id=185, 596.67252pt x 843.74335pt>
 File: images/PCArusseb.png Graphic file (type png)
 <use images/PCArusseb.png>
-Package pdftex.def Info: images/PCArusseb.png  used on input line 337.
+Package pdftex.def Info: images/PCArusseb.png  used on input line 339.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
 <images/PCAserthe.png, id=186, 596.67252pt x 843.74335pt>
 File: images/PCAserthe.png Graphic file (type png)
 <use images/PCAserthe.png>
-Package pdftex.def Info: images/PCAserthe.png  used on input line 343.
+Package pdftex.def Info: images/PCAserthe.png  used on input line 345.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
 <images/PCAtul.png, id=187, 634.62094pt x 677.53125pt>
 File: images/PCAtul.png Graphic file (type png)
 <use images/PCAtul.png>
-Package pdftex.def Info: images/PCAtul.png  used on input line 349.
+Package pdftex.def Info: images/PCAtul.png  used on input line 351.
 (pdftex.def)             Requested size: 446.44916pt x 476.63611pt.
 (./latEnd.txt (./thesis.bbl [41] [42 <./images/mcmc.jpg>] [43 <./images/mp.jpg>
 ] [44 <./images/NMDScerino.png>] [45 <./images/NMDSrusseb.png>] [46 <./images/N
@@ -658,11 +658,11 @@ f - 2008 - Cladis-tics
 [66]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     355.
+(LaTeX3)     357.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     355.
+(LaTeX3)     357.
 
  (./thesis.aux)
 
@@ -684,7 +684,7 @@ tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/tom
 bom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/tombom
 /.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/tombom/.T
 inyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (66 pages, 13552664 bytes).
+Output written on thesis.pdf (66 pages, 13552977 bytes).
 PDF statistics:
  305 PDF objects out of 1000 (max. 8388607)
  187 compressed objects within 2 object streams
