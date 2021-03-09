@@ -1,21 +1,21 @@
 \contentsline {chapter}{Contents}{2}{}%
 \contentsline {chapter}{\numberline {1}Abstract}{4}{}%
-\contentsline {chapter}{\numberline {2}Riassunto}{4}{}%
-\contentsline {part}{\numberline {I}Introduction}{6}{}%
-\contentsline {chapter}{\numberline {3}Orchid-mycorrhizal fungi relationship}{10}{}%
-\contentsline {section}{\numberline {3.1}Distribution and ecology of orchid mycorrhizal fungi}{12}{}%
-\contentsline {part}{\numberline {II}Materials and methods}{14}{}%
-\contentsline {chapter}{\numberline {4}Phylogenetic analysis}{16}{}%
-\contentsline {chapter}{\numberline {5}Multivariate analysis}{18}{}%
-\contentsline {chapter}{\numberline {6}Hierarchical Modelling of Species Communities}{20}{}%
-\contentsline {part}{\numberline {III}Results}{23}{}%
-\contentsline {chapter}{\numberline {7}Phylogenetic analysis}{24}{}%
-\contentsline {chapter}{\numberline {8}PCA}{24}{}%
-\contentsline {chapter}{\numberline {9}NMDS}{25}{}%
-\contentsline {chapter}{\numberline {10}Hierarchical modelling of species communities}{26}{}%
-\contentsline {part}{\numberline {IV}Discussion}{32}{}%
-\contentsline {part}{\numberline {V}Conclusions}{37}{}%
-\contentsline {part}{\numberline {VI}Appendices}{40}{}%
-\contentsline {chapter}{\numberline {11}Additional resources and information}{41}{}%
-\contentsline {chapter}{\numberline {12}Analysis results}{41}{}%
-\contentsline {chapter}{Bibliography}{42}{}%
+\contentsline {chapter}{\numberline {2}Riassunto}{5}{}%
+\contentsline {part}{\numberline {I}Introduction}{7}{}%
+\contentsline {chapter}{\numberline {3}Orchid-mycorrhizal fungi relationship}{11}{}%
+\contentsline {section}{\numberline {3.1}Distribution and ecology of orchid mycorrhizal fungi}{13}{}%
+\contentsline {part}{\numberline {II}Materials and methods}{15}{}%
+\contentsline {chapter}{\numberline {4}Phylogenetic analysis}{17}{}%
+\contentsline {chapter}{\numberline {5}Multivariate analysis}{19}{}%
+\contentsline {chapter}{\numberline {6}Hierarchical Modelling of Species Communities}{21}{}%
+\contentsline {part}{\numberline {III}Results}{24}{}%
+\contentsline {chapter}{\numberline {7}Phylogenetic analysis}{25}{}%
+\contentsline {chapter}{\numberline {8}PCA}{25}{}%
+\contentsline {chapter}{\numberline {9}NMDS}{26}{}%
+\contentsline {chapter}{\numberline {10}Hierarchical modelling of species communities}{27}{}%
+\contentsline {part}{\numberline {IV}Discussion}{33}{}%
+\contentsline {part}{\numberline {V}Conclusions}{39}{}%
+\contentsline {part}{\numberline {VI}Appendices}{42}{}%
+\contentsline {chapter}{\numberline {11}Appendix I: Additional resources and information}{43}{}%
+\contentsline {chapter}{\numberline {12}Appendix II: Analysis results}{43}{}%
+\contentsline {chapter}{Bibliography}{44}{}%

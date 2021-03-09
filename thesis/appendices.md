@@ -1,5 +1,5 @@
 
-## Additional resources and information
+## Appendix I: Additional resources and information
 
 All of the datasets, scripts and resources to reproduce the analysis are available at https://github.com/arteteco/FunModels
 
@@ -10,7 +10,7 @@ The logo of the university in the frontispiece is trademark by Università degli
 Base satellite map on page 16 is ©2021 TerraMetrics, Map data ©2021GeoBasis-DE/BKG (©2009), Google, Inst Geogr. Nacional
 
 
-## Analysis results
+## Appendix II: Analysis results
 
 The following graphs are the phylogenetic trees, NMDS and PCA plots
 
