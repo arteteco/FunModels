@@ -1,4 +1,4 @@
-\begin{thebibliography}{114}
+\begin{thebibliography}{113}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -679,14 +679,6 @@ L.~J. Pollock, R.~Tingley, W.~K. Morris, N.~Golding, R.~B. O'Hara, K.~M.
   397--406, 2014.
 \newblock ISSN 2041-210X.
 \newblock \doi{10.1111/2041-210X.12180}.
-
-\bibitem[Powers and Hampton(2019)]{powers2019}
-S.~M. Powers and S.~E. Hampton.
-\newblock Open science, reproducibility, and transparency in ecology.
-\newblock \emph{Ecological Applications}, 29\penalty0 (1):\penalty0 e01822,
-  2019.
-\newblock ISSN 1939-5582.
-\newblock \doi{10.1002/eap.1822}.
 
 \bibitem[Ram{\'i}rez et~al.(2007)Ram{\'i}rez, Gravendeel, Singer, Marshall, and
   Pierce]{ramirez2007}

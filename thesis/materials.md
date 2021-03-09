@@ -23,7 +23,7 @@ Sequence `DQ520100` from *Tremiscus helvelloides* was used as outgroup.
 
 ## Multivariate analysis
 
-Before proceeding with the multivariate analysis, sequences have been clustered into Operative Taxonomic Units (OTU hereafter), by using cd-hit v. 4.8.1 [#li2001]. This process yielded 210 OTUs, with the extremes of Serendipitaceae having two OTUs only, and Tulasnellaceae 52 OTUs. 
+Before proceeding with the multivariate analysis, sequences have been clustered into Operative Taxonomic Units (OTU hereafter), by using cd-hit v. 4.8.1 [#li2001]. This process yielded 210 OTUs, with the extremes of Serendipitaceae having two OTUs only, and Tulasnellaceae 52 OTUs (see Figure 5.1).
 The database was then pivoted in a presence-absence matrix, and for further analysis it was splitted by family, so that each matrix only had all the OTUs for that single family, yielding seven different matrices. This was necessary to test what variability each family has; another matrix was obtained by grouping together all the observations from the same family, to test the variability between the different OrM families. 
 
 ![Number of OTUs from each OrM family](images/clust.png) 

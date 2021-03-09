@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  9 MAR 2021 20:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  9 MAR 2021 21:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -532,12 +532,13 @@ Package scrkbase Info: You've told me to use the font selection of the element
 ]
 chapter 7.
 chapter 8.
-<images/lumpPCA.png, id=119, 866.48718pt x 677.53125pt>
+[25]
+<images/lumpPCA.png, id=123, 866.48718pt x 677.53125pt>
 File: images/lumpPCA.png Graphic file (type png)
 <use images/lumpPCA.png>
 Package pdftex.def Info: images/lumpPCA.png  used on input line 183.
 (pdftex.def)             Requested size: 448.12994pt x 350.40569pt.
-[25]
+
 chapter 9.
 [26 <./images/lumpPCA.png (PNG copy)>]
 <images/nmdsEnvMatrix.png, id=127, 752.8125pt x 625.58719pt>
@@ -553,7 +554,7 @@ File: images/corrPlot.png Graphic file (type png)
 <use images/corrPlot.png>
 Package pdftex.def Info: images/corrPlot.png  used on input line 211.
 (pdftex.def)             Requested size: 448.13554pt x 271.05975pt.
- [29 <./images/corrPlot.png (PNG copy)>]
+ [29]
 <images/envVar.png, id=138, 350.7739pt x 422.16257pt>
 File: images/envVar.png Graphic file (type png)
 <use images/envVar.png>
@@ -564,80 +565,81 @@ File: images/varDistribution00.png Graphic file (type png)
 <use images/varDistribution00.png>
 Package pdftex.def Info: images/varDistribution00.png  used on input line 230.
 (pdftex.def)             Requested size: 448.16559pt x 419.0494pt.
- [30] [31 <./images/envVar.png>] [32 <./images/varDistribution00.png>]
+ [30 <./images/corrPlot.png (PNG copy)>] [31 <./images/envVar.png>] [32 <./imag
+es/varDistribution00.png>]
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 234.
 [33
 
-] [34] [35] [36] [37] [38]
+] [34] [35] [36] [37]
 part V.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 270.
-[39
+(scrkbase)              on input line 267.
+[38
 
-] [40] [41]
+] [39]
 part VI.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 282.
-[42
+(scrkbase)              on input line 272.
+[40
 
 ]
 chapter 11.
 chapter 12.
-<images/mcmc.jpg, id=184, 773.89125pt x 5368.055pt>
+<images/mcmc.jpg, id=177, 773.89125pt x 5368.055pt>
 File: images/mcmc.jpg Graphic file (type jpg)
 <use images/mcmc.jpg>
-Package pdftex.def Info: images/mcmc.jpg  used on input line 303.
+Package pdftex.def Info: images/mcmc.jpg  used on input line 293.
 (pdftex.def)             Requested size: 68.70251pt x 476.55133pt.
-[43]
-<images/mp.jpg, id=189, 1679.27374pt x 2738.23pt>
+[41]
+<images/mp.jpg, id=181, 1679.27374pt x 2738.23pt>
 File: images/mp.jpg Graphic file (type jpg)
 <use images/mp.jpg>
-Package pdftex.def Info: images/mp.jpg  used on input line 309.
+Package pdftex.def Info: images/mp.jpg  used on input line 299.
 (pdftex.def)             Requested size: 292.28864pt x 476.60695pt.
-<images/NMDScerino.png, id=190, 596.67252pt x 843.74335pt>
+<images/NMDScerino.png, id=182, 596.67252pt x 843.74335pt>
 File: images/NMDScerino.png Graphic file (type png)
 <use images/NMDScerino.png>
-Package pdftex.def Info: images/NMDScerino.png  used on input line 315.
+Package pdftex.def Info: images/NMDScerino.png  used on input line 305.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/NMDSrusseb.png, id=191, 596.67252pt x 843.74335pt>
+<images/NMDSrusseb.png, id=183, 596.67252pt x 843.74335pt>
 File: images/NMDSrusseb.png Graphic file (type png)
 <use images/NMDSrusseb.png>
-Package pdftex.def Info: images/NMDSrusseb.png  used on input line 321.
+Package pdftex.def Info: images/NMDSrusseb.png  used on input line 311.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/NMDSserthe.png, id=192, 596.67252pt x 843.74335pt>
+<images/NMDSserthe.png, id=184, 596.67252pt x 843.74335pt>
 File: images/NMDSserthe.png Graphic file (type png)
 <use images/NMDSserthe.png>
-Package pdftex.def Info: images/NMDSserthe.png  used on input line 327.
+Package pdftex.def Info: images/NMDSserthe.png  used on input line 317.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/NMDStul.png, id=193, 651.18282pt x 435.12563pt>
+<images/NMDStul.png, id=185, 651.18282pt x 435.12563pt>
 File: images/NMDStul.png Graphic file (type png)
 <use images/NMDStul.png>
-Package pdftex.def Info: images/NMDStul.png  used on input line 333.
+Package pdftex.def Info: images/NMDStul.png  used on input line 323.
 (pdftex.def)             Requested size: 448.14415pt x 299.45354pt.
-<images/PCAcerino.png, id=194, 596.67252pt x 843.74335pt>
+<images/PCAcerino.png, id=186, 596.67252pt x 843.74335pt>
 File: images/PCAcerino.png Graphic file (type png)
 <use images/PCAcerino.png>
-Package pdftex.def Info: images/PCAcerino.png  used on input line 339.
+Package pdftex.def Info: images/PCAcerino.png  used on input line 329.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/PCArusseb.png, id=195, 596.67252pt x 843.74335pt>
+<images/PCArusseb.png, id=187, 596.67252pt x 843.74335pt>
 File: images/PCArusseb.png Graphic file (type png)
 <use images/PCArusseb.png>
-Package pdftex.def Info: images/PCArusseb.png  used on input line 345.
+Package pdftex.def Info: images/PCArusseb.png  used on input line 335.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/PCAserthe.png, id=196, 596.67252pt x 843.74335pt>
+<images/PCAserthe.png, id=188, 596.67252pt x 843.74335pt>
 File: images/PCAserthe.png Graphic file (type png)
 <use images/PCAserthe.png>
-Package pdftex.def Info: images/PCAserthe.png  used on input line 351.
+Package pdftex.def Info: images/PCAserthe.png  used on input line 341.
 (pdftex.def)             Requested size: 337.05687pt x 476.62576pt.
-<images/PCAtul.png, id=197, 634.62094pt x 677.53125pt>
+<images/PCAtul.png, id=189, 634.62094pt x 677.53125pt>
 File: images/PCAtul.png Graphic file (type png)
 <use images/PCAtul.png>
-Package pdftex.def Info: images/PCAtul.png  used on input line 357.
+Package pdftex.def Info: images/PCAtul.png  used on input line 347.
 (pdftex.def)             Requested size: 446.44916pt x 476.63611pt.
  (./latEnd.txt (./thesis.bbl
 Underfull \hbox (badness 1454) in paragraph at lines 13--17
@@ -645,18 +647,18 @@ Underfull \hbox (badness 1454) in paragraph at lines 13--17
 f - 2008 - Cladis-tics
  []
 
-[44] [45 <./images/mcmc.jpg>] [46 <./images/mp.jpg>] [47 <./images/NMDScerino.p
-ng>] [48 <./images/NMDSrusseb.png>] [49 <./images/NMDSserthe.png>] [50 <./image
-s/NMDStul.png (PNG copy)>] [51 <./images/PCAcerino.png>] [52 <./images/PCArusse
-b.png>] [53 <./images/PCAserthe.png>] [54 <./images/PCAtul.png (PNG copy)>]
-[55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67])) [68]
+[42] [43 <./images/mcmc.jpg>] [44 <./images/mp.jpg>] [45 <./images/NMDScerino.p
+ng>] [46 <./images/NMDSrusseb.png>] [47 <./images/NMDSserthe.png>] [48 <./image
+s/NMDStul.png (PNG copy)>] [49 <./images/PCAcerino.png>] [50 <./images/PCArusse
+b.png>] [51 <./images/PCAserthe.png>] [52 <./images/PCAtul.png (PNG copy)>]
+[53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65])) [66]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     363.
+(LaTeX3)     353.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     363.
+(LaTeX3)     353.
 
 
 (./thesis.aux)
@@ -665,23 +667,23 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6747 strings out of 481331
- 127930 string characters out of 5917526
- 545114 words of memory out of 5000000
- 23520 multiletter control sequences out of 15000+600000
+ 6744 strings out of 481331
+ 127876 string characters out of 5917526
+ 545075 words of memory out of 5000000
+ 23517 multiletter control sequences out of 15000+600000
  409498 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 110i,17n,113p,10674b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 110i,17n,113p,10674b,511s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/tombom/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk>
 </home/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></h
 ome/tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/
 tombom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/tom
 bom/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/tombom
 /.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (68 pages, 13549884 bytes).
+Output written on thesis.pdf (66 pages, 13547237 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
+ 301 PDF objects out of 1000 (max. 8388607)
+ 184 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  111 words of extra memory for PDF output out of 10000 (max. 10000000)
 

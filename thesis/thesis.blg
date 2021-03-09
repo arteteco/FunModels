@@ -9,45 +9,45 @@ Warning--empty year in CITES-1
 Warning--empty year in tnt
 Warning--there's a number but no volume in rayner1927
 Warning--empty journal in trappe1987
-You've used 114 entries,
+You've used 113 entries,
             2773 wiz_defined-function locations,
-            1417 strings with 32204 characters,
-and the built_in function-call counts, 67648 in all, are:
-= -- 6176
-> -- 4830
-< -- 50
-+ -- 1626
-- -- 1511
-* -- 6416
-:= -- 10700
-add.period$ -- 530
-call.type$ -- 114
-change.case$ -- 841
-chr.to.int$ -- 113
-cite$ -- 236
-duplicate$ -- 2396
-empty$ -- 4610
-format.name$ -- 1663
-if$ -- 13805
+            1410 strings with 32038 characters,
+and the built_in function-call counts, 67187 in all, are:
+= -- 6131
+> -- 4809
+< -- 49
++ -- 1619
+- -- 1505
+* -- 6378
+:= -- 10628
+add.period$ -- 525
+call.type$ -- 113
+change.case$ -- 836
+chr.to.int$ -- 112
+cite$ -- 234
+duplicate$ -- 2376
+empty$ -- 4571
+format.name$ -- 1654
+if$ -- 13707
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 113
-newline$ -- 760
-num.names$ -- 456
-pop$ -- 1373
+missing$ -- 112
+newline$ -- 753
+num.names$ -- 452
+pop$ -- 1367
 preamble$ -- 1
-purify$ -- 730
+purify$ -- 726
 quote$ -- 0
-skip$ -- 1914
+skip$ -- 1898
 stack$ -- 0
-substring$ -- 2805
-swap$ -- 228
+substring$ -- 2785
+swap$ -- 227
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1239
+type$ -- 1228
 warning$ -- 6
-while$ -- 541
+while$ -- 537
 width$ -- 0
-write$ -- 1854
+write$ -- 1837
 (There were 6 warnings)

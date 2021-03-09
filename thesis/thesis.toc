@@ -14,8 +14,8 @@
 \contentsline {chapter}{\numberline {9}NMDS}{26}{}%
 \contentsline {chapter}{\numberline {10}Hierarchical modelling of species communities}{27}{}%
 \contentsline {part}{\numberline {IV}Discussion}{33}{}%
-\contentsline {part}{\numberline {V}Conclusions}{39}{}%
-\contentsline {part}{\numberline {VI}Appendices}{42}{}%
-\contentsline {chapter}{\numberline {11}Appendix I: Additional resources and information}{43}{}%
-\contentsline {chapter}{\numberline {12}Appendix II: Analysis results}{43}{}%
-\contentsline {chapter}{Bibliography}{44}{}%
+\contentsline {part}{\numberline {V}Conclusions}{38}{}%
+\contentsline {part}{\numberline {VI}Appendices}{40}{}%
+\contentsline {chapter}{\numberline {11}Appendix I: Additional resources and information}{41}{}%
+\contentsline {chapter}{\numberline {12}Appendix II: Analysis results}{41}{}%
+\contentsline {chapter}{Bibliography}{42}{}%

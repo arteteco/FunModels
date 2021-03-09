@@ -38,7 +38,7 @@ Starting from the lower Devonian (around 400 Mya), fossil record is more abundan
 It was not until the development of molecular phylogenetics techniques that some light could be properly shed on the evolutionary history of fungi ~\citep{james2006}.
 
 The molecular clock is one of the most widely used tools to investigate the timing of phylogenetic events. It is based on the hypothesis of the constancy of the rate of evolution with time and, when combined with the use of fossil records, allows the dating of branching events on phylogenetic trees ~\citep{lepage2007, weir2008}.
-From molecular clock analysis seems like fungi are sister group to animals, that is, the two lineages are close, diverging around 1.5 billion years ago ~\citep{wang1999}. The two groups form one supergroup called Opisthokhonta ~\citep{cavalier-smith1987}, from the Greek opísthios (rear, posterior) and kontós (``pole'' i.e. ``flagellum''), since the group is characterized by flagellate cells that propel themselves with a single, posterior flagellum, now lost in most fungi ~\citep{steenkamp2006} with the notable exception of the Chytridiomycota division ~\citep{james2006a}.
+From molecular clock analysis seems like fungi are sister group to animals, that is, the two lineages are close, diverging around 1.5 billion years ago ~\citep{wang1999}. The two groups form one supergroup called Opisthokhonta ~\citep{cavalier-smith1987} (see Figure 2.1), from the Greek opísthios (rear, posterior) and kontós (``pole'' i.e. ``flagellum''), since the group is characterized by flagellate cells that propel themselves with a single, posterior flagellum, now lost in most fungi ~\citep{steenkamp2006} with the notable exception of the Chytridiomycota division ~\citep{james2006a}.
 
 \begin{figure}[htbp]
 \centering
@@ -132,7 +132,7 @@ Sequence \texttt{DQ520100} from \emph{Tremiscus helvelloides} was used as outgro
 \chapter{Multivariate analysis}
 \label{multivariateanalysis}
 
-Before proceeding with the multivariate analysis, sequences have been clustered into Operative Taxonomic Units (OTU hereafter), by using cd-hit v. 4.8.1 ~\citep{li2001}. This process yielded 210 OTUs, with the extremes of Serendipitaceae having two OTUs only, and Tulasnellaceae 52 OTUs.
+Before proceeding with the multivariate analysis, sequences have been clustered into Operative Taxonomic Units (OTU hereafter), by using cd-hit v. 4.8.1 ~\citep{li2001}. This process yielded 210 OTUs, with the extremes of Serendipitaceae having two OTUs only, and Tulasnellaceae 52 OTUs (see Figure 5.1).
 The database was then pivoted in a presence-absence matrix, and for further analysis it was splitted by family, so that each matrix only had all the OTUs for that single family, yielding seven different matrices. This was necessary to test what variability each family has; another matrix was obtained by grouping together all the observations from the same family, to test the variability between the different OrM families.
 
 \begin{figure}[htbp]
@@ -176,7 +176,7 @@ The Maximum parsimony analysis gave similar results, with low bootstrap support 
 The PCA analysis on the presence-absence matrix of OrM OTUs and the environmental variables combined showed how there is a substantial overlap of the OTUs isolated from different orchids, without distinguishable clusters except for the Tulasnellaceae isolated from \emph{Neottia cordata}.
 In all cases, the variance was well explained by the first two components (over 95\% explained variance), with two variables bearing most of the loading: maximum precipitation of the wettest month and potassium content in the soil.
 
-The PCA done using the condensed family matrix yielded the same results, with the notable exception of the \emph{Limodorum abortivum}, which showed high variance.
+The PCA done using the condensed family matrix yielded the same results, with the notable exception of the \emph{Limodorum abortivum}, which showed high variance (see Figure 8.1).
 
 \begin{figure}[htbp]
 \centering
@@ -191,7 +191,7 @@ The NMDS analysis on the individual OrM families seems to show that there is no 
 Again, Tulasnellaceae seem to be the exception, with more distinct groups for different orchid hosts; while this could be a bias caused by the higher number of samples, Ceratobasidiaceae and Theleophoraceae did not show this pattern even though the sample amount where roughly similar. This could point to a higher specialization of the Tulasnellaceae group, confirming previous observations ~\citep{dearnaley2007}.
 The NMDS comparing the families yielded only a partial overlapping clustering, which could indicate that different orchids may have different degrees of specialization and realized niche; \emph{Limodorum abortivum} seemed to exibit the highest diversity, together with \emph{Spiranthes spiralis}.
 
-Removing orchid species from the NMDS analysis and only looking at how different OrM families clustered based on the environmental conditions showed an unexpected pattern. Russulaceae seemed to have a high variance, which points to a broader realized niche, compared to all other families; Tulasnellaceae, which is the most sampled and abundant OrM in the dataset, had less than half the variance and clustered in an area comparable to Sebacinaceae. Stress value is close to zero (0.0003), which means that the results are robust (or that we have insufficient data).
+Removing orchid species from the NMDS analysis and only looking at how different OrM families clustered based on the environmental conditions showed an unexpected pattern. Russulaceae seemed to have a high variance, which points to a broader realized niche, compared to all other families; Tulasnellaceae, which is the most sampled and abundant OrM in the dataset, had less than half the variance and clustered in an area comparable to Sebacinaceae (see Figure 9.1). Stress value is close to zero (0.0003), which means that the results are robust or that we have insufficient data.
 
 \begin{figure}[htbp]
 \centering
@@ -204,7 +204,7 @@ Removing orchid species from the NMDS analysis and only looking at how different
 
 The calculated Joint species distribution modelling in HMSC had a high average AUC (over 0.8), which means is robust. The AUC (Area Under the Roc Curve) provides an aggregate measure of performance across all possible classification thresholds. One way of interpreting AUC is as the probability that the model ranks a random positive example more highly than a random negative example. The AUC ranges from 0 to 1. A model whose predictions are 100\% wrong has an AUC of 0.0; one whose predictions are 100\% correct has an AUC of 1.0.
 
-In the correlation between the families seemed like most families had a positive correlation, with two exceptions: Tulasnellaceae, who had no correlation (0) and Russulaceae, that had a negative correlation (-1). OTUs from the same families seemed, on the other hand, to have no correlation with the others, positive or negative. This remains for all families but Ceratobasidiaceae, which had more complex correlations, both positive and negative.
+In the correlation between the families seemed like most families had a positive correlation, with two exceptions: Tulasnellaceae, who had no correlation (0) and Russulaceae, that had a negative correlation (-1). OTUs from the same families seemed, on the other hand, to have no correlation with the others, positive or negative. This remains for all families but Ceratobasidiaceae, which had more complex correlations, both positive and negative (see Figure 10.1).
 
 \begin{figure}[htbp]
 \centering
@@ -215,7 +215,7 @@ In the correlation between the families seemed like most families had a positive
 The second HMSC result is the correlation between the groups and the environmental variables.
 The difference between the families was not very pronounced, and the most relevant parameter seemed the Minimum Temperature, which was highly correlated with most families (only Tulasnellaceae had 0 correlation), confirming the importance of this environmental parameter in understanding the distribution of OrMs. Maximum precipitation also has inverse correlation with most families, except for Russulaceae which showed a positive correlation. Of all the soil parameters, pH seemed the most important with a general inverse correlation (the lower the pH, the higher the presence of the OrM).
 The differences between OTUs from the same family were less clear-cut, showing different correlations for different OTUs in the same family, giving an idea of the diversity that can happen also at low taxonomic levels.
-It is worthy of notice that Tulasnellaceae showed again the least amount of internal differences.
+It is worthy of notice that Tulasnellaceae showed again the least amount of internal differences (see Figure 10.2).
 
 \begin{figure}[htbp]
 \centering
@@ -223,7 +223,7 @@ It is worthy of notice that Tulasnellaceae showed again the least amount of inte
 \caption{HMSC output with the correlation between environmental variables and OTUs presence}
 \end{figure}
 
-The last HMSC result is how the variance of the environmental variables is distributed in each OTU. The minumum temperature of the coldest quarter usually has the higher variance
+The last HMSC result is how the variance of the environmental variables is distributed in each OTU. The minumum temperature of the coldest quarter usually has the higher variance (see Figure 10.3).
 
 \begin{figure}[htbp]
 \centering
@@ -258,9 +258,6 @@ The pH level was of little relevance, and so was the maximum precipitation, the 
 Variance partitioning for each OTUs of all the environmental values shows how for some variables there is a relevant difference between the OTUs, especially for the random effect (which was associated with the host orchid). Soil nitrogen and the maximum precipitation variable seem to vary the least, which is in line with the correlation plot: they are not good predictors of the kind of OrM that we could find in a place. Potassium and phosphorus have a higher relative variance.
 This variables could therefore be considered the most useful in understanding the distribution of OrM, and may be a good starting point for further niche modelling.
 
-The phylogenetic analysis didn't give significative results. This was likely due to the different methods used to obtain the sequences, as the different primers allowed to polymerize different DNA areas, with only a partial overlap; this, coupled with the different trimming of the sequences done by the authors can explain the poor quality matrix that was so obtained.
-This piece of data would be crucial in properly understanding and framing the ecological evidence.
-
 Do similar OrM taxa occur in similar habitats and have similar environmental preferences? Some taxa do, and in the same family there are shared correlations for environmental variables from the HMSC, while the NMDS analysis shows a narrow ecological niche with shared correlation to environmental variables in some families, e.g. Tulasnellaceae, Ceratobasidiaceae, Theleophoraceae, and a broader niche in others, in particular Russulaceae and Inocybaceae. This seems to be irrespective of the sample size.
 
 The correlation between the OTUs presence is quite robust, so there may be facilitation or competition processes happening between the OrM. Further studies are required to understand what the nature of these processes are, how much the OrM themselves are responsable for it and what is the importance of the orchid host in the process. It is also important to notice that the sampled orchids were of unknown age, likely adult as those are easier to sample. We do know that orchids change preferences for the fungal symbiont through life, and the ones identified in an adult plant are not necessarily those that will allow the seed to germinate ~\citep{meng2019}, making those findings difficult to apply in a conservation plan.
@@ -270,14 +267,7 @@ These kind of studies are important for the understanding and protection of taxa
 \part{Conclusions}
 \label{conclusions}
 
-In this thesis I compiled and analysed an extensive database of mycorrhizal fungi that associate with European orchids. These results show that fungi are generally associated with individual orchid species, but that members of each OrM family often occur in a broad range of ecological conditions. Competitive and facilitative interactions may be common within OrM, and this study provides a platform for future experimental work. The use of hierarchical distribution models in this thesis was a useful instrument to untangle the correlation between the OTUs and the environmental variables, and I have little doubt that in the future more work will be done using these tools.
-
-These kind of studies are of crucial importance for the understanding and protection of species we may not even know yet. Improving the ecosystem is not something we can successfully do without knowing the key elements that allow them to function, and fungi surely are part of this category. These studies are heavily reliant on data, which must be accurate and abundant. Presently there is limited properly georeferenced studies that allow the pinpointing of genetic sequences to places, resulting in gappy databases and in a difficulty reproducing the analysis.
-Furthermore, gathering the data the way I've done is mostly a manual process, with huge cost in terms of time and resources. More transparent analysis with an accessible, standardize and rich metadata structure are of the uttermost importance for a significant progress of knowledge in the understanding of ecology and distribution of OrM ~\citep{powers2019}, and for scientific studies in general.
-
-The understanding of OrM ecology will always be incomplete without a better knowledge of the taxonomy of OrM. We lack an acceptable phylogenetic framework that allows adequate assessment of the phylogenetic relationships between fungal strains. This would need to start from a robust species concept for OrM ~\citep{jacquemyn2017}. Without this knowledge, patterns may emerge from analysis but we can't infer them to groups or use them to shed light on the evolutionary history of the groups.
-
-It is also important to notice that the sampled orchids were of unknown age, likely adult as those are easier to sample. We do know that orchids change preferences for the fungal symbiont through life, and the ones identified in an adult plant are not necessarily those that will allow the seed to germinate ~\citep{meng2019}, making those findings difficult to apply in a conservation plan.
+In this thesis I compiled and analysed an extensive database of mycorrhizal fungi that associate with European orchids. These results show that fungi are generally associated with individual orchid species, but that members of each OrM family often occur in a broad range of ecological conditions. Competitive and facilitative interactions may be common within OrM, and this study provides a platform for future experimental work. The use of hierarchical distribution models in this thesis showed that facilitative interactions between OrM OTUs may be common. These results provide an important first-step for understanding the environmental variables that may explain the distributions of these ecologically important fungi and help improve orchid conservation.
 
 \part{Appendices}
 \label{appendices}
