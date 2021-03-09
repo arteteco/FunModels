@@ -63,7 +63,7 @@
 \begin{document} 
 
 % embed the first page from an external pdf
-\includepdf[pages={1}]{frontespizio.pdf}
+\includepdf[pages={1}]{frontispiece.pdf}
 
 % Old first page
 %\font\calibri=cmr12 at 40pt
