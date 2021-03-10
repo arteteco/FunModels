@@ -15,8 +15,8 @@ data <- read.csv(dataPath)
 
 data <- drop_na(data)
 
-data <- transmute(data,
-                  family = case_when(
+data <- mutate(data,
+                  ormfamily = case_when(
                     family == "cer" ~ "Ceratobasidiaceae",
                     family == "rus" ~ "Russulaceae",
                     family == "ino" ~ "Inocybaceae",
@@ -25,13 +25,13 @@ data <- transmute(data,
                     family == "the" ~ "Theleophoraceae",
                     family == "tul" ~ "Tulasnellaceae"))
 
-data
-grp <-data$family
+
+grp <-data$ormfamily
 
 
 # Read in species matrix AND grouping variabl es
 
-data <- select(data, -family)
+data <- select(data, -c(family, ormfamily))
 
 dataMDS <-
   metaMDS(data,
