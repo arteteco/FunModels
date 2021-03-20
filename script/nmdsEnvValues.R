@@ -3,6 +3,7 @@
 
 library(vegan)
 library(tidyverse)
+library(viridis)
 setwd("~/tesi/FunModels/data/misc/")
 dataPath <- "envVarWithFamilies.csv"
 #outPath <- "lump.jpg" # output graph
@@ -61,8 +62,10 @@ seg <- merge(scores, setNames(centroids, c('grp','oNMDS1','oNMDS2')),
 ggplot(scores, aes(x = NMDS1, y = NMDS2, colour = grp)) +
   #geom_segment(data = seg,
   #             mapping = aes(xend = oNMDS1, yend = oNMDS2)) + # add spiders
-  geom_point(data = centroids, size = 4) +                    # add centroids
-  geom_point() +                                              
+#  geom_point(data = centroids, size = 4) +                    # add centroids
+  geom_point() +
+#  scale_color_viridis_c()+
+  theme_minimal()+
   coord_fixed()+                                              
   theme_bw()+ 
   #geom_path(size=1, linetype=1)+
@@ -74,3 +77,4 @@ theme(legend.position="right",legend.text=element_text(size=10),legend.direction
 # adds encircle
 #  geom_path(size=1, linetype=2)
 # annotate("text",x=NMDS.mean$MDS1,y=NMDS.mean$MDS2,label=NMDS.mean$group)
+

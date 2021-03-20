@@ -26,7 +26,7 @@ es.beta = effectiveSize(mpost$Beta)
 
 #extract beta values
 mbeta = getPostEstimate(m1, "Beta")
-mbeta
+
 write.csv(mbeta, file = betaOut)
 
 #a cool way to look at how each environmental variable affects each OMF group 
@@ -60,6 +60,6 @@ mycols = rainbow(nrow(VP$vals))
 par(xpd = T)
 plotVariancePartitioning(hM=m1, VP=VP,cols = mycols, 
                          args.leg=list(bg="white",cex=0.25),
-                         cex.main=0.25, legend.text = NULL, main=NULL)
+                         cex.main=0.25, legend.text = NULL, main=NULL, las=2, xlab="OTU")
 
 ?plotVariancePartitioning()

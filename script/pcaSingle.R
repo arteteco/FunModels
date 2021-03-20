@@ -45,4 +45,4 @@ ggbiplot(pc, obs.scale = 1, var.scale = 1,
   ggtitle("Lumped matrix")
 #dev.off()
 
-loadings(pc)
+pc$rotation
